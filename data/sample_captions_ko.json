@@ -1,0 +1,369 @@
+{
+ "note": "conf_sound.fes sample voices (build_text.decide_caption, 11-08): story = our translation of the story line the sample copies (byte-identical voice file; outer quote brackets dropped like Codex captions); new = Sara / winter-set recordings, local ASR (faster-whisper large-v3) + translation (Claude subagent, kit guide and Codex system-voice tone; linw_sysvoice_026 reuses Codex se_linw_026/027 wording for the part that is the same recording). start = seconds.",
+ "captions": {
+  "X_test_001": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "네에네, 조금만 기다려어"
+    }
+   ],
+   "note": "이야기 음성 XAF_com04_001 (com04:1683)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "Y_test_001": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "힘내쇼, 총각"
+    }
+   ],
+   "note": "이야기 음성 YAF_sar03_001_kai (sar03B:1548)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "karw_sysvoice_026": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "어? 목소리 더 낮추라고?"
+    },
+    {
+     "start": 3.22,
+     "text": "참 나, 어쩔 수 없네. 그럼 이 정도면 어때?"
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 높음(구간 2개). 직접 번역. 첫머리 말버릇은 이야기 번역의 같은 말과 맞춤."
+  },
+  "kuo_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "세츠나 씨는, 이제 이 섬에는 익숙해지셨나요?"
+    }
+   ],
+   "note": "이야기 음성 KUO_com03_004 (com03B:1228)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "kuo_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "여자아이는 누구나 외로움을 타는 법이랍니다"
+    }
+   ],
+   "note": "이야기 음성 KUO_kar02_013 (kar02:647)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "linw_sysvoice_026": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "모르모트는 더위나 추위나 배고픔 같은 스트레스에 약해서,"
+    },
+    {
+     "start": 3.91,
+     "text": "특히 밖에서 키울 땐 조심해야 하는데,"
+    },
+    {
+     "start": 7.68,
+     "text": "수명은 5년에서 10년 정도로 꽤 길고, 번식력도 강해서,"
+    },
+    {
+     "start": 11.52,
+     "text": "수컷이랑 암컷을 같이 키우면 눈 깜짝할 새에 불어나서 난리가 나!"
+    },
+    {
+     "start": 15.8,
+     "text": "주식은 목초인데, 남은 채소 찌꺼기도 잘 먹어 줘서"
+    },
+    {
+     "start": 20.55,
+     "text": "음식물 쓰레기도 줄어드니 도움이 돼."
+    },
+    {
+     "start": 22.76,
+     "text": "외로움을 잘 타서 사람을 잘 따르지만, 겁도 아주 많거든."
+    },
+    {
+     "start": 27.38,
+     "text": "그러니까 큰 소리를 내거나 갑자기 안아 들면 안 돼."
+    },
+    {
+     "start": 30.62,
+     "text": "다들 귀엽지만 털의 차이에 따라 품종이 아주 많아."
+    },
+    {
+     "start": 35.06,
+     "text": "유명한 건 윤기 나는 잉글리시, 푹신한 곱슬털의 아비시니안,"
+    },
+    {
+     "start": 40.38,
+     "text": "인형 같은 테디, 털이 긴 셸티,"
+    },
+    {
+     "start": 43.92,
+     "text": "머리 가마가 멋진 크레스티드 같은 품종이야."
+    },
+    {
+     "start": 46.84,
+     "text": "아, 털이 없는 스키니도 귀엽지. 그 밖에도…"
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 높음. 앞 15.6초는 직접 번역(동물 이름은 이야기 번역 표기와 맞춤). 15.8초부터는 코덱스 se_linw_026/027 과 같은 말이라 그 한국어를 그대로 씀. ASR 마지막 구간(클립 끝 뒤까지 이어진 상투 인사, 무음 확률 0.92, 그 자리에 소리 없음)은 환청이라 뺌. 구간 안 나눔은 일본어 길이 비례."
+  },
+  "linw_sysvoice_027": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "또 같이 수다 떨 수 있겠네."
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 높음. 직접 번역."
+  },
+  "mom_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "뭐 어쩔 수 없죠."
+    },
+    {
+     "start": 3.6,
+     "text": "어쨌든 그 섬에는 귀여운 아가씨들이 잔뜩 있으니까요"
+    }
+   ],
+   "note": "이야기 음성 MOM_sum04_031 (sum04_selC_1:2731)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 두 문장을 실제 쉼 자리에서 나눔(글 길이 비례 추정 근처의 쉼)."
+  },
+  "mom_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "오랜만이에요, 세츠나 씨"
+    }
+   ],
+   "note": "이야기 음성 MOM_kar07_054 (EDMOVIE2_ENDKAR:374)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "mor_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "응? 뭐라고 했누?"
+    }
+   ],
+   "note": "이야기 음성 MOR_lin06_002 (lin06:2350)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "mor_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "응? 누가 날 불렀누?"
+    },
+    {
+     "start": 4.66,
+     "text": "요새 보청기 상태가 안 좋아서 말이지……"
+    }
+   ],
+   "note": "이야기 음성 MOR_sar03_001 (sar03_selB_1:411)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 두 문장을 실제 쉼 자리에서 나눔(글 길이 비례 추정 근처의 쉼)."
+  },
+  "neh_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "참 나, 요즘 젊은것들은 한심하구만."
+    },
+    {
+     "start": 4.0,
+     "text": "맥주도 못 마시다니 원"
+    }
+   ],
+   "note": "이야기 음성 NEH_win01_048 (win01C:1892)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 두 문장을 실제 쉼 자리에서 나눔(글 길이 비례 추정 근처의 쉼)."
+  },
+  "neh_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "……쿨쿨…… 드르렁 쿨쿨……!"
+    }
+   ],
+   "note": "이야기 음성 NEH_win02_048 (win02C:2715)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "sars_sysvoice_025": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "저는 제대로 할 거예요."
+    },
+    {
+     "start": 2.34,
+     "text": "언니랑은 다르게요."
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 높음. 직접 번역. 둘째 줄은 실제 쉼(2.0~2.4초) 뒤."
+  },
+  "sars_sysvoice_026": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "음량을 최대로 올리고 귀를 기울이면,"
+    },
+    {
+     "start": 3.54,
+     "text": "젊은 여자가 쉰 듯한 목소리로"
+    },
+    {
+     "start": 7.44,
+     "text": "「죽여 버리겠어」라고 말한다나 어쩐다나."
+    },
+    {
+     "start": 13.7,
+     "text": "아, 여기예요, 여기!"
+    },
+    {
+     "start": 15.58,
+     "text": "3, 2, 1."
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 높음(구간 2개). 직접 번역. 첫 구간 안의 나눔은 실제 쉼 자리. 숫자 셋 뒤 끝까지 다른 말 없음."
+  },
+  "sars_sysvoice_027": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "그럼 다시 한번 잘 부탁드려요."
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 높음. 이야기 대사(sar03_selB_1:950)와는 다른 문장. 코덱스 se_sarw_026(겨울 사라)과 같은 일본어라 같은 한국어를 씀."
+  },
+  "sarw_sysvoice_025": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "저에게 맡겨 주셰…!"
+    },
+    {
+     "start": 1.84,
+     "text": "혀, 혀가 꼬였어요."
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 중간: 말이 헛나오고 더듬는 뒷부분을 ASR 이 엉뚱한 낱말로 받아 적음. 말실수 개그로 읽고 번역. 둘째 줄은 실제 쉼 뒤."
+  },
+  "sarw_sysvoice_026": {
+   "kind": "new",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "네, 이걸로 청력 검사는 끝이에요."
+    },
+    {
+     "start": 3.38,
+     "text": "최대 음량에서도 안 들린 분은"
+    },
+    {
+     "start": 6.0,
+     "text": "나중에 모리스 기념 병원에서 재검사를 받아 주세요."
+    }
+   ],
+   "note": "새 녹음, ASR 신뢰 높음. 직접 번역. 병원 이름은 이야기 번역(win03:746) 표기. 나눔은 실제 쉼 자리."
+  },
+  "sub_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "만나서 반가워."
+    },
+    {
+     "start": 1.86,
+     "text": "난 쿠루츠 스바루――라고, 이미 들었으려나?"
+    }
+   ],
+   "note": "이야기 음성 SUB_lin04_005 (lin04B:2366)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 두 문장을 실제 쉼 자리에서 나눔(글 길이 비례 추정 근처의 쉼)."
+  },
+  "sub_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "아무래도 별 의미는 없었던 모양이더군"
+    }
+   ],
+   "note": "이야기 음성 SUB_kar06_020 (kar06:3330)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "tyo_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "……흥, 혼자 실컷 짖어대거라"
+    }
+   ],
+   "note": "이야기 음성 TYO_kar07_005 (kar07:161)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "tyo_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "……알았다, 좋을 대로 해라"
+    }
+   ],
+   "note": "이야기 음성 TYO_kar07_026 (kar07:730)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "tyu_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "자, 슬슬 고개 들고."
+    },
+    {
+     "start": 2.34,
+     "text": "조서를 작성해야 하니까"
+    }
+   ],
+   "note": "이야기 음성 TYU_kar01_002 (kar01_selA_1:2436)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 두 문장을 실제 쉼 자리에서 나눔(글 길이 비례 추정 근처의 쉼)."
+  },
+  "tyu_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "……연봉이라면 지금은 500만 정도 되는데?"
+    }
+   ],
+   "note": "이야기 음성 TYU_kar04_028 (kar04B:854)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "ura_sysvoice_026": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "저, 코스프레라는 걸 한 번쯤 해보고 싶었거든요"
+    }
+   ],
+   "note": "이야기 음성 URA_sum02_004 (sum02B:1486)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  },
+  "ura_sysvoice_027": {
+   "kind": "story",
+   "cues": [
+    {
+     "start": 0.0,
+     "text": "나는 조개…… 나는 조개……"
+    }
+   ],
+   "note": "이야기 음성 URA_sum02_110 (sum02D:1567)과 같은 파일. 우리 한국어 그대로, 바깥 낫표만 뺌. 한 줄."
+  }
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "report": {
+  "kit": {
+   "packets": 487,
+   "from_review": 310,
+   "from_translation": 177,
+   "missing_ko": 0
+  },
+  "problems": {
+   "narrowed_middle_dots": 1201,
+   "japanese_left": 2,
+   "fixed_dot_on_blank": 18
+  },
+  "align_notes": {
+   "com03_selC_ret.cst": [
+    "insert S1553:1553 G1553:1555"
+   ],
+   "EDMOVIE2_ENDKAR.cst": [
+    "insert S1227:1227 G1227:1229"
+   ],
+   "EDMOVIE3_END.cst": [
+    "insert S328:328 G328:330"
+   ],
+   "EDMOVIE_ENDLIN.cst": [
+    "insert S1967:1967 G1967:1969"
+   ],
+   "EDMOVIE_ENDSAR.cst": [
+    "insert S1:1 G1:3"
+   ],
+   "lin02B.cst": [
+    "delete S153:154 G153:153"
+   ],
+   "lin03.cst": [
+    "delete S3901:3903 G3901:3901"
+   ],
+   "lin03_selA_1.cst": [
+    "delete S34:35 G34:34"
+   ],
+   "lin03_selC_ret.cst": [
+    "delete S3070:3072 G3070:3070",
+    "insert S4098:4098 G4096:4098"
+   ],
+   "lin06B.cst": [
+    "replace S755:757 G755:756",
+    "replace S760:761 G759:761"
+   ],
+   "sar03_selB_1.cst": [
+    "insert S1767:1767 G1767:1769"
+   ],
+   "sar04.cst": [
+    "insert S772:772 G772:773",
+    "delete S775:776 G776:776"
+   ],
+   "sum02D.cst": [
+    "insert S3387:3387 G3387:3389"
+   ],
+   "win01B.cst": [
+    "delete S808:809 G808:808"
+   ],
+   "win02.cst": [
+    "delete S86:87 G86:86"
+   ],
+   "win02D.cst": [
+    "insert S3448:3448 G3448:3450"
+   ]
+  },
+  "dropped": [
+   "scene.int::lin02B.cst::line_00153",
+   "scene.int::lin03.cst::line_03901",
+   "scene.int::lin03_selA_1.cst::line_00034",
+   "scene.int::lin03_selC_ret.cst::line_03070",
+   "scene.int::win01B.cst::line_00808"
+  ],
+  "gog_left": {},
+  "extra_used": 9,
+  "same_as_steam": 28,
+  "override_used": 1,
+  "scene": {
+   "files_changed": 271,
+   "replaced_by_type": {
+    "0x20": 43404,
+    "0x21": 21938,
+    "0x30": 116
+   },
+   "word_wrap_breaks": 10886,
+   "dropped_kit_entries": 5,
+   "gog_only_lines_left": 0,
+   "untouched_same_as_steam": 28,
+   "gog_only_translated": 9,
+   "merged_line_overrides": 1,
+   "choice_japanese_notes": 2,
+   "rinne": {
+    "dotted_text_lines": 682,
+    "dotted_pairs": 699,
+    "left_in_ruby": 20,
+    "coloured_choice_options": 3,
+    "name_labels_unmarked": 1678,
+    "planned_but_dropped_in_gog": 1,
+    "plan": {
+     "choice_lines": 3,
+     "table_lines": 52,
+     "text_lines": 688,
+     "table_marked_lines": 12,
+     "name_lines": 1679,
+     "text_without_korean_name": 2,
+     "table_entries_not_in_pc_kit": 1
+    }
+   },
+   "readback_mismatch": 0,
+   "bytes": 2280384
+  },
+  "rinne_vs_english": {
+   "type32 / - / accent / coloured": 3,
+   "type32 / - / accent / plain": 39,
+   "type32 / - / plain / plain": 112,
+   "type32 / kanji / - / plain": 242,
+   "type32 / kanji / plain / plain": 1236,
+   "type32 / kata / - / coloured": 72,
+   "type32 / kata / accent / coloured": 614,
+   "type32 / kata / accent / plain": 2,
+   "type32 / kata / plain / coloured": 2,
+   "type32 / katakanji / accent / coloured": 1,
+   "type32 / katakanji / accent / plain": 2,
+   "type32 / katakanji / accentplain / coloured": 6,
+   "type32 / katakanji / accentplain / plain": 4,
+   "type32 / katakanji / plain / plain": 4,
+   "type33 / - / accent / plain": 1,
+   "type33 / - / plain / plain": 1,
+   "type33 / kanji / plain / plain": 2517,
+   "type33 / kata / accent / coloured": 1678,
+   "type48 / kanji / plain / plain": 6,
+   "type48 / kata / - / coloured": 2,
+   "type48 / kata / plain / coloured": 1
+  }
+ },
+ "problem_ids": {
+  "japanese_left": [
+   "scene.int::com04B.cst::line_00601",
+   "scene.int::win01B.cst::line_02500"
+  ]
+ }
+}

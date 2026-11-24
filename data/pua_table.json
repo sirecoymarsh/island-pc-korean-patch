@@ -1,0 +1,8785 @@
+{
+ "format": "island-steam-ko-donor-v2",
+ "note": "char -> CP932 code of an unused kanji; the Korean-mode font maps that kanji to the char's glyph",
+ "count": 1463,
+ "entries": [
+  {
+   "char": "·",
+   "unicode": "U+00B7",
+   "cp932": "88a1",
+   "slot": "U+5A03"
+  },
+  {
+   "char": "ㄴ",
+   "unicode": "U+3134",
+   "cp932": "88a6",
+   "slot": "U+59F6"
+  },
+  {
+   "char": "가",
+   "unicode": "U+AC00",
+   "cp932": "88a7",
+   "slot": "U+9022"
+  },
+  {
+   "char": "각",
+   "unicode": "U+AC01",
+   "cp932": "88a8",
+   "slot": "U+8475"
+  },
+  {
+   "char": "간",
+   "unicode": "U+AC04",
+   "cp932": "88aa",
+   "slot": "U+7A50"
+  },
+  {
+   "char": "갇",
+   "unicode": "U+AC07",
+   "cp932": "88ad",
+   "slot": "U+6E25"
+  },
+  {
+   "char": "갈",
+   "unicode": "U+AC08",
+   "cp932": "88ae",
+   "slot": "U+65ED"
+  },
+  {
+   "char": "갉",
+   "unicode": "U+AC09",
+   "cp932": "88af",
+   "slot": "U+8466"
+  },
+  {
+   "char": "감",
+   "unicode": "U+AC10",
+   "cp932": "88b0",
+   "slot": "U+82A6"
+  },
+  {
+   "char": "갑",
+   "unicode": "U+AC11",
+   "cp932": "88b1",
+   "slot": "U+9BF5"
+  },
+  {
+   "char": "값",
+   "unicode": "U+AC12",
+   "cp932": "88b2",
+   "slot": "U+6893"
+  },
+  {
+   "char": "갓",
+   "unicode": "U+AC13",
+   "cp932": "88b7",
+   "slot": "U+59D0"
+  },
+  {
+   "char": "갔",
+   "unicode": "U+AC14",
+   "cp932": "88b8",
+   "slot": "U+867B"
+  },
+  {
+   "char": "강",
+   "unicode": "U+AC15",
+   "cp932": "88b9",
+   "slot": "U+98F4"
+  },
+  {
+   "char": "갖",
+   "unicode": "U+AC16",
+   "cp932": "88ba",
+   "slot": "U+7D62"
+  },
+  {
+   "char": "갗",
+   "unicode": "U+AC17",
+   "cp932": "88bc",
+   "slot": "U+9B8E"
+  },
+  {
+   "char": "같",
+   "unicode": "U+AC19",
+   "cp932": "88bd",
+   "slot": "U+6216"
+  },
+  {
+   "char": "갚",
+   "unicode": "U+AC1A",
+   "cp932": "88be",
+   "slot": "U+7C9F"
+  },
+  {
+   "char": "갛",
+   "unicode": "U+AC1B",
+   "cp932": "88bf",
+   "slot": "U+88B7"
+  },
+  {
+   "char": "개",
+   "unicode": "U+AC1C",
+   "cp932": "88c1",
+   "slot": "U+5EB5"
+  },
+  {
+   "char": "객",
+   "unicode": "U+AC1D",
+   "cp932": "88c2",
+   "slot": "U+6309"
+  },
+  {
+   "char": "갠",
+   "unicode": "U+AC20",
+   "cp932": "88c6",
+   "slot": "U+978D"
+  },
+  {
+   "char": "갯",
+   "unicode": "U+AC2F",
+   "cp932": "88c7",
+   "slot": "U+674F"
+  },
+  {
+   "char": "갱",
+   "unicode": "U+AC31",
+   "cp932": "88c9",
+   "slot": "U+4F0A"
+  },
+  {
+   "char": "갸",
+   "unicode": "U+AC38",
+   "cp932": "88ce",
+   "slot": "U+5937"
+  },
+  {
+   "char": "걀",
+   "unicode": "U+AC40",
+   "cp932": "88d1",
+   "slot": "U+5C09"
+  },
+  {
+   "char": "걔",
+   "unicode": "U+AC54",
+   "cp932": "88d2",
+   "slot": "U+60DF"
+  },
+  {
+   "char": "걘",
+   "unicode": "U+AC58",
+   "cp932": "88e5",
+   "slot": "U+4EA5"
+  },
+  {
+   "char": "걜",
+   "unicode": "U+AC5C",
+   "cp932": "88e8",
+   "slot": "U+90C1"
+  },
+  {
+   "char": "거",
+   "unicode": "U+AC70",
+   "cp932": "88eb",
+   "slot": "U+58F1"
+  },
+  {
+   "char": "걱",
+   "unicode": "U+AC71",
+   "cp932": "88ee",
+   "slot": "U+7A32"
+  },
+  {
+   "char": "건",
+   "unicode": "U+AC74",
+   "cp932": "88ef",
+   "slot": "U+8328"
+  },
+  {
+   "char": "걷",
+   "unicode": "U+AC77",
+   "cp932": "88f1",
+   "slot": "U+9C2F"
+  },
+  {
+   "char": "걸",
+   "unicode": "U+AC78",
+   "cp932": "88f2",
+   "slot": "U+5141"
+  },
+  {
+   "char": "검",
+   "unicode": "U+AC80",
+   "cp932": "88fb",
+   "slot": "U+80E4"
+  },
+  {
+   "char": "겁",
+   "unicode": "U+AC81",
+   "cp932": "88fc",
+   "slot": "U+852D"
+  },
+  {
+   "char": "것",
+   "unicode": "U+AC83",
+   "cp932": "8944",
+   "slot": "U+540B"
+  },
+  {
+   "char": "겉",
+   "unicode": "U+AC89",
+   "cp932": "8947",
+   "slot": "U+70CF"
+  },
+  {
+   "char": "겊",
+   "unicode": "U+AC8A",
+   "cp932": "894b",
+   "slot": "U+536F"
+  },
+  {
+   "char": "게",
+   "unicode": "U+AC8C",
+   "cp932": "894f",
+   "slot": "U+7893"
+  },
+  {
+   "char": "겍",
+   "unicode": "U+AC8D",
+   "cp932": "8950",
+   "slot": "U+81FC"
+  },
+  {
+   "char": "겐",
+   "unicode": "U+AC90",
+   "cp932": "8954",
+   "slot": "U+6B1D"
+  },
+  {
+   "char": "겟",
+   "unicode": "U+AC9F",
+   "cp932": "8955",
+   "slot": "U+851A"
+  },
+  {
+   "char": "겠",
+   "unicode": "U+ACA0",
+   "cp932": "8956",
+   "slot": "U+9C3B"
+  },
+  {
+   "char": "겨",
+   "unicode": "U+ACA8",
+   "cp932": "8957",
+   "slot": "U+59E5"
+  },
+  {
+   "char": "격",
+   "unicode": "U+ACA9",
+   "cp932": "8958",
+   "slot": "U+53A9"
+  },
+  {
+   "char": "겪",
+   "unicode": "U+ACAA",
+   "cp932": "8962",
+   "slot": "U+53E1"
+  },
+  {
+   "char": "견",
+   "unicode": "U+ACAC",
+   "cp932": "8964",
+   "slot": "U+5B30"
+  },
+  {
+   "char": "결",
+   "unicode": "U+ACB0",
+   "cp932": "8967",
+   "slot": "U+66F3"
+  },
+  {
+   "char": "겸",
+   "unicode": "U+ACB8",
+   "cp932": "896c",
+   "slot": "U+745B"
+  },
+  {
+   "char": "겹",
+   "unicode": "U+ACB9",
+   "cp932": "896d",
+   "slot": "U+76C8"
+  },
+  {
+   "char": "겼",
+   "unicode": "U+ACBC",
+   "cp932": "896e",
+   "slot": "U+7A4E"
+  },
+  {
+   "char": "경",
+   "unicode": "U+ACBD",
+   "cp932": "896f",
+   "slot": "U+9834"
+  },
+  {
+   "char": "곁",
+   "unicode": "U+ACC1",
+   "cp932": "8981",
+   "slot": "U+5830"
+  },
+  {
+   "char": "계",
+   "unicode": "U+ACC4",
+   "cp932": "8982",
+   "slot": "U+5944"
+  },
+  {
+   "char": "곗",
+   "unicode": "U+ACD7",
+   "cp932": "8985",
+   "slot": "U+6028"
+  },
+  {
+   "char": "고",
+   "unicode": "U+ACE0",
+   "cp932": "8986",
+   "slot": "U+63A9"
+  },
+  {
+   "char": "곡",
+   "unicode": "U+ACE1",
+   "cp932": "898b",
+   "slot": "U+7114"
+  },
+  {
+   "char": "곤",
+   "unicode": "U+ACE4",
+   "cp932": "898d",
+   "slot": "U+71D5"
+  },
+  {
+   "char": "곧",
+   "unicode": "U+ACE7",
+   "cp932": "898e",
+   "slot": "U+733F"
+  },
+  {
+   "char": "골",
+   "unicode": "U+ACE8",
+   "cp932": "8991",
+   "slot": "U+82D1"
+  },
+  {
+   "char": "곯",
+   "unicode": "U+ACEF",
+   "cp932": "8992",
+   "slot": "U+8597"
+  },
+  {
+   "char": "곰",
+   "unicode": "U+ACF0",
+   "cp932": "8995",
+   "slot": "U+9D1B"
+  },
+  {
+   "char": "곱",
+   "unicode": "U+ACF1",
+   "cp932": "8997",
+   "slot": "U+65BC"
+  },
+  {
+   "char": "곳",
+   "unicode": "U+ACF3",
+   "cp932": "8999",
+   "slot": "U+7525"
+  },
+  {
+   "char": "공",
+   "unicode": "U+ACF5",
+   "cp932": "899a",
+   "slot": "U+51F9"
+  },
+  {
+   "char": "곶",
+   "unicode": "U+ACF6",
+   "cp932": "89a5",
+   "slot": "U+7FC1"
+  },
+  {
+   "char": "과",
+   "unicode": "U+ACFC",
+   "cp932": "89a6",
+   "slot": "U+8956"
+  },
+  {
+   "char": "곽",
+   "unicode": "U+ACFD",
+   "cp932": "89a7",
+   "slot": "U+9D2C"
+  },
+  {
+   "char": "관",
+   "unicode": "U+AD00",
+   "cp932": "89a8",
+   "slot": "U+9D0E"
+  },
+  {
+   "char": "광",
+   "unicode": "U+AD11",
+   "cp932": "89ac",
+   "slot": "U+837B"
+  },
+  {
+   "char": "괘",
+   "unicode": "U+AD18",
+   "cp932": "89b2",
+   "slot": "U+7261"
+  },
+  {
+   "char": "괜",
+   "unicode": "U+AD1C",
+   "cp932": "89b5",
+   "slot": "U+5378"
+  },
+  {
+   "char": "괴",
+   "unicode": "U+AD34",
+   "cp932": "89c0",
+   "slot": "U+4F73"
+  },
+  {
+   "char": "괸",
+   "unicode": "U+AD38",
+   "cp932": "89c3",
+   "slot": "U+5609"
+  },
+  {
+   "char": "굉",
+   "unicode": "U+AD49",
+   "cp932": "89c7",
+   "slot": "U+5BE1"
+  },
+  {
+   "char": "교",
+   "unicode": "U+AD50",
+   "cp932": "89cf",
+   "slot": "U+73C2"
+  },
+  {
+   "char": "구",
+   "unicode": "U+AD6C",
+   "cp932": "89d1",
+   "slot": "U+79BE"
+  },
+  {
+   "char": "국",
+   "unicode": "U+AD6D",
+   "cp932": "89d6",
+   "slot": "U+8304"
+  },
+  {
+   "char": "군",
+   "unicode": "U+AD70",
+   "cp932": "89da",
+   "slot": "U+8766"
+  },
+  {
+   "char": "굳",
+   "unicode": "U+AD73",
+   "cp932": "89e2",
+   "slot": "U+4FC4"
+  },
+  {
+   "char": "굴",
+   "unicode": "U+AD74",
+   "cp932": "89e3",
+   "slot": "U+5CE8"
+  },
+  {
+   "char": "굵",
+   "unicode": "U+AD75",
+   "cp932": "89e7",
+   "slot": "U+81E5"
+  },
+  {
+   "char": "굶",
+   "unicode": "U+AD76",
+   "cp932": "89e9",
+   "slot": "U+86FE"
+  },
+  {
+   "char": "굼",
+   "unicode": "U+AD7C",
+   "cp932": "89ea",
+   "slot": "U+8CC0"
+  },
+  {
+   "char": "굽",
+   "unicode": "U+AD7D",
+   "cp932": "89ec",
+   "slot": "U+9913"
+  },
+  {
+   "char": "굿",
+   "unicode": "U+AD7F",
+   "cp932": "89f8",
+   "slot": "U+6062"
+  },
+  {
+   "char": "궁",
+   "unicode": "U+AD81",
+   "cp932": "8a41",
+   "slot": "U+6666"
+  },
+  {
+   "char": "궂",
+   "unicode": "U+AD82",
+   "cp932": "8a48",
+   "slot": "U+82A5"
+  },
+  {
+   "char": "권",
+   "unicode": "U+AD8C",
+   "cp932": "8a4d",
+   "slot": "U+51F1"
+  },
+  {
+   "char": "궤",
+   "unicode": "U+ADA4",
+   "cp932": "8a4e",
+   "slot": "U+52BE"
+  },
+  {
+   "char": "귀",
+   "unicode": "U+ADC0",
+   "cp932": "8a59",
+   "slot": "U+8A72"
+  },
+  {
+   "char": "귄",
+   "unicode": "U+ADC4",
+   "cp932": "8a5a",
+   "slot": "U+93A7"
+  },
+  {
+   "char": "귈",
+   "unicode": "U+ADC8",
+   "cp932": "8a61",
+   "slot": "U+86CE"
+  },
+  {
+   "char": "귓",
+   "unicode": "U+ADD3",
+   "cp932": "8a62",
+   "slot": "U+920E"
+  },
+  {
+   "char": "규",
+   "unicode": "U+ADDC",
+   "cp932": "8a63",
+   "slot": "U+5283"
+  },
+  {
+   "char": "균",
+   "unicode": "U+ADE0",
+   "cp932": "8a66",
+   "slot": "U+5ED3"
+  },
+  {
+   "char": "귤",
+   "unicode": "U+ADE4",
+   "cp932": "8a71",
+   "slot": "U+8D6B"
+  },
+  {
+   "char": "그",
+   "unicode": "U+ADF8",
+   "cp932": "8a73",
+   "slot": "U+90ED"
+  },
+  {
+   "char": "극",
+   "unicode": "U+ADF9",
+   "cp932": "8a74",
+   "slot": "U+95A3"
+  },
+  {
+   "char": "근",
+   "unicode": "U+ADFC",
+   "cp932": "8a78",
+   "slot": "U+5CB3"
+  },
+  {
+   "char": "글",
+   "unicode": "U+AE00",
+   "cp932": "8a80",
+   "slot": "U+6A7F"
+  },
+  {
+   "char": "긁",
+   "unicode": "U+AE01",
+   "cp932": "8a81",
+   "slot": "U+68B6"
+  },
+  {
+   "char": "금",
+   "unicode": "U+AE08",
+   "cp932": "8a82",
+   "slot": "U+9C0D"
+  },
+  {
+   "char": "급",
+   "unicode": "U+AE09",
+   "cp932": "8a83",
+   "slot": "U+6F5F"
+  },
+  {
+   "char": "긋",
+   "unicode": "U+AE0B",
+   "cp932": "8a86",
+   "slot": "U+6070"
+  },
+  {
+   "char": "긍",
+   "unicode": "U+AE0D",
+   "cp932": "8a87",
+   "slot": "U+62EC"
+  },
+  {
+   "char": "기",
+   "unicode": "U+AE30",
+   "cp932": "8a8c",
+   "slot": "U+8910"
+  },
+  {
+   "char": "긴",
+   "unicode": "U+AE34",
+   "cp932": "8a8e",
+   "slot": "U+4E14"
+  },
+  {
+   "char": "길",
+   "unicode": "U+AE38",
+   "cp932": "8a8f",
+   "slot": "U+9C39"
+  },
+  {
+   "char": "김",
+   "unicode": "U+AE40",
+   "cp932": "8a91",
+   "slot": "U+691B"
+  },
+  {
+   "char": "깁",
+   "unicode": "U+AE41",
+   "cp932": "8a92",
+   "slot": "U+6A3A"
+  },
+  {
+   "char": "깃",
+   "unicode": "U+AE43",
+   "cp932": "8a95",
+   "slot": "U+515C"
+  },
+  {
+   "char": "깊",
+   "unicode": "U+AE4A",
+   "cp932": "8a96",
+   "slot": "U+7AC3"
+  },
+  {
+   "char": "까",
+   "unicode": "U+AE4C",
+   "cp932": "8a97",
+   "slot": "U+84B2"
+  },
+  {
+   "char": "깍",
+   "unicode": "U+AE4D",
+   "cp932": "8a98",
+   "slot": "U+91DC"
+  },
+  {
+   "char": "깎",
+   "unicode": "U+AE4E",
+   "cp932": "8a9b",
+   "slot": "U+9D28"
+  },
+  {
+   "char": "깐",
+   "unicode": "U+AE50",
+   "cp932": "8a9c",
+   "slot": "U+6822"
+  },
+  {
+   "char": "깔",
+   "unicode": "U+AE54",
+   "cp932": "8a9d",
+   "slot": "U+8305"
+  },
+  {
+   "char": "깜",
+   "unicode": "U+AE5C",
+   "cp932": "8a9e",
+   "slot": "U+8431"
+  },
+  {
+   "char": "깝",
+   "unicode": "U+AE5D",
+   "cp932": "8a9f",
+   "slot": "U+7CA5"
+  },
+  {
+   "char": "깟",
+   "unicode": "U+AE5F",
+   "cp932": "8aa0",
+   "slot": "U+5208"
+  },
+  {
+   "char": "깡",
+   "unicode": "U+AE61",
+   "cp932": "8aa1",
+   "slot": "U+82C5"
+  },
+  {
+   "char": "깥",
+   "unicode": "U+AE65",
+   "cp932": "8aa4",
+   "slot": "U+4F83"
+  },
+  {
+   "char": "깨",
+   "unicode": "U+AE68",
+   "cp932": "8aba",
+   "slot": "U+6853"
+  },
+  {
+   "char": "깬",
+   "unicode": "U+AE6C",
+   "cp932": "8abc",
+   "slot": "U+6B3E"
+  },
+  {
+   "char": "깰",
+   "unicode": "U+AE70",
+   "cp932": "8ac0",
+   "slot": "U+6F97"
+  },
+  {
+   "char": "깼",
+   "unicode": "U+AE7C",
+   "cp932": "8ac1",
+   "slot": "U+6F45"
+  },
+  {
+   "char": "꺄",
+   "unicode": "U+AE84",
+   "cp932": "8acb",
+   "slot": "U+7FF0"
+  },
+  {
+   "char": "꺅",
+   "unicode": "U+AE85",
+   "cp932": "8ace",
+   "slot": "U+839E"
+  },
+  {
+   "char": "꺼",
+   "unicode": "U+AEBC",
+   "cp932": "8ad0",
+   "slot": "U+8ACC"
+  },
+  {
+   "char": "꺽",
+   "unicode": "U+AEBD",
+   "cp932": "8ad8",
+   "slot": "U+97D3"
+  },
+  {
+   "char": "꺾",
+   "unicode": "U+AEBE",
+   "cp932": "8ada",
+   "slot": "U+8218"
+  },
+  {
+   "char": "껄",
+   "unicode": "U+AEC4",
+   "cp932": "8ade",
+   "slot": "U+5DCC"
+  },
+  {
+   "char": "껌",
+   "unicode": "U+AECC",
+   "cp932": "8ae0",
+   "slot": "U+764C"
+  },
+  {
+   "char": "껍",
+   "unicode": "U+AECD",
+   "cp932": "8ae3",
+   "slot": "U+7FEB"
+  },
+  {
+   "char": "껏",
+   "unicode": "U+AECF",
+   "cp932": "8ae4",
+   "slot": "U+8D0B"
+  },
+  {
+   "char": "껑",
+   "unicode": "U+AED1",
+   "cp932": "8ae5",
+   "slot": "U+96C1"
+  },
+  {
+   "char": "께",
+   "unicode": "U+AED8",
+   "cp932": "8aea",
+   "slot": "U+4F0E"
+  },
+  {
+   "char": "껜",
+   "unicode": "U+AEDC",
+   "cp932": "8afb",
+   "slot": "U+68CB"
+  },
+  {
+   "char": "껴",
+   "unicode": "U+AEF4",
+   "cp932": "8b42",
+   "slot": "U+6BC5"
+  },
+  {
+   "char": "꼈",
+   "unicode": "U+AF08",
+   "cp932": "8b44",
+   "slot": "U+6C7D"
+  },
+  {
+   "char": "꼬",
+   "unicode": "U+AF2C",
+   "cp932": "8b45",
+   "slot": "U+757F"
+  },
+  {
+   "char": "꼭",
+   "unicode": "U+AF2D",
+   "cp932": "8b48",
+   "slot": "U+7A00"
+  },
+  {
+   "char": "꼴",
+   "unicode": "U+AF34",
+   "cp932": "8b4a",
+   "slot": "U+5FBD"
+  },
+  {
+   "char": "꼼",
+   "unicode": "U+AF3C",
+   "cp932": "8b57",
+   "slot": "U+5993"
+  },
+  {
+   "char": "꼽",
+   "unicode": "U+AF3D",
+   "cp932": "8b58",
+   "slot": "U+5B9C"
+  },
+  {
+   "char": "꼿",
+   "unicode": "U+AF3F",
+   "cp932": "8b5f",
+   "slot": "U+7947"
+  },
+  {
+   "char": "꽁",
+   "unicode": "U+AF41",
+   "cp932": "8b62",
+   "slot": "U+8ABC"
+  },
+  {
+   "char": "꽂",
+   "unicode": "U+AF42",
+   "cp932": "8b65",
+   "slot": "U+83CA"
+  },
+  {
+   "char": "꽃",
+   "unicode": "U+AF43",
+   "cp932": "8b66",
+   "slot": "U+97A0"
+  },
+  {
+   "char": "꽈",
+   "unicode": "U+AF48",
+   "cp932": "8b68",
+   "slot": "U+5403"
+  },
+  {
+   "char": "꽉",
+   "unicode": "U+AF49",
+   "cp932": "8b6a",
+   "slot": "U+6854"
+  },
+  {
+   "char": "꽝",
+   "unicode": "U+AF5D",
+   "cp932": "8b6d",
+   "slot": "U+7827"
+  },
+  {
+   "char": "꽤",
+   "unicode": "U+AF64",
+   "cp932": "8b6e",
+   "slot": "U+6775"
+  },
+  {
+   "char": "꾀",
+   "unicode": "U+AF80",
+   "cp932": "8b6f",
+   "slot": "U+9ECD"
+  },
+  {
+   "char": "꾸",
+   "unicode": "U+AFB8",
+   "cp932": "8b84",
+   "slot": "U+7078"
+  },
+  {
+   "char": "꾹",
+   "unicode": "U+AFB9",
+   "cp932": "8b88",
+   "slot": "U+7B08"
+  },
+  {
+   "char": "꾼",
+   "unicode": "U+AFBC",
+   "cp932": "8b94",
+   "slot": "U+6E20"
+  },
+  {
+   "char": "꿀",
+   "unicode": "U+AFC0",
+   "cp932": "8b98",
+   "slot": "U+92F8"
+  },
+  {
+   "char": "꿇",
+   "unicode": "U+AFC7",
+   "cp932": "8b9a",
+   "slot": "U+79A6"
+  },
+  {
+   "char": "꿈",
+   "unicode": "U+AFC8",
+   "cp932": "8b9c",
+   "slot": "U+4EA8"
+  },
+  {
+   "char": "꿉",
+   "unicode": "U+AFC9",
+   "cp932": "8ba0",
+   "slot": "U+4FA0"
+  },
+  {
+   "char": "꿋",
+   "unicode": "U+AFCB",
+   "cp932": "8ba1",
+   "slot": "U+50D1"
+  },
+  {
+   "char": "꿍",
+   "unicode": "U+AFCD",
+   "cp932": "8ba2",
+   "slot": "U+5147"
+  },
+  {
+   "char": "꿎",
+   "unicode": "U+AFCE",
+   "cp932": "8ba7",
+   "slot": "U+5321"
+  },
+  {
+   "char": "꿔",
+   "unicode": "U+AFD4",
+   "cp932": "8baa",
+   "slot": "U+55AC"
+  },
+  {
+   "char": "꿨",
+   "unicode": "U+AFE8",
+   "cp932": "8bac",
+   "slot": "U+5CE1"
+  },
+  {
+   "char": "꿰",
+   "unicode": "U+AFF0",
+   "cp932": "8bae",
+   "slot": "U+5F4A"
+  },
+  {
+   "char": "꿴",
+   "unicode": "U+AFF4",
+   "cp932": "8bbc",
+   "slot": "U+854E"
+  },
+  {
+   "char": "뀌",
+   "unicode": "U+B00C",
+   "cp932": "8bc0",
+   "slot": "U+9957"
+  },
+  {
+   "char": "뀐",
+   "unicode": "U+B010",
+   "cp932": "8bc4",
+   "slot": "U+5C2D"
+  },
+  {
+   "char": "뀔",
+   "unicode": "U+B014",
+   "cp932": "8bc5",
+   "slot": "U+6681"
+  },
+  {
+   "char": "뀝",
+   "unicode": "U+B01D",
+   "cp932": "8bcc",
+   "slot": "U+7C81"
+  },
+  {
+   "char": "끄",
+   "unicode": "U+B044",
+   "cp932": "8bd1",
+   "slot": "U+9326"
+  },
+  {
+   "char": "끈",
+   "unicode": "U+B048",
+   "cp932": "8bd2",
+   "slot": "U+65A4"
+  },
+  {
+   "char": "끊",
+   "unicode": "U+B04A",
+   "cp932": "8bd3",
+   "slot": "U+6B23"
+  },
+  {
+   "char": "끌",
+   "unicode": "U+B04C",
+   "cp932": "8bd4",
+   "slot": "U+6B3D"
+  },
+  {
+   "char": "끓",
+   "unicode": "U+B053",
+   "cp932": "8bd7",
+   "slot": "U+79BD"
+  },
+  {
+   "char": "끔",
+   "unicode": "U+B054",
+   "cp932": "8bda",
+   "slot": "U+82B9"
+  },
+  {
+   "char": "끗",
+   "unicode": "U+B057",
+   "cp932": "8bdc",
+   "slot": "U+887F"
+  },
+  {
+   "char": "끙",
+   "unicode": "U+B059",
+   "cp932": "8be4",
+   "slot": "U+5036"
+  },
+  {
+   "char": "끝",
+   "unicode": "U+B05D",
+   "cp932": "8be7",
+   "slot": "U+72D7"
+  },
+  {
+   "char": "끼",
+   "unicode": "U+B07C",
+   "cp932": "8beb",
+   "slot": "U+8EAF"
+  },
+  {
+   "char": "끽",
+   "unicode": "U+B07D",
+   "cp932": "8bed",
+   "slot": "U+99C8"
+  },
+  {
+   "char": "낀",
+   "unicode": "U+B080",
+   "cp932": "8bee",
+   "slot": "U+99D2"
+  },
+  {
+   "char": "낄",
+   "unicode": "U+B084",
+   "cp932": "8bf1",
+   "slot": "U+865E"
+  },
+  {
+   "char": "낌",
+   "unicode": "U+B08C",
+   "cp932": "8bf2",
+   "slot": "U+55B0"
+  },
+  {
+   "char": "낏",
+   "unicode": "U+B08F",
+   "cp932": "8bf5",
+   "slot": "U+5BD3"
+  },
+  {
+   "char": "나",
+   "unicode": "U+B098",
+   "cp932": "8bf8",
+   "slot": "U+4E32"
+  },
+  {
+   "char": "낙",
+   "unicode": "U+B099",
+   "cp932": "8bf9",
+   "slot": "U+6ADB"
+  },
+  {
+   "char": "낚",
+   "unicode": "U+B09A",
+   "cp932": "8bfa",
+   "slot": "U+91E7"
+  },
+  {
+   "char": "난",
+   "unicode": "U+B09C",
+   "cp932": "8c42",
+   "slot": "U+6C93"
+  },
+  {
+   "char": "날",
+   "unicode": "U+B0A0",
+   "cp932": "8c44",
+   "slot": "U+8F61"
+  },
+  {
+   "char": "낡",
+   "unicode": "U+B0A1",
+   "cp932": "8c45",
+   "slot": "U+7AAA"
+  },
+  {
+   "char": "남",
+   "unicode": "U+B0A8",
+   "cp932": "8c46",
+   "slot": "U+718A"
+  },
+  {
+   "char": "납",
+   "unicode": "U+B0A9",
+   "cp932": "8c48",
+   "slot": "U+7C82"
+  },
+  {
+   "char": "낫",
+   "unicode": "U+B0AB",
+   "cp932": "8c4b",
+   "slot": "U+6851"
+  },
+  {
+   "char": "났",
+   "unicode": "U+B0AC",
+   "cp932": "8c4c",
+   "slot": "U+936C"
+  },
+  {
+   "char": "낭",
+   "unicode": "U+B0AD",
+   "cp932": "8c4f",
+   "slot": "U+85AB"
+  },
+  {
+   "char": "낮",
+   "unicode": "U+B0AE",
+   "cp932": "8c53",
+   "slot": "U+90E1"
+  },
+  {
+   "char": "낯",
+   "unicode": "U+B0AF",
+   "cp932": "8c54",
+   "slot": "U+5366"
+  },
+  {
+   "char": "낱",
+   "unicode": "U+B0B1",
+   "cp932": "8c55",
+   "slot": "U+8888"
+  },
+  {
+   "char": "낳",
+   "unicode": "U+B0B3",
+   "cp932": "8c56",
+   "slot": "U+7941"
+  },
+  {
+   "char": "내",
+   "unicode": "U+B0B4",
+   "cp932": "8c63",
+   "slot": "U+6176"
+  },
+  {
+   "char": "낸",
+   "unicode": "U+B0B8",
+   "cp932": "8c64",
+   "slot": "U+6167"
+  },
+  {
+   "char": "낼",
+   "unicode": "U+B0BC",
+   "cp932": "8c6a",
+   "slot": "U+6842"
+  },
+  {
+   "char": "냄",
+   "unicode": "U+B0C4",
+   "cp932": "8c6b",
+   "slot": "U+6E13"
+  },
+  {
+   "char": "냅",
+   "unicode": "U+B0C5",
+   "cp932": "8c6c",
+   "slot": "U+7566"
+  },
+  {
+   "char": "냈",
+   "unicode": "U+B0C8",
+   "cp932": "8c72",
+   "slot": "U+7F6B"
+  },
+  {
+   "char": "냉",
+   "unicode": "U+B0C9",
+   "cp932": "8c73",
+   "slot": "U+830E"
+  },
+  {
+   "char": "냐",
+   "unicode": "U+B0D0",
+   "cp932": "8c74",
+   "slot": "U+834A"
+  },
+  {
+   "char": "냘",
+   "unicode": "U+B0D8",
+   "cp932": "8c77",
+   "slot": "U+8A63"
+  },
+  {
+   "char": "냠",
+   "unicode": "U+B0E0",
+   "cp932": "8c7a",
+   "slot": "U+981A"
+  },
+  {
+   "char": "냥",
+   "unicode": "U+B0E5",
+   "cp932": "8c81",
+   "slot": "U+621F"
+  },
+  {
+   "char": "너",
+   "unicode": "U+B108",
+   "cp932": "8c86",
+   "slot": "U+5091"
+  },
+  {
+   "char": "넉",
+   "unicode": "U+B109",
+   "cp932": "8c8d",
+   "slot": "U+8A23"
+  },
+  {
+   "char": "넋",
+   "unicode": "U+B10B",
+   "cp932": "8c90",
+   "slot": "U+5039"
+  },
+  {
+   "char": "넌",
+   "unicode": "U+B10C",
+   "cp932": "8c97",
+   "slot": "U+570F"
+  },
+  {
+   "char": "널",
+   "unicode": "U+B110",
+   "cp932": "8c9b",
+   "slot": "U+61B2"
+  },
+  {
+   "char": "넓",
+   "unicode": "U+B113",
+   "cp932": "8c9e",
+   "slot": "U+6372"
+  },
+  {
+   "char": "넘",
+   "unicode": "U+B118",
+   "cp932": "8ca5",
+   "slot": "U+786F"
+  },
+  {
+   "char": "넙",
+   "unicode": "U+B119",
+   "cp932": "8ca6",
+   "slot": "U+7D79"
+  },
+  {
+   "char": "넣",
+   "unicode": "U+B123",
+   "cp932": "8cb2",
+   "slot": "U+9E78"
+  },
+  {
+   "char": "네",
+   "unicode": "U+B124",
+   "cp932": "8cb7",
+   "slot": "U+5F26"
+  },
+  {
+   "char": "넨",
+   "unicode": "U+B128",
+   "cp932": "8cbc",
+   "slot": "U+7D43"
+  },
+  {
+   "char": "넬",
+   "unicode": "U+B12C",
+   "cp932": "8cbd",
+   "slot": "U+8237"
+  },
+  {
+   "char": "넷",
+   "unicode": "U+B137",
+   "cp932": "8cbf",
+   "slot": "U+8AFA"
+  },
+  {
+   "char": "넸",
+   "unicode": "U+B138",
+   "cp932": "8cc1",
+   "slot": "U+4E4E"
+  },
+  {
+   "char": "녀",
+   "unicode": "U+B140",
+   "cp932": "8cd0",
+   "slot": "U+7CCA"
+  },
+  {
+   "char": "녁",
+   "unicode": "U+B141",
+   "cp932": "8cd4",
+   "slot": "U+83F0"
+  },
+  {
+   "char": "년",
+   "unicode": "U+B144",
+   "cp932": "8cd8",
+   "slot": "U+9237"
+  },
+  {
+   "char": "념",
+   "unicode": "U+B150",
+   "cp932": "8cde",
+   "slot": "U+4F0D"
+  },
+  {
+   "char": "녔",
+   "unicode": "U+B154",
+   "cp932": "8ce0",
+   "slot": "U+5449"
+  },
+  {
+   "char": "녕",
+   "unicode": "U+B155",
+   "cp932": "8ce1",
+   "slot": "U+543E"
+  },
+  {
+   "char": "녘",
+   "unicode": "U+B158",
+   "cp932": "8ce6",
+   "slot": "U+68A7"
+  },
+  {
+   "char": "노",
+   "unicode": "U+B178",
+   "cp932": "8ce7",
+   "slot": "U+6A8E"
+  },
+  {
+   "char": "녹",
+   "unicode": "U+B179",
+   "cp932": "8ce8",
+   "slot": "U+745A"
+  },
+  {
+   "char": "논",
+   "unicode": "U+B17C",
+   "cp932": "8ced",
+   "slot": "U+9190"
+  },
+  {
+   "char": "놀",
+   "unicode": "U+B180",
+   "cp932": "8cef",
+   "slot": "U+9BC9"
+  },
+  {
+   "char": "놈",
+   "unicode": "U+B188",
+   "cp932": "8cf1",
+   "slot": "U+4F7C"
+  },
+  {
+   "char": "농",
+   "unicode": "U+B18D",
+   "cp932": "8cf2",
+   "slot": "U+4FAF"
+  },
+  {
+   "char": "높",
+   "unicode": "U+B192",
+   "cp932": "8cf9",
+   "slot": "U+52FE"
+  },
+  {
+   "char": "놓",
+   "unicode": "U+B193",
+   "cp932": "8d46",
+   "slot": "U+5B5D"
+  },
+  {
+   "char": "놔",
+   "unicode": "U+B194",
+   "cp932": "8d47",
+   "slot": "U+5B8F"
+  },
+  {
+   "char": "놨",
+   "unicode": "U+B1A8",
+   "cp932": "8d4d",
+   "slot": "U+5E9A"
+  },
+  {
+   "char": "뇌",
+   "unicode": "U+B1CC",
+   "cp932": "8d4f",
+   "slot": "U+5F18"
+  },
+  {
+   "char": "뇐",
+   "unicode": "U+B1D0",
+   "cp932": "8d50",
+   "slot": "U+6052"
+  },
+  {
+   "char": "뇨",
+   "unicode": "U+B1E8",
+   "cp932": "8d56",
+   "slot": "U+6602"
+  },
+  {
+   "char": "누",
+   "unicode": "U+B204",
+   "cp932": "8d57",
+   "slot": "U+6643"
+  },
+  {
+   "char": "눅",
+   "unicode": "U+B205",
+   "cp932": "8d63",
+   "slot": "U+7687"
+  },
+  {
+   "char": "눈",
+   "unicode": "U+B208",
+   "cp932": "8d65",
+   "slot": "U+7A3F"
+  },
+  {
+   "char": "눌",
+   "unicode": "U+B20C",
+   "cp932": "8d66",
+   "slot": "U+7CE0"
+  },
+  {
+   "char": "눕",
+   "unicode": "U+B215",
+   "cp932": "8d68",
+   "slot": "U+7D18"
+  },
+  {
+   "char": "눠",
+   "unicode": "U+B220",
+   "cp932": "8d6e",
+   "slot": "U+80B1"
+  },
+  {
+   "char": "눴",
+   "unicode": "U+B234",
+   "cp932": "8d77",
+   "slot": "U+8CFC"
+  },
+  {
+   "char": "뉘",
+   "unicode": "U+B258",
+   "cp932": "8d78",
+   "slot": "U+90CA"
+  },
+  {
+   "char": "뉴",
+   "unicode": "U+B274",
+   "cp932": "8d79",
+   "slot": "U+9175"
+  },
+  {
+   "char": "늉",
+   "unicode": "U+B289",
+   "cp932": "8d7a",
+   "slot": "U+9271"
+  },
+  {
+   "char": "느",
+   "unicode": "U+B290",
+   "cp932": "8d83",
+   "slot": "U+9D3B"
+  },
+  {
+   "char": "늑",
+   "unicode": "U+B291",
+   "cp932": "8d84",
+   "slot": "U+525B"
+  },
+  {
+   "char": "는",
+   "unicode": "U+B294",
+   "cp932": "8d88",
+   "slot": "U+58D5"
+  },
+  {
+   "char": "늘",
+   "unicode": "U+B298",
+   "cp932": "8d8a",
+   "slot": "U+6FE0"
+  },
+  {
+   "char": "늙",
+   "unicode": "U+B299",
+   "cp932": "8d8d",
+   "slot": "U+9EB9"
+  },
+  {
+   "char": "늚",
+   "unicode": "U+B29A",
+   "cp932": "8d92",
+   "slot": "U+7A40"
+  },
+  {
+   "char": "늠",
+   "unicode": "U+B2A0",
+   "cp932": "8d94",
+   "slot": "U+9D60"
+  },
+  {
+   "char": "능",
+   "unicode": "U+B2A5",
+   "cp932": "8d97",
+   "slot": "U+6F09"
+  },
+  {
+   "char": "늦",
+   "unicode": "U+B2A6",
+   "cp932": "8d99",
+   "slot": "U+7511"
+  },
+  {
+   "char": "늬",
+   "unicode": "U+B2AC",
+   "cp932": "8d9d",
+   "slot": "U+72DB"
+  },
+  {
+   "char": "니",
+   "unicode": "U+B2C8",
+   "cp932": "8da3",
+   "slot": "U+5764"
+  },
+  {
+   "char": "닉",
+   "unicode": "U+B2C9",
+   "cp932": "8da4",
+   "slot": "U+58BE"
+  },
+  {
+   "char": "닌",
+   "unicode": "U+B2CC",
+   "cp932": "8da9",
+   "slot": "U+6606"
+  },
+  {
+   "char": "닐",
+   "unicode": "U+B2D0",
+   "cp932": "8dab",
+   "slot": "U+68B1"
+  },
+  {
+   "char": "님",
+   "unicode": "U+B2D8",
+   "cp932": "8dae",
+   "slot": "U+7D3A"
+  },
+  {
+   "char": "닙",
+   "unicode": "U+B2D9",
+   "cp932": "8daf",
+   "slot": "U+826E"
+  },
+  {
+   "char": "닝",
+   "unicode": "U+B2DD",
+   "cp932": "8db2",
+   "slot": "U+4F50"
+  },
+  {
+   "char": "다",
+   "unicode": "U+B2E4",
+   "cp932": "8db3",
+   "slot": "U+53C9"
+  },
+  {
+   "char": "닥",
+   "unicode": "U+B2E5",
+   "cp932": "8db5",
+   "slot": "U+5D6F"
+  },
+  {
+   "char": "닦",
+   "unicode": "U+B2E6",
+   "cp932": "8dba",
+   "slot": "U+7473"
+  },
+  {
+   "char": "단",
+   "unicode": "U+B2E8",
+   "cp932": "8dbe",
+   "slot": "U+88DF"
+  },
+  {
+   "char": "닫",
+   "unicode": "U+B2EB",
+   "cp932": "8dc2",
+   "slot": "U+50B5"
+  },
+  {
+   "char": "달",
+   "unicode": "U+B2EC",
+   "cp932": "8dc6",
+   "slot": "U+54C9"
+  },
+  {
+   "char": "닭",
+   "unicode": "U+B2ED",
+   "cp932": "8dc9",
+   "slot": "U+5BB0"
+  },
+  {
+   "char": "닮",
+   "unicode": "U+B2EE",
+   "cp932": "8dd1",
+   "slot": "U+91C7"
+  },
+  {
+   "char": "닳",
+   "unicode": "U+B2F3",
+   "cp932": "8dd2",
+   "slot": "U+7280"
+  },
+  {
+   "char": "담",
+   "unicode": "U+B2F4",
+   "cp932": "8de4",
+   "slot": "U+583A"
+  },
+  {
+   "char": "답",
+   "unicode": "U+B2F5",
+   "cp932": "8de5",
+   "slot": "U+698A"
+  },
+  {
+   "char": "닷",
+   "unicode": "U+B2F7",
+   "cp932": "8de8",
+   "slot": "U+5D0E"
+  },
+  {
+   "char": "당",
+   "unicode": "U+B2F9",
+   "cp932": "8de9",
+   "slot": "U+57FC"
+  },
+  {
+   "char": "닻",
+   "unicode": "U+B2FB",
+   "cp932": "8dea",
+   "slot": "U+7895"
+  },
+  {
+   "char": "닿",
+   "unicode": "U+B2FF",
+   "cp932": "8deb",
+   "slot": "U+9DFA"
+  },
+  {
+   "char": "대",
+   "unicode": "U+B300",
+   "cp932": "8dee",
+   "slot": "U+548B"
+  },
+  {
+   "char": "댁",
+   "unicode": "U+B301",
+   "cp932": "8df1",
+   "slot": "U+6714"
+  },
+  {
+   "char": "댄",
+   "unicode": "U+B304",
+   "cp932": "8df8",
+   "slot": "U+9BAD"
+  },
+  {
+   "char": "댈",
+   "unicode": "U+B308",
+   "cp932": "8df9",
+   "slot": "U+7B39"
+  },
+  {
+   "char": "댐",
+   "unicode": "U+B310",
+   "cp932": "8dfa",
+   "slot": "U+5319"
+  },
+  {
+   "char": "댓",
+   "unicode": "U+B313",
+   "cp932": "8e46",
+   "slot": "U+85A9"
+  },
+  {
+   "char": "댔",
+   "unicode": "U+B314",
+   "cp932": "8e48",
+   "slot": "U+7690"
+  },
+  {
+   "char": "댕",
+   "unicode": "U+B315",
+   "cp932": "8e49",
+   "slot": "U+9BD6"
+  },
+  {
+   "char": "더",
+   "unicode": "U+B354",
+   "cp932": "8e4c",
+   "slot": "U+9BAB"
+  },
+  {
+   "char": "덕",
+   "unicode": "U+B355",
+   "cp932": "8e54",
+   "slot": "U+6492"
+  },
+  {
+   "char": "던",
+   "unicode": "U+B358",
+   "cp932": "8e57",
+   "slot": "U+71E6"
+  },
+  {
+   "char": "덜",
+   "unicode": "U+B35C",
+   "cp932": "8e58",
+   "slot": "U+73CA"
+  },
+  {
+   "char": "덟",
+   "unicode": "U+B35F",
+   "cp932": "8e65",
+   "slot": "U+4ED4"
+  },
+  {
+   "char": "덤",
+   "unicode": "U+B364",
+   "cp932": "8e6b",
+   "slot": "U+55E3"
+  },
+  {
+   "char": "덥",
+   "unicode": "U+B365",
+   "cp932": "8e79",
+   "slot": "U+5B5C"
+  },
+  {
+   "char": "덧",
+   "unicode": "U+B367",
+   "cp932": "8e7a",
+   "slot": "U+65AF"
+  },
+  {
+   "char": "덩",
+   "unicode": "U+B369",
+   "cp932": "8e82",
+   "slot": "U+7345"
+  },
+  {
+   "char": "덫",
+   "unicode": "U+B36B",
+   "cp932": "8e83",
+   "slot": "U+7949"
+  },
+  {
+   "char": "덮",
+   "unicode": "U+B36E",
+   "cp932": "8e87",
+   "slot": "U+7D2B"
+  },
+  {
+   "char": "데",
+   "unicode": "U+B370",
+   "cp932": "8e90",
+   "slot": "U+8AEE"
+  },
+  {
+   "char": "덴",
+   "unicode": "U+B374",
+   "cp932": "8e92",
+   "slot": "U+8CDC"
+  },
+  {
+   "char": "델",
+   "unicode": "U+B378",
+   "cp932": "8e93",
+   "slot": "U+96CC"
+  },
+  {
+   "char": "뎅",
+   "unicode": "U+B385",
+   "cp932": "8e9b",
+   "slot": "U+5BFA"
+  },
+  {
+   "char": "뎌",
+   "unicode": "U+B38C",
+   "cp932": "8e9c",
+   "slot": "U+6148"
+  },
+  {
+   "char": "뎠",
+   "unicode": "U+B3A0",
+   "cp932": "8ea0",
+   "slot": "U+6ECB"
+  },
+  {
+   "char": "도",
+   "unicode": "U+B3C4",
+   "cp932": "8ea2",
+   "slot": "U+723E"
+  },
+  {
+   "char": "독",
+   "unicode": "U+B3C5",
+   "cp932": "8ea3",
+   "slot": "U+74BD"
+  },
+  {
+   "char": "돈",
+   "unicode": "U+B3C8",
+   "cp932": "8ea4",
+   "slot": "U+75D4"
+  },
+  {
+   "char": "돋",
+   "unicode": "U+B3CB",
+   "cp932": "8ea7",
+   "slot": "U+800C"
+  },
+  {
+   "char": "돌",
+   "unicode": "U+B3CC",
+   "cp932": "8eaa",
+   "slot": "U+8494"
+  },
+  {
+   "char": "돔",
+   "unicode": "U+B3D4",
+   "cp932": "8eac",
+   "slot": "U+6C50"
+  },
+  {
+   "char": "돕",
+   "unicode": "U+B3D5",
+   "cp932": "8eb0",
+   "slot": "U+9D2B"
+  },
+  {
+   "char": "동",
+   "unicode": "U+B3D9",
+   "cp932": "8eb1",
+   "slot": "U+7AFA"
+  },
+  {
+   "char": "돛",
+   "unicode": "U+B3DB",
+   "cp932": "8eb3",
+   "slot": "U+5B8D"
+  },
+  {
+   "char": "돼",
+   "unicode": "U+B3FC",
+   "cp932": "8ebb",
+   "slot": "U+6089"
+  },
+  {
+   "char": "됐",
+   "unicode": "U+B410",
+   "cp932": "8ec1",
+   "slot": "U+8500"
+  },
+  {
+   "char": "되",
+   "unicode": "U+B418",
+   "cp932": "8ec2",
+   "slot": "U+7BE0"
+  },
+  {
+   "char": "된",
+   "unicode": "U+B41C",
+   "cp932": "8ec3",
+   "slot": "U+5072"
+  },
+  {
+   "char": "될",
+   "unicode": "U+B420",
+   "cp932": "8ec4",
+   "slot": "U+67F4"
+  },
+  {
+   "char": "됨",
+   "unicode": "U+B428",
+   "cp932": "8ec6",
+   "slot": "U+5C61"
+  },
+  {
+   "char": "됩",
+   "unicode": "U+B429",
+   "cp932": "8ec7",
+   "slot": "U+854A"
+  },
+  {
+   "char": "두",
+   "unicode": "U+B450",
+   "cp932": "8ed9",
+   "slot": "U+52FA"
+  },
+  {
+   "char": "둑",
+   "unicode": "U+B451",
+   "cp932": "8edb",
+   "slot": "U+6753"
+  },
+  {
+   "char": "둔",
+   "unicode": "U+B454",
+   "cp932": "8edd",
+   "slot": "U+7235"
+  },
+  {
+   "char": "둘",
+   "unicode": "U+B458",
+   "cp932": "8ee0",
+   "slot": "U+932B"
+  },
+  {
+   "char": "둠",
+   "unicode": "U+B460",
+   "cp932": "8ee9",
+   "slot": "U+6731"
+  },
+  {
+   "char": "둡",
+   "unicode": "U+B461",
+   "cp932": "8eec",
+   "slot": "U+73E0"
+  },
+  {
+   "char": "둥",
+   "unicode": "U+B465",
+   "cp932": "8ef2",
+   "slot": "U+5112"
+  },
+  {
+   "char": "둬",
+   "unicode": "U+B46C",
+   "cp932": "8ef8",
+   "slot": "U+7DAC"
+  },
+  {
+   "char": "뒀",
+   "unicode": "U+B480",
+   "cp932": "8ef9",
+   "slot": "U+9700"
+  },
+  {
+   "char": "뒈",
+   "unicode": "U+B488",
+   "cp932": "8f44",
+   "slot": "U+6101"
+  },
+  {
+   "char": "뒤",
+   "unicode": "U+B4A4",
+   "cp932": "8f46",
+   "slot": "U+6D32"
+  },
+  {
+   "char": "뒷",
+   "unicode": "U+B4B7",
+   "cp932": "8f47",
+   "slot": "U+79C0"
+  },
+  {
+   "char": "뒹",
+   "unicode": "U+B4B9",
+   "cp932": "8f4a",
+   "slot": "U+7E4D"
+  },
+  {
+   "char": "듀",
+   "unicode": "U+B4C0",
+   "cp932": "8f4e",
+   "slot": "U+8490"
+  },
+  {
+   "char": "드",
+   "unicode": "U+B4DC",
+   "cp932": "8f53",
+   "slot": "U+8F2F"
+  },
+  {
+   "char": "득",
+   "unicode": "U+B4DD",
+   "cp932": "8f55",
+   "slot": "U+914B"
+  },
+  {
+   "char": "든",
+   "unicode": "U+B4E0",
+   "cp932": "8f59",
+   "slot": "U+4EC0"
+  },
+  {
+   "char": "듣",
+   "unicode": "U+B4E3",
+   "cp932": "8f66",
+   "slot": "U+53D4"
+  },
+  {
+   "char": "들",
+   "unicode": "U+B4E4",
+   "cp932": "8f67",
+   "slot": "U+5919"
+  },
+  {
+   "char": "듦",
+   "unicode": "U+B4E6",
+   "cp932": "8f69",
+   "slot": "U+6DD1"
+  },
+  {
+   "char": "듬",
+   "unicode": "U+B4EC",
+   "cp932": "8f6d",
+   "slot": "U+587E"
+  },
+  {
+   "char": "듭",
+   "unicode": "U+B4ED",
+   "cp932": "8f72",
+   "slot": "U+4FCA"
+  },
+  {
+   "char": "듯",
+   "unicode": "U+B4EF",
+   "cp932": "8f73",
+   "slot": "U+5CFB"
+  },
+  {
+   "char": "등",
+   "unicode": "U+B4F1",
+   "cp932": "8f76",
+   "slot": "U+7AE3"
+  },
+  {
+   "char": "디",
+   "unicode": "U+B514",
+   "cp932": "8f77",
+   "slot": "U+821C"
+  },
+  {
+   "char": "딘",
+   "unicode": "U+B518",
+   "cp932": "8f78",
+   "slot": "U+99FF"
+  },
+  {
+   "char": "딛",
+   "unicode": "U+B51B",
+   "cp932": "8f79",
+   "slot": "U+51C6"
+  },
+  {
+   "char": "딜",
+   "unicode": "U+B51C",
+   "cp932": "8f85",
+   "slot": "U+9075"
+  },
+  {
+   "char": "딨",
+   "unicode": "U+B528",
+   "cp932": "8f8c",
+   "slot": "U+66D9"
+  },
+  {
+   "char": "딩",
+   "unicode": "U+B529",
+   "cp932": "8f8e",
+   "slot": "U+5EB6"
+  },
+  {
+   "char": "딪",
+   "unicode": "U+B52A",
+   "cp932": "8f92",
+   "slot": "U+85AF"
+  },
+  {
+   "char": "따",
+   "unicode": "U+B530",
+   "cp932": "8f93",
+   "slot": "U+85F7"
+  },
+  {
+   "char": "딱",
+   "unicode": "U+B531",
+   "cp932": "8f96",
+   "slot": "U+53D9"
+  },
+  {
+   "char": "딴",
+   "unicode": "U+B534",
+   "cp932": "8f9a",
+   "slot": "U+6055"
+  },
+  {
+   "char": "딸",
+   "unicode": "U+B538",
+   "cp932": "8f9b",
+   "slot": "U+92E4"
+  },
+  {
+   "char": "땀",
+   "unicode": "U+B540",
+   "cp932": "8fa1",
+   "slot": "U+5347"
+  },
+  {
+   "char": "땄",
+   "unicode": "U+B544",
+   "cp932": "8fa3",
+   "slot": "U+54E8"
+  },
+  {
+   "char": "땅",
+   "unicode": "U+B545",
+   "cp932": "8fa6",
+   "slot": "U+5617"
+  },
+  {
+   "char": "때",
+   "unicode": "U+B54C",
+   "cp932": "8fa7",
+   "slot": "U+5968"
+  },
+  {
+   "char": "땐",
+   "unicode": "U+B550",
+   "cp932": "8fa8",
+   "slot": "U+59BE"
+  },
+  {
+   "char": "땜",
+   "unicode": "U+B55C",
+   "cp932": "8fa9",
+   "slot": "U+5A3C"
+  },
+  {
+   "char": "땠",
+   "unicode": "U+B560",
+   "cp932": "8faa",
+   "slot": "U+5BB5"
+  },
+  {
+   "char": "땡",
+   "unicode": "U+B561",
+   "cp932": "8faf",
+   "slot": "U+5E84"
+  },
+  {
+   "char": "떠",
+   "unicode": "U+B5A0",
+   "cp932": "8fb1",
+   "slot": "U+5EE0"
+  },
+  {
+   "char": "떡",
+   "unicode": "U+B5A1",
+   "cp932": "8fb4",
+   "slot": "U+6284"
+  },
+  {
+   "char": "떤",
+   "unicode": "U+B5A4",
+   "cp932": "8fb6",
+   "slot": "U+638C"
+  },
+  {
+   "char": "떨",
+   "unicode": "U+B5A8",
+   "cp932": "8fb7",
+   "slot": "U+6377"
+  },
+  {
+   "char": "떫",
+   "unicode": "U+B5AB",
+   "cp932": "8fb9",
+   "slot": "U+660C"
+  },
+  {
+   "char": "떳",
+   "unicode": "U+B5B3",
+   "cp932": "8fba",
+   "slot": "U+662D"
+  },
+  {
+   "char": "떴",
+   "unicode": "U+B5B4",
+   "cp932": "8fbd",
+   "slot": "U+68A2"
+  },
+  {
+   "char": "떻",
+   "unicode": "U+B5BB",
+   "cp932": "8fbe",
+   "slot": "U+6A1F"
+  },
+  {
+   "char": "떼",
+   "unicode": "U+B5BC",
+   "cp932": "8fbf",
+   "slot": "U+6A35"
+  },
+  {
+   "char": "뗀",
+   "unicode": "U+B5C0",
+   "cp932": "8fc3",
+   "slot": "U+6E58"
+  },
+  {
+   "char": "뗄",
+   "unicode": "U+B5C4",
+   "cp932": "8fd1",
+   "slot": "U+8096"
+  },
+  {
+   "char": "뗏",
+   "unicode": "U+B5CF",
+   "cp932": "8fd2",
+   "slot": "U+83D6"
+  },
+  {
+   "char": "뗐",
+   "unicode": "U+B5D0",
+   "cp932": "8fd3",
+   "slot": "U+848B"
+  },
+  {
+   "char": "또",
+   "unicode": "U+B610",
+   "cp932": "8fd4",
+   "slot": "U+8549"
+  },
+  {
+   "char": "똑",
+   "unicode": "U+B611",
+   "cp932": "8fd6",
+   "slot": "U+88F3"
+  },
+  {
+   "char": "똔",
+   "unicode": "U+B614",
+   "cp932": "8fd7",
+   "slot": "U+8A1F"
+  },
+  {
+   "char": "똥",
+   "unicode": "U+B625",
+   "cp932": "8fd9",
+   "slot": "U+8A54"
+  },
+  {
+   "char": "뙤",
+   "unicode": "U+B664",
+   "cp932": "8fdd",
+   "slot": "U+91A4"
+  },
+  {
+   "char": "뚜",
+   "unicode": "U+B69C",
+   "cp932": "8fde",
+   "slot": "U+9266"
+  },
+  {
+   "char": "뚝",
+   "unicode": "U+B69D",
+   "cp932": "8fdf",
+   "slot": "U+937E"
+  },
+  {
+   "char": "뚤",
+   "unicode": "U+B6A4",
+   "cp932": "8fe2",
+   "slot": "U+9798"
+  },
+  {
+   "char": "뚫",
+   "unicode": "U+B6AB",
+   "cp932": "8fe5",
+   "slot": "U+4E1E"
+  },
+  {
+   "char": "뚱",
+   "unicode": "U+B6B1",
+   "cp932": "8feb",
+   "slot": "U+58CC"
+  },
+  {
+   "char": "뛰",
+   "unicode": "U+B6F0",
+   "cp932": "8fef",
+   "slot": "U+64FE"
+  },
+  {
+   "char": "뛴",
+   "unicode": "U+B6F4",
+   "cp932": "8ff5",
+   "slot": "U+7A63"
+  },
+  {
+   "char": "뛸",
+   "unicode": "U+B6F8",
+   "cp932": "8ff8",
+   "slot": "U+91B8"
+  },
+  {
+   "char": "뜨",
+   "unicode": "U+B728",
+   "cp932": "8ffa",
+   "slot": "U+5631"
+  },
+  {
+   "char": "뜩",
+   "unicode": "U+B729",
+   "cp932": "8ffb",
+   "slot": "U+57F4"
+  },
+  {
+   "char": "뜬",
+   "unicode": "U+B72C",
+   "cp932": "9043",
+   "slot": "U+71ED"
+  },
+  {
+   "char": "뜯",
+   "unicode": "U+B72F",
+   "cp932": "9057",
+   "slot": "U+664B"
+  },
+  {
+   "char": "뜰",
+   "unicode": "U+B730",
+   "cp932": "9059",
+   "slot": "U+699B"
+  },
+  {
+   "char": "뜸",
+   "unicode": "U+B738",
+   "cp932": "9061",
+   "slot": "U+7D33"
+  },
+  {
+   "char": "뜻",
+   "unicode": "U+B73B",
+   "cp932": "9062",
+   "slot": "U+81E3"
+  },
+  {
+   "char": "띄",
+   "unicode": "U+B744",
+   "cp932": "9070",
+   "slot": "U+58EC"
+  },
+  {
+   "char": "띠",
+   "unicode": "U+B760",
+   "cp932": "9074",
+   "slot": "U+814E"
+  },
+  {
+   "char": "띤",
+   "unicode": "U+B764",
+   "cp932": "9078",
+   "slot": "U+976D"
+  },
+  {
+   "char": "띨",
+   "unicode": "U+B768",
+   "cp932": "9079",
+   "slot": "U+7B25"
+  },
+  {
+   "char": "띵",
+   "unicode": "U+B775",
+   "cp932": "907a",
+   "slot": "U+8ACF"
+  },
+  {
+   "char": "라",
+   "unicode": "U+B77C",
+   "cp932": "9080",
+   "slot": "U+9017"
+  },
+  {
+   "char": "락",
+   "unicode": "U+B77D",
+   "cp932": "9083",
+   "slot": "U+5E25"
+  },
+  {
+   "char": "란",
+   "unicode": "U+B780",
+   "cp932": "9089",
+   "slot": "U+7FE0"
+  },
+  {
+   "char": "랄",
+   "unicode": "U+B784",
+   "cp932": "908e",
+   "slot": "U+9318"
+  },
+  {
+   "char": "람",
+   "unicode": "U+B78C",
+   "cp932": "9090",
+   "slot": "U+745E"
+  },
+  {
+   "char": "랍",
+   "unicode": "U+B78D",
+   "cp932": "9091",
+   "slot": "U+9AC4"
+  },
+  {
+   "char": "랏",
+   "unicode": "U+B78F",
+   "cp932": "9092",
+   "slot": "U+5D07"
+  },
+  {
+   "char": "랐",
+   "unicode": "U+B790",
+   "cp932": "9093",
+   "slot": "U+5D69"
+  },
+  {
+   "char": "랑",
+   "unicode": "U+B791",
+   "cp932": "9096",
+   "slot": "U+8DA8"
+  },
+  {
+   "char": "랗",
+   "unicode": "U+B797",
+   "cp932": "9099",
+   "slot": "U+6749"
+  },
+  {
+   "char": "래",
+   "unicode": "U+B798",
+   "cp932": "909a",
+   "slot": "U+6919"
+  },
+  {
+   "char": "랙",
+   "unicode": "U+B799",
+   "cp932": "909b",
+   "slot": "U+83C5"
+  },
+  {
+   "char": "랜",
+   "unicode": "U+B79C",
+   "cp932": "909c",
+   "slot": "U+9817"
+  },
+  {
+   "char": "램",
+   "unicode": "U+B7A8",
+   "cp932": "909d",
+   "slot": "U+96C0"
+  },
+  {
+   "char": "랩",
+   "unicode": "U+B7A9",
+   "cp932": "90a0",
+   "slot": "U+647A"
+  },
+  {
+   "char": "랫",
+   "unicode": "U+B7AB",
+   "cp932": "90a4",
+   "slot": "U+755D"
+  },
+  {
+   "char": "랬",
+   "unicode": "U+B7AC",
+   "cp932": "90b2",
+   "slot": "U+6816"
+  },
+  {
+   "char": "랭",
+   "unicode": "U+B7AD",
+   "cp932": "90c1",
+   "slot": "U+9192"
+  },
+  {
+   "char": "랴",
+   "unicode": "U+B7B4",
+   "cp932": "90d2",
+   "slot": "U+810A"
+  },
+  {
+   "char": "략",
+   "unicode": "U+B7B5",
+   "cp932": "90d6",
+   "slot": "U+8E5F"
+  },
+  {
+   "char": "량",
+   "unicode": "U+B7C9",
+   "cp932": "90d7",
+   "slot": "U+78A9"
+  },
+  {
+   "char": "러",
+   "unicode": "U+B7EC",
+   "cp932": "90d9",
+   "slot": "U+62D9"
+  },
+  {
+   "char": "럭",
+   "unicode": "U+B7ED",
+   "cp932": "90e5",
+   "slot": "U+4ED9"
+  },
+  {
+   "char": "런",
+   "unicode": "U+B7F0",
+   "cp932": "90ef",
+   "slot": "U+64B0"
+  },
+  {
+   "char": "럴",
+   "unicode": "U+B7F4",
+   "cp932": "90f1",
+   "slot": "U+6834"
+  },
+  {
+   "char": "럼",
+   "unicode": "U+B7FC",
+   "cp932": "90fb",
+   "slot": "U+7BAD"
+  },
+  {
+   "char": "럽",
+   "unicode": "U+B7FD",
+   "cp932": "9142",
+   "slot": "U+817A"
+  },
+  {
+   "char": "럿",
+   "unicode": "U+B7FF",
+   "cp932": "9143",
+   "slot": "U+821B"
+  },
+  {
+   "char": "렀",
+   "unicode": "U+B800",
+   "cp932": "914a",
+   "slot": "U+9077"
+  },
+  {
+   "char": "렁",
+   "unicode": "U+B801",
+   "cp932": "914c",
+   "slot": "U+9291"
+  },
+  {
+   "char": "렇",
+   "unicode": "U+B807",
+   "cp932": "9151",
+   "slot": "U+6F38"
+  },
+  {
+   "char": "레",
+   "unicode": "U+B808",
+   "cp932": "9154",
+   "slot": "U+7985"
+  },
+  {
+   "char": "렉",
+   "unicode": "U+B809",
+   "cp932": "9157",
+   "slot": "U+7CCE"
+  },
+  {
+   "char": "렌",
+   "unicode": "U+B80C",
+   "cp932": "9158",
+   "slot": "U+564C"
+  },
+  {
+   "char": "렐",
+   "unicode": "U+B810",
+   "cp932": "9159",
+   "slot": "U+5851"
+  },
+  {
+   "char": "렘",
+   "unicode": "U+B818",
+   "cp932": "915a",
+   "slot": "U+5CA8"
+  },
+  {
+   "char": "렛",
+   "unicode": "U+B81B",
+   "cp932": "9164",
+   "slot": "U+79DF"
+  },
+  {
+   "char": "려",
+   "unicode": "U+B824",
+   "cp932": "916d",
+   "slot": "U+50E7"
+  },
+  {
+   "char": "력",
+   "unicode": "U+B825",
+   "cp932": "9170",
+   "slot": "U+53E2"
+  },
+  {
+   "char": "련",
+   "unicode": "U+B828",
+   "cp932": "9176",
+   "slot": "U+5B8B"
+  },
+  {
+   "char": "렬",
+   "unicode": "U+B82C",
+   "cp932": "9178",
+   "slot": "U+531D"
+  },
+  {
+   "char": "렴",
+   "unicode": "U+B834",
+   "cp932": "9179",
+   "slot": "U+60E3"
+  },
+  {
+   "char": "렵",
+   "unicode": "U+B835",
+   "cp932": "9182",
+   "slot": "U+66F9"
+  },
+  {
+   "char": "렷",
+   "unicode": "U+B837",
+   "cp932": "918c",
+   "slot": "U+7CDF"
+  },
+  {
+   "char": "렸",
+   "unicode": "U+B838",
+   "cp932": "918e",
+   "slot": "U+7D9C"
+  },
+  {
+   "char": "령",
+   "unicode": "U+B839",
+   "cp932": "9191",
+   "slot": "U+8358"
+  },
+  {
+   "char": "례",
+   "unicode": "U+B840",
+   "cp932": "9199",
+   "slot": "U+9397"
+  },
+  {
+   "char": "로",
+   "unicode": "U+B85C",
+   "cp932": "91b4",
+   "slot": "U+5176"
+  },
+  {
+   "char": "록",
+   "unicode": "U+B85D",
+   "cp932": "91c0",
+   "slot": "U+8A51"
+  },
+  {
+   "char": "론",
+   "unicode": "U+B860",
+   "cp932": "91c4",
+   "slot": "U+60F0"
+  },
+  {
+   "char": "롤",
+   "unicode": "U+B864",
+   "cp932": "91c6",
+   "slot": "U+67C1"
+  },
+  {
+   "char": "롭",
+   "unicode": "U+B86D",
+   "cp932": "91c9",
+   "slot": "U+9640"
+  },
+  {
+   "char": "롯",
+   "unicode": "U+B86F",
+   "cp932": "91cb",
+   "slot": "U+9A28"
+  },
+  {
+   "char": "롱",
+   "unicode": "U+B871",
+   "cp932": "91cd",
+   "slot": "U+5806"
+  },
+  {
+   "char": "뢰",
+   "unicode": "U+B8B0",
+   "cp932": "91d0",
+   "slot": "U+5CB1"
+  },
+  {
+   "char": "료",
+   "unicode": "U+B8CC",
+   "cp932": "91d7",
+   "slot": "U+6CF0"
+  },
+  {
+   "char": "룡",
+   "unicode": "U+B8E1",
+   "cp932": "91da",
+   "slot": "U+817F"
+  },
+  {
+   "char": "루",
+   "unicode": "U+B8E8",
+   "cp932": "91e1",
+   "slot": "U+9EDB"
+  },
+  {
+   "char": "룩",
+   "unicode": "U+B8E9",
+   "cp932": "91e7",
+   "slot": "U+918D"
+  },
+  {
+   "char": "룬",
+   "unicode": "U+B8EC",
+   "cp932": "91e9",
+   "slot": "U+9DF9"
+  },
+  {
+   "char": "룰",
+   "unicode": "U+B8F0",
+   "cp932": "91ea",
+   "slot": "U+6EDD"
+  },
+  {
+   "char": "룸",
+   "unicode": "U+B8F8",
+   "cp932": "91eb",
+   "slot": "U+7027"
+  },
+  {
+   "char": "룹",
+   "unicode": "U+B8F9",
+   "cp932": "91ed",
+   "slot": "U+5544"
+  },
+  {
+   "char": "룻",
+   "unicode": "U+B8FB",
+   "cp932": "91ef",
+   "slot": "U+6258"
+  },
+  {
+   "char": "뤄",
+   "unicode": "U+B904",
+   "cp932": "91f4",
+   "slot": "U+7422"
+  },
+  {
+   "char": "류",
+   "unicode": "U+B958",
+   "cp932": "91f6",
+   "slot": "U+9438"
+  },
+  {
+   "char": "륙",
+   "unicode": "U+B959",
+   "cp932": "91f8",
+   "slot": "U+8AFE"
+  },
+  {
+   "char": "륜",
+   "unicode": "U+B95C",
+   "cp932": "91f9",
+   "slot": "U+8338"
+  },
+  {
+   "char": "률",
+   "unicode": "U+B960",
+   "cp932": "91fa",
+   "slot": "U+51E7"
+  },
+  {
+   "char": "륭",
+   "unicode": "U+B96D",
+   "cp932": "91fb",
+   "slot": "U+86F8"
+  },
+  {
+   "char": "르",
+   "unicode": "U+B974",
+   "cp932": "91fc",
+   "slot": "U+53EA"
+  },
+  {
+   "char": "륵",
+   "unicode": "U+B975",
+   "cp932": "9241",
+   "slot": "U+4F46"
+  },
+  {
+   "char": "른",
+   "unicode": "U+B978",
+   "cp932": "9243",
+   "slot": "U+8FB0"
+  },
+  {
+   "char": "를",
+   "unicode": "U+B97C",
+   "cp932": "9246",
+   "slot": "U+5DFD"
+  },
+  {
+   "char": "름",
+   "unicode": "U+B984",
+   "cp932": "9247",
+   "slot": "U+7AEA"
+  },
+  {
+   "char": "릅",
+   "unicode": "U+B985",
+   "cp932": "924c",
+   "slot": "U+9C48"
+  },
+  {
+   "char": "릇",
+   "unicode": "U+B987",
+   "cp932": "924d",
+   "slot": "U+6A3D"
+  },
+  {
+   "char": "릉",
+   "unicode": "U+B989",
+   "cp932": "924f",
+   "slot": "U+4E39"
+  },
+  {
+   "char": "릎",
+   "unicode": "U+B98E",
+   "cp932": "9256",
+   "slot": "U+6B4E"
+  },
+  {
+   "char": "리",
+   "unicode": "U+B9AC",
+   "cp932": "9258",
+   "slot": "U+6E5B"
+  },
+  {
+   "char": "릭",
+   "unicode": "U+B9AD",
+   "cp932": "9268",
+   "slot": "U+6A80"
+  },
+  {
+   "char": "린",
+   "unicode": "U+B9B0",
+   "cp932": "926f",
+   "slot": "U+5F1B"
+  },
+  {
+   "char": "릴",
+   "unicode": "U+B9B4",
+   "cp932": "9271",
+   "slot": "U+667A"
+  },
+  {
+   "char": "림",
+   "unicode": "U+B9BC",
+   "cp932": "9280",
+   "slot": "U+9010"
+  },
+  {
+   "char": "립",
+   "unicode": "U+B9BD",
+   "cp932": "9284",
+   "slot": "U+5AE1"
+  },
+  {
+   "char": "릿",
+   "unicode": "U+B9BF",
+   "cp932": "928f",
+   "slot": "U+8877"
+  },
+  {
+   "char": "링",
+   "unicode": "U+B9C1",
+   "cp932": "9290",
+   "slot": "U+8A3B"
+  },
+  {
+   "char": "마",
+   "unicode": "U+B9C8",
+   "cp932": "9292",
+   "slot": "U+92F3"
+  },
+  {
+   "char": "막",
+   "unicode": "U+B9C9",
+   "cp932": "9294",
+   "slot": "U+6A17"
+  },
+  {
+   "char": "만",
+   "unicode": "U+B9CC",
+   "cp932": "9295",
+   "slot": "U+7026"
+  },
+  {
+   "char": "많",
+   "unicode": "U+B9CE",
+   "cp932": "9297",
+   "slot": "U+82E7"
+  },
+  {
+   "char": "말",
+   "unicode": "U+B9D0",
+   "cp932": "929c",
+   "slot": "U+51CB"
+  },
+  {
+   "char": "맑",
+   "unicode": "U+B9D1",
+   "cp932": "929f",
+   "slot": "U+5E16"
+  },
+  {
+   "char": "맘",
+   "unicode": "U+B9D8",
+   "cp932": "92a1",
+   "slot": "U+5E81"
+  },
+  {
+   "char": "맙",
+   "unicode": "U+B9D9",
+   "cp932": "92ab",
+   "slot": "U+7252"
+  },
+  {
+   "char": "맛",
+   "unicode": "U+B9DB",
+   "cp932": "92b0",
+   "slot": "U+8178"
+  },
+  {
+   "char": "망",
+   "unicode": "U+B9DD",
+   "cp932": "92b3",
+   "slot": "U+8ADC"
+  },
+  {
+   "char": "맞",
+   "unicode": "U+B9DE",
+   "cp932": "92b6",
+   "slot": "U+929A"
+  },
+  {
+   "char": "맡",
+   "unicode": "U+B9E1",
+   "cp932": "92ba",
+   "slot": "U+52C5"
+  },
+  {
+   "char": "맣",
+   "unicode": "U+B9E3",
+   "cp932": "92bd",
+   "slot": "U+6715"
+  },
+  {
+   "char": "매",
+   "unicode": "U+B9E4",
+   "cp932": "92c5",
+   "slot": "U+690E"
+  },
+  {
+   "char": "맥",
+   "unicode": "U+B9E5",
+   "cp932": "92c8",
+   "slot": "U+939A"
+  },
+  {
+   "char": "맨",
+   "unicode": "U+B9E8",
+   "cp932": "92cb",
+   "slot": "U+585A"
+  },
+  {
+   "char": "맴",
+   "unicode": "U+B9F4",
+   "cp932": "92cc",
+   "slot": "U+6802"
+  },
+  {
+   "char": "맸",
+   "unicode": "U+B9F8",
+   "cp932": "92ce",
+   "slot": "U+69FB"
+  },
+  {
+   "char": "맹",
+   "unicode": "U+B9F9",
+   "cp932": "92cf",
+   "slot": "U+4F43"
+  },
+  {
+   "char": "맺",
+   "unicode": "U+B9FA",
+   "cp932": "92d1",
+   "slot": "U+67D8"
+  },
+  {
+   "char": "머",
+   "unicode": "U+BA38",
+   "cp932": "92d3",
+   "slot": "U+8526"
+  },
+  {
+   "char": "먹",
+   "unicode": "U+BA39",
+   "cp932": "92d5",
+   "slot": "U+9354"
+  },
+  {
+   "char": "먼",
+   "unicode": "U+BA3C",
+   "cp932": "92d6",
+   "slot": "U+693F"
+  },
+  {
+   "char": "멀",
+   "unicode": "U+BA40",
+   "cp932": "92d8",
+   "slot": "U+576A"
+  },
+  {
+   "char": "멈",
+   "unicode": "U+BA48",
+   "cp932": "92d9",
+   "slot": "U+58F7"
+  },
+  {
+   "char": "멋",
+   "unicode": "U+BA4B",
+   "cp932": "92da",
+   "slot": "U+5B2C"
+  },
+  {
+   "char": "멍",
+   "unicode": "U+BA4D",
+   "cp932": "92db",
+   "slot": "U+7D2C"
+  },
+  {
+   "char": "멎",
+   "unicode": "U+BA4E",
+   "cp932": "92e0",
+   "slot": "U+4EAD"
+  },
+  {
+   "char": "메",
+   "unicode": "U+BA54",
+   "cp932": "92e6",
+   "slot": "U+5448"
+  },
+  {
+   "char": "멘",
+   "unicode": "U+BA58",
+   "cp932": "92e9",
+   "slot": "U+5E1D"
+  },
+  {
+   "char": "멜",
+   "unicode": "U+BA5C",
+   "cp932": "92ec",
+   "slot": "U+5EF7"
+  },
+  {
+   "char": "멧",
+   "unicode": "U+BA67",
+   "cp932": "92ee",
+   "slot": "U+608C"
+  },
+  {
+   "char": "멨",
+   "unicode": "U+BA68",
+   "cp932": "92f2",
+   "slot": "U+68AF"
+  },
+  {
+   "char": "멩",
+   "unicode": "U+BA69",
+   "cp932": "92f4",
+   "slot": "U+7887"
+  },
+  {
+   "char": "며",
+   "unicode": "U+BA70",
+   "cp932": "92f5",
+   "slot": "U+798E"
+  },
+  {
+   "char": "멱",
+   "unicode": "U+BA71",
+   "cp932": "92fb",
+   "slot": "U+8E44"
+  },
+  {
+   "char": "면",
+   "unicode": "U+BA74",
+   "cp932": "92fc",
+   "slot": "U+9013"
+  },
+  {
+   "char": "멸",
+   "unicode": "U+BA78",
+   "cp932": "9341",
+   "slot": "U+912D"
+  },
+  {
+   "char": "명",
+   "unicode": "U+BA85",
+   "cp932": "9346",
+   "slot": "U+64E2"
+  },
+  {
+   "char": "몇",
+   "unicode": "U+BA87",
+   "cp932": "934a",
+   "slot": "U+7B1B"
+  },
+  {
+   "char": "모",
+   "unicode": "U+BAA8",
+   "cp932": "934c",
+   "slot": "U+93D1"
+  },
+  {
+   "char": "목",
+   "unicode": "U+BAA9",
+   "cp932": "9352",
+   "slot": "U+8FED"
+  },
+  {
+   "char": "몫",
+   "unicode": "U+BAAB",
+   "cp932": "935a",
+   "slot": "U+7E8F"
+  },
+  {
+   "char": "몬",
+   "unicode": "U+BAAC",
+   "cp932": "9362",
+   "slot": "U+6FB1"
+  },
+  {
+   "char": "몰",
+   "unicode": "U+BAB0",
+   "cp932": "936c",
+   "slot": "U+6597"
+  },
+  {
+   "char": "몸",
+   "unicode": "U+BAB8",
+   "cp932": "936d",
+   "slot": "U+675C"
+  },
+  {
+   "char": "몹",
+   "unicode": "U+BAB9",
+   "cp932": "9370",
+   "slot": "U+83DF"
+  },
+  {
+   "char": "못",
+   "unicode": "U+BABB",
+   "cp932": "9374",
+   "slot": "U+934D"
+  },
+  {
+   "char": "몽",
+   "unicode": "U+BABD",
+   "cp932": "9375",
+   "slot": "U+7825"
+  },
+  {
+   "char": "뫼",
+   "unicode": "U+BAFC",
+   "cp932": "9376",
+   "slot": "U+783A"
+  },
+  {
+   "char": "묘",
+   "unicode": "U+BB18",
+   "cp932": "9383",
+   "slot": "U+5854"
+  },
+  {
+   "char": "무",
+   "unicode": "U+BB34",
+   "cp932": "9384",
+   "slot": "U+5858"
+  },
+  {
+   "char": "묵",
+   "unicode": "U+BB35",
+   "cp932": "9386",
+   "slot": "U+5B95"
+  },
+  {
+   "char": "묶",
+   "unicode": "U+BB36",
+   "cp932": "9388",
+   "slot": "U+5D8B"
+  },
+  {
+   "char": "문",
+   "unicode": "U+BB38",
+   "cp932": "938e",
+   "slot": "U+68BC"
+  },
+  {
+   "char": "묻",
+   "unicode": "U+BB3B",
+   "cp932": "9393",
+   "slot": "U+6D9B"
+  },
+  {
+   "char": "물",
+   "unicode": "U+BB3C",
+   "cp932": "9397",
+   "slot": "U+75D8"
+  },
+  {
+   "char": "묽",
+   "unicode": "U+BB3D",
+   "cp932": "9398",
+   "slot": "U+7977"
+  },
+  {
+   "char": "뭇",
+   "unicode": "U+BB47",
+   "cp932": "93a0",
+   "slot": "U+8569"
+  },
+  {
+   "char": "뭉",
+   "unicode": "U+BB49",
+   "cp932": "93a3",
+   "slot": "U+8B04"
+  },
+  {
+   "char": "뭍",
+   "unicode": "U+BB4D",
+   "cp932": "93a8",
+   "slot": "U+9419"
+  },
+  {
+   "char": "뭐",
+   "unicode": "U+BB50",
+   "cp932": "93b3",
+   "slot": "U+649E"
+  },
+  {
+   "char": "뭔",
+   "unicode": "U+BB54",
+   "cp932": "93b8",
+   "slot": "U+8404"
+  },
+  {
+   "char": "뭘",
+   "unicode": "U+BB58",
+   "cp932": "93ba",
+   "slot": "U+9285"
+  },
+  {
+   "char": "뭣",
+   "unicode": "U+BB63",
+   "cp932": "93bc",
+   "slot": "U+9D07"
+  },
+  {
+   "char": "뮤",
+   "unicode": "U+BBA4",
+   "cp932": "93c0",
+   "slot": "U+6D9C"
+  },
+  {
+   "char": "므",
+   "unicode": "U+BBC0",
+   "cp932": "93c8",
+   "slot": "U+6803"
+  },
+  {
+   "char": "믄",
+   "unicode": "U+BBC4",
+   "cp932": "93c9",
+   "slot": "U+6A61"
+  },
+  {
+   "char": "미",
+   "unicode": "U+BBF8",
+   "cp932": "93ca",
+   "slot": "U+51F8"
+  },
+  {
+   "char": "믹",
+   "unicode": "U+BBF9",
+   "cp932": "93cc",
+   "slot": "U+6934"
+  },
+  {
+   "char": "민",
+   "unicode": "U+BBFC",
+   "cp932": "93ce",
+   "slot": "U+9CF6"
+  },
+  {
+   "char": "믿",
+   "unicode": "U+BBFF",
+   "cp932": "93cf",
+   "slot": "U+82EB"
+  },
+  {
+   "char": "밀",
+   "unicode": "U+BC00",
+   "cp932": "93d0",
+   "slot": "U+5BC5"
+  },
+  {
+   "char": "밈",
+   "unicode": "U+BC08",
+   "cp932": "93d1",
+   "slot": "U+9149"
+  },
+  {
+   "char": "밉",
+   "unicode": "U+BC09",
+   "cp932": "93d2",
+   "slot": "U+701E"
+  },
+  {
+   "char": "밋",
+   "unicode": "U+BC0B",
+   "cp932": "93d3",
+   "slot": "U+5678"
+  },
+  {
+   "char": "밌",
+   "unicode": "U+BC0C",
+   "cp932": "93d4",
+   "slot": "U+5C6F"
+  },
+  {
+   "char": "밍",
+   "unicode": "U+BC0D",
+   "cp932": "93d5",
+   "slot": "U+60C7"
+  },
+  {
+   "char": "및",
+   "unicode": "U+BC0F",
+   "cp932": "93d6",
+   "slot": "U+6566"
+  },
+  {
+   "char": "밑",
+   "unicode": "U+BC11",
+   "cp932": "93d9",
+   "slot": "U+9041"
+  },
+  {
+   "char": "바",
+   "unicode": "U+BC14",
+   "cp932": "93de",
+   "slot": "U+5948"
+  },
+  {
+   "char": "박",
+   "unicode": "U+BC15",
+   "cp932": "93e1",
+   "slot": "U+4E4D"
+  },
+  {
+   "char": "밖",
+   "unicode": "U+BC16",
+   "cp932": "93e3",
+   "slot": "U+8599"
+  },
+  {
+   "char": "반",
+   "unicode": "U+BC18",
+   "cp932": "93e5",
+   "slot": "U+7058"
+  },
+  {
+   "char": "받",
+   "unicode": "U+BC1B",
+   "cp932": "93e6",
+   "slot": "U+637A"
+  },
+  {
+   "char": "발",
+   "unicode": "U+BC1C",
+   "cp932": "93e8",
+   "slot": "U+6962"
+  },
+  {
+   "char": "밝",
+   "unicode": "U+BC1D",
+   "cp932": "93eb",
+   "slot": "U+7577"
+  },
+  {
+   "char": "밟",
+   "unicode": "U+BC1F",
+   "cp932": "93ed",
+   "slot": "U+6960"
+  },
+  {
+   "char": "밤",
+   "unicode": "U+BC24",
+   "cp932": "93f0",
+   "slot": "U+6C5D"
+  },
+  {
+   "char": "밥",
+   "unicode": "U+BC25",
+   "cp932": "93f2",
+   "slot": "U+5C3C"
+  },
+  {
+   "char": "밧",
+   "unicode": "U+BC27",
+   "cp932": "93f3",
+   "slot": "U+5F10"
+  },
+  {
+   "char": "방",
+   "unicode": "U+BC29",
+   "cp932": "93f4",
+   "slot": "U+8FE9"
+  },
+  {
+   "char": "밭",
+   "unicode": "U+BC2D",
+   "cp932": "93f8",
+   "slot": "U+8679"
+  },
+  {
+   "char": "배",
+   "unicode": "U+BC30",
+   "cp932": "93f9",
+   "slot": "U+5EFF"
+  },
+  {
+   "char": "백",
+   "unicode": "U+BC31",
+   "cp932": "9442",
+   "slot": "U+97EE"
+  },
+  {
+   "char": "밸",
+   "unicode": "U+BC38",
+   "cp932": "9448",
+   "slot": "U+79B0"
+  },
+  {
+   "char": "뱀",
+   "unicode": "U+BC40",
+   "cp932": "9449",
+   "slot": "U+7962"
+  },
+  {
+   "char": "뱃",
+   "unicode": "U+BC43",
+   "cp932": "944b",
+   "slot": "U+8471"
+  },
+  {
+   "char": "뱅",
+   "unicode": "U+BC45",
+   "cp932": "9451",
+   "slot": "U+649A"
+  },
+  {
+   "char": "뱉",
+   "unicode": "U+BC49",
+   "cp932": "9455",
+   "slot": "U+5EFC"
+  },
+  {
+   "char": "버",
+   "unicode": "U+BC84",
+   "cp932": "9456",
+   "slot": "U+4E4B"
+  },
+  {
+   "char": "벅",
+   "unicode": "U+BC85",
+   "cp932": "9457",
+   "slot": "U+57DC"
+  },
+  {
+   "char": "번",
+   "unicode": "U+BC88",
+   "cp932": "9458",
+   "slot": "U+56A2"
+  },
+  {
+   "char": "벌",
+   "unicode": "U+BC8C",
+   "cp932": "9461",
+   "slot": "U+86A4"
+  },
+  {
+   "char": "범",
+   "unicode": "U+BC94",
+   "cp932": "9462",
+   "slot": "U+5DF4"
+  },
+  {
+   "char": "법",
+   "unicode": "U+BC95",
+   "cp932": "9465",
+   "slot": "U+8987"
+  },
+  {
+   "char": "벗",
+   "unicode": "U+BC97",
+   "cp932": "9466",
+   "slot": "U+6777"
+  },
+  {
+   "char": "벙",
+   "unicode": "U+BC99",
+   "cp932": "9469",
+   "slot": "U+7436"
+  },
+  {
+   "char": "벚",
+   "unicode": "U+BC9A",
+   "cp932": "946d",
+   "slot": "U+82AD"
+  },
+  {
+   "char": "베",
+   "unicode": "U+BCA0",
+   "cp932": "946f",
+   "slot": "U+4FF3"
+  },
+  {
+   "char": "벤",
+   "unicode": "U+BCA4",
+   "cp932": "9475",
+   "slot": "U+76C3"
+  },
+  {
+   "char": "벨",
+   "unicode": "U+BCA8",
+   "cp932": "9476",
+   "slot": "U+724C"
+  },
+  {
+   "char": "벵",
+   "unicode": "U+BCB5",
+   "cp932": "9480",
+   "slot": "U+6973"
+  },
+  {
+   "char": "벼",
+   "unicode": "U+BCBC",
+   "cp932": "9482",
+   "slot": "U+72FD"
+  },
+  {
+   "char": "벽",
+   "unicode": "U+BCBD",
+   "cp932": "9485",
+   "slot": "U+8CE0"
+  },
+  {
+   "char": "변",
+   "unicode": "U+BCC0",
+   "cp932": "9486",
+   "slot": "U+966A"
+  },
+  {
+   "char": "별",
+   "unicode": "U+BCC4",
+   "cp932": "9488",
+   "slot": "U+877F"
+  },
+  {
+   "char": "볍",
+   "unicode": "U+BCCD",
+   "cp932": "948a",
+   "slot": "U+77E7"
+  },
+  {
+   "char": "병",
+   "unicode": "U+BCD1",
+   "cp932": "948b",
+   "slot": "U+8429"
+  },
+  {
+   "char": "볕",
+   "unicode": "U+BCD5",
+   "cp932": "948c",
+   "slot": "U+4F2F"
+  },
+  {
+   "char": "보",
+   "unicode": "U+BCF4",
+   "cp932": "9493",
+   "slot": "U+7B94"
+  },
+  {
+   "char": "복",
+   "unicode": "U+BCF5",
+   "cp932": "9494",
+   "slot": "U+7C95"
+  },
+  {
+   "char": "볶",
+   "unicode": "U+BCF6",
+   "cp932": "949c",
+   "slot": "U+83AB"
+  },
+  {
+   "char": "본",
+   "unicode": "U+BCF8",
+   "cp932": "949d",
+   "slot": "U+99C1"
+  },
+  {
+   "char": "볼",
+   "unicode": "U+BCFC",
+   "cp932": "949f",
+   "slot": "U+51FD"
+  },
+  {
+   "char": "봄",
+   "unicode": "U+BD04",
+   "cp932": "94a1",
+   "slot": "U+7872"
+  },
+  {
+   "char": "봅",
+   "unicode": "U+BD05",
+   "cp932": "94a3",
+   "slot": "U+8087"
+  },
+  {
+   "char": "봇",
+   "unicode": "U+BD07",
+   "cp932": "94a5",
+   "slot": "U+6AE8"
+  },
+  {
+   "char": "봉",
+   "unicode": "U+BD09",
+   "cp932": "94a6",
+   "slot": "U+5E61"
+  },
+  {
+   "char": "봐",
+   "unicode": "U+BD10",
+   "cp932": "94a8",
+   "slot": "U+7551"
+  },
+  {
+   "char": "봤",
+   "unicode": "U+BD24",
+   "cp932": "94a9",
+   "slot": "U+7560"
+  },
+  {
+   "char": "봬",
+   "unicode": "U+BD2C",
+   "cp932": "94ac",
+   "slot": "U+6E8C"
+  },
+  {
+   "char": "뵈",
+   "unicode": "U+BD48",
+   "cp932": "94ae",
+   "slot": "U+9197"
+  },
+  {
+   "char": "뵌",
+   "unicode": "U+BD4C",
+   "cp932": "94b0",
+   "slot": "U+4F10"
+  },
+  {
+   "char": "뵙",
+   "unicode": "U+BD59",
+   "cp932": "94b3",
+   "slot": "U+7B4F"
+  },
+  {
+   "char": "뵤",
+   "unicode": "U+BD64",
+   "cp932": "94b5",
+   "slot": "U+9CE9"
+  },
+  {
+   "char": "부",
+   "unicode": "U+BD80",
+   "cp932": "94b7",
+   "slot": "U+5859"
+  },
+  {
+   "char": "북",
+   "unicode": "U+BD81",
+   "cp932": "94b8",
+   "slot": "U+86E4"
+  },
+  {
+   "char": "분",
+   "unicode": "U+BD84",
+   "cp932": "94b9",
+   "slot": "U+96BC"
+  },
+  {
+   "char": "불",
+   "unicode": "U+BD88",
+   "cp932": "94be",
+   "slot": "U+53DB"
+  },
+  {
+   "char": "붉",
+   "unicode": "U+BD89",
+   "cp932": "94c4",
+   "slot": "U+6C4E"
+  },
+  {
+   "char": "붐",
+   "unicode": "U+BD90",
+   "cp932": "94c8",
+   "slot": "U+7554"
+  },
+  {
+   "char": "붓",
+   "unicode": "U+BD93",
+   "cp932": "94cb",
+   "slot": "U+85E9"
+  },
+  {
+   "char": "붕",
+   "unicode": "U+BD95",
+   "cp932": "94ce",
+   "slot": "U+91C6"
+  },
+  {
+   "char": "붙",
+   "unicode": "U+BD99",
+   "cp932": "94d0",
+   "slot": "U+9812"
+  },
+  {
+   "char": "뷔",
+   "unicode": "U+BDD4",
+   "cp932": "94d6",
+   "slot": "U+78D0"
+  },
+  {
+   "char": "뷰",
+   "unicode": "U+BDF0",
+   "cp932": "94d7",
+   "slot": "U+8543"
+  },
+  {
+   "char": "브",
+   "unicode": "U+BE0C",
+   "cp932": "94d9",
+   "slot": "U+532A"
+  },
+  {
+   "char": "블",
+   "unicode": "U+BE14",
+   "cp932": "94dc",
+   "slot": "U+5983"
+  },
+  {
+   "char": "비",
+   "unicode": "U+BE44",
+   "cp932": "94e1",
+   "slot": "U+6279"
+  },
+  {
+   "char": "빅",
+   "unicode": "U+BE45",
+   "cp932": "94e5",
+   "slot": "U+6CCC"
+  },
+  {
+   "char": "빈",
+   "unicode": "U+BE48",
+   "cp932": "94eb",
+   "slot": "U+7F77"
+  },
+  {
+   "char": "빌",
+   "unicode": "U+BE4C",
+   "cp932": "94f3",
+   "slot": "U+6A0B"
+  },
+  {
+   "char": "빕",
+   "unicode": "U+BE55",
+   "cp932": "94f4",
+   "slot": "U+7C38"
+  },
+  {
+   "char": "빗",
+   "unicode": "U+BE57",
+   "cp932": "94f8",
+   "slot": "U+6787"
+  },
+  {
+   "char": "빙",
+   "unicode": "U+BE59",
+   "cp932": "94f9",
+   "slot": "U+6BD8"
+  },
+  {
+   "char": "빚",
+   "unicode": "U+BE5A",
+   "cp932": "94fa",
+   "slot": "U+7435"
+  },
+  {
+   "char": "빛",
+   "unicode": "U+BE5B",
+   "cp932": "9541",
+   "slot": "U+67CA"
+  },
+  {
+   "char": "빠",
+   "unicode": "U+BE60",
+   "cp932": "9542",
+   "slot": "U+7A17"
+  },
+  {
+   "char": "빡",
+   "unicode": "U+BE61",
+   "cp932": "9544",
+   "slot": "U+758B"
+  },
+  {
+   "char": "빤",
+   "unicode": "U+BE64",
+   "cp932": "9545",
+   "slot": "U+9AED"
+  },
+  {
+   "char": "빨",
+   "unicode": "U+BE68",
+   "cp932": "9546",
+   "slot": "U+5F66"
+  },
+  {
+   "char": "빳",
+   "unicode": "U+BE73",
+   "cp932": "9548",
+   "slot": "U+83F1"
+  },
+  {
+   "char": "빴",
+   "unicode": "U+BE74",
+   "cp932": "954a",
+   "slot": "U+5F3C"
+  },
+  {
+   "char": "빵",
+   "unicode": "U+BE75",
+   "cp932": "954c",
+   "slot": "U+7562"
+  },
+  {
+   "char": "빼",
+   "unicode": "U+BE7C",
+   "cp932": "954f",
+   "slot": "U+6867"
+  },
+  {
+   "char": "빽",
+   "unicode": "U+BE7D",
+   "cp932": "9551",
+   "slot": "U+5A9B"
+  },
+  {
+   "char": "뺏",
+   "unicode": "U+BE8F",
+   "cp932": "9554",
+   "slot": "U+8B2C"
+  },
+  {
+   "char": "뺐",
+   "unicode": "U+BE90",
+   "cp932": "9555",
+   "slot": "U+4FF5"
+  },
+  {
+   "char": "뺨",
+   "unicode": "U+BEA8",
+   "cp932": "9556",
+   "slot": "U+5F6A"
+  },
+  {
+   "char": "뻐",
+   "unicode": "U+BED0",
+   "cp932": "955a",
+   "slot": "U+74E2"
+  },
+  {
+   "char": "뻑",
+   "unicode": "U+BED1",
+   "cp932": "955f",
+   "slot": "U+5EDF"
+  },
+  {
+   "char": "뻔",
+   "unicode": "U+BED4",
+   "cp932": "9563",
+   "slot": "U+82D7"
+  },
+  {
+   "char": "뻗",
+   "unicode": "U+BED7",
+   "cp932": "9565",
+   "slot": "U+92F2"
+  },
+  {
+   "char": "뻘",
+   "unicode": "U+BED8",
+   "cp932": "9566",
+   "slot": "U+849C"
+  },
+  {
+   "char": "뻣",
+   "unicode": "U+BEE3",
+   "cp932": "9567",
+   "slot": "U+86ED"
+  },
+  {
+   "char": "뻤",
+   "unicode": "U+BEE4",
+   "cp932": "9568",
+   "slot": "U+9C2D"
+  },
+  {
+   "char": "뻥",
+   "unicode": "U+BEE5",
+   "cp932": "956a",
+   "slot": "U+5F6C"
+  },
+  {
+   "char": "뼈",
+   "unicode": "U+BF08",
+   "cp932": "956b",
+   "slot": "U+658C"
+  },
+  {
+   "char": "뼉",
+   "unicode": "U+BF09",
+   "cp932": "9579",
+   "slot": "U+51A8"
+  },
+  {
+   "char": "뼛",
+   "unicode": "U+BF1B",
+   "cp932": "9580",
+   "slot": "U+65A7"
+  },
+  {
+   "char": "뽀",
+   "unicode": "U+BF40",
+   "cp932": "9587",
+   "slot": "U+8299"
+  },
+  {
+   "char": "뽈",
+   "unicode": "U+BF48",
+   "cp932": "9588",
+   "slot": "U+8B5C"
+  },
+  {
+   "char": "뽐",
+   "unicode": "U+BF50",
+   "cp932": "958a",
+   "slot": "U+8CE6"
+  },
+  {
+   "char": "뽑",
+   "unicode": "U+BF51",
+   "cp932": "958c",
+   "slot": "U+961C"
+  },
+  {
+   "char": "뾰",
+   "unicode": "U+BFB0",
+   "cp932": "958d",
+   "slot": "U+9644"
+  },
+  {
+   "char": "뿌",
+   "unicode": "U+BFCC",
+   "cp932": "9592",
+   "slot": "U+8461"
+  },
+  {
+   "char": "뿍",
+   "unicode": "U+BFCD",
+   "cp932": "9593",
+   "slot": "U+856A"
+  },
+  {
+   "char": "뿐",
+   "unicode": "U+BFD0",
+   "cp932": "9596",
+   "slot": "U+6953"
+  },
+  {
+   "char": "뿔",
+   "unicode": "U+BFD4",
+   "cp932": "9598",
+   "slot": "U+847A"
+  },
+  {
+   "char": "뿜",
+   "unicode": "U+BFDC",
+   "cp932": "9599",
+   "slot": "U+8557"
+  },
+  {
+   "char": "뿡",
+   "unicode": "U+BFE1",
+   "cp932": "95a3",
+   "slot": "U+6DF5"
+  },
+  {
+   "char": "쁘",
+   "unicode": "U+C058",
+   "cp932": "95a4",
+   "slot": "U+5F17"
+  },
+  {
+   "char": "쁜",
+   "unicode": "U+C05C",
+   "cp932": "95a9",
+   "slot": "U+9B92"
+  },
+  {
+   "char": "쁠",
+   "unicode": "U+C060",
+   "cp932": "95ad",
+   "slot": "U+58B3"
+  },
+  {
+   "char": "쁨",
+   "unicode": "U+C068",
+   "cp932": "95af",
+   "slot": "U+626E"
+  },
+  {
+   "char": "삐",
+   "unicode": "U+C090",
+   "cp932": "95b8",
+   "slot": "U+4E19"
+  },
+  {
+   "char": "삑",
+   "unicode": "U+C091",
+   "cp932": "95c3",
+   "slot": "U+965B"
+  },
+  {
+   "char": "삘",
+   "unicode": "U+C098",
+   "cp932": "95c5",
+   "slot": "U+9801"
+  },
+  {
+   "char": "삥",
+   "unicode": "U+C0A5",
+   "cp932": "95c6",
+   "slot": "U+50FB"
+  },
+  {
+   "char": "사",
+   "unicode": "U+C0AC",
+   "cp932": "95c9",
+   "slot": "U+78A7"
+  },
+  {
+   "char": "삭",
+   "unicode": "U+C0AD",
+   "cp932": "95cd",
+   "slot": "U+7B86"
+  },
+  {
+   "char": "삯",
+   "unicode": "U+C0AF",
+   "cp932": "95d1",
+   "slot": "U+7BC7"
+  },
+  {
+   "char": "산",
+   "unicode": "U+C0B0",
+   "cp932": "95d8",
+   "slot": "U+5A29"
+  },
+  {
+   "char": "살",
+   "unicode": "U+C0B4",
+   "cp932": "95da",
+   "slot": "U+97AD"
+  },
+  {
+   "char": "삶",
+   "unicode": "U+C0B6",
+   "cp932": "95dc",
+   "slot": "U+8217"
+  },
+  {
+   "char": "삼",
+   "unicode": "U+C0BC",
+   "cp932": "95dd",
+   "slot": "U+92EA"
+  },
+  {
+   "char": "삽",
+   "unicode": "U+C0BD",
+   "cp932": "95de",
+   "slot": "U+5703"
+  },
+  {
+   "char": "삿",
+   "unicode": "U+C0BF",
+   "cp932": "95e1",
+   "slot": "U+752B"
+  },
+  {
+   "char": "샀",
+   "unicode": "U+C0C0",
+   "cp932": "95e3",
+   "slot": "U+8F14"
+  },
+  {
+   "char": "상",
+   "unicode": "U+C0C1",
+   "cp932": "95e4",
+   "slot": "U+7A42"
+  },
+  {
+   "char": "샅",
+   "unicode": "U+C0C5",
+   "cp932": "95e8",
+   "slot": "U+620A"
+  },
+  {
+   "char": "새",
+   "unicode": "U+C0C8",
+   "cp932": "95eb",
+   "slot": "U+7C3F"
+  },
+  {
+   "char": "색",
+   "unicode": "U+C0C9",
+   "cp932": "95ec",
+   "slot": "U+83E9"
+  },
+  {
+   "char": "샌",
+   "unicode": "U+C0CC",
+   "cp932": "95ee",
+   "slot": "U+4FF8"
+  },
+  {
+   "char": "샐",
+   "unicode": "U+C0D0",
+   "cp932": "95f4",
+   "slot": "U+5CF0"
+  },
+  {
+   "char": "샘",
+   "unicode": "U+C0D8",
+   "cp932": "95f5",
+   "slot": "U+5CEF"
+  },
+  {
+   "char": "샛",
+   "unicode": "U+C0DB",
+   "cp932": "95f7",
+   "slot": "U+5E96"
+  },
+  {
+   "char": "샜",
+   "unicode": "U+C0DC",
+   "cp932": "95fc",
+   "slot": "U+670B"
+  },
+  {
+   "char": "생",
+   "unicode": "U+C0DD",
+   "cp932": "9642",
+   "slot": "U+70F9"
+  },
+  {
+   "char": "샤",
+   "unicode": "U+C0E4",
+   "cp932": "9648",
+   "slot": "U+84EC"
+  },
+  {
+   "char": "샴",
+   "unicode": "U+C0F4",
+   "cp932": "964e",
+   "slot": "U+92D2"
+  },
+  {
+   "char": "샷",
+   "unicode": "U+C0F7",
+   "cp932": "9650",
+   "slot": "U+9CF3"
+  },
+  {
+   "char": "샹",
+   "unicode": "U+C0F9",
+   "cp932": "9651",
+   "slot": "U+9D6C"
+  },
+  {
+   "char": "서",
+   "unicode": "U+C11C",
+   "cp932": "9655",
+   "slot": "U+5256"
+  },
+  {
+   "char": "석",
+   "unicode": "U+C11D",
+   "cp932": "9666",
+   "slot": "U+8CBF"
+  },
+  {
+   "char": "섞",
+   "unicode": "U+C11E",
+   "cp932": "9667",
+   "slot": "U+927E"
+  },
+  {
+   "char": "선",
+   "unicode": "U+C120",
+   "cp932": "966d",
+   "slot": "U+535C"
+  },
+  {
+   "char": "섣",
+   "unicode": "U+C123",
+   "cp932": "966f",
+   "slot": "U+64B2"
+  },
+  {
+   "char": "설",
+   "unicode": "U+C124",
+   "cp932": "9673",
+   "slot": "U+7A46"
+  },
+  {
+   "char": "섬",
+   "unicode": "U+C12C",
+   "cp932": "9674",
+   "slot": "U+91E6"
+  },
+  {
+   "char": "섭",
+   "unicode": "U+C12D",
+   "cp932": "9679",
+   "slot": "U+5E4C"
+  },
+  {
+   "char": "섯",
+   "unicode": "U+C12F",
+   "cp932": "9689",
+   "slot": "U+54E9"
+  },
+  {
+   "char": "섰",
+   "unicode": "U+C130",
+   "cp932": "968a",
+   "slot": "U+69D9"
+  },
+  {
+   "char": "성",
+   "unicode": "U+C131",
+   "cp932": "968e",
+   "slot": "U+9BAA"
+  },
+  {
+   "char": "세",
+   "unicode": "U+C138",
+   "cp932": "968f",
+   "slot": "U+67FE"
+  },
+  {
+   "char": "섹",
+   "unicode": "U+C139",
+   "cp932": "9690",
+   "slot": "U+9C52"
+  },
+  {
+   "char": "센",
+   "unicode": "U+C13C",
+   "cp932": "9691",
+   "slot": "U+685D"
+  },
+  {
+   "char": "셀",
+   "unicode": "U+C140",
+   "cp932": "9692",
+   "slot": "U+4EA6"
+  },
+  {
+   "char": "셈",
+   "unicode": "U+C148",
+   "cp932": "9693",
+   "slot": "U+4FE3"
+  },
+  {
+   "char": "셉",
+   "unicode": "U+C149",
+   "cp932": "9698",
+   "slot": "U+8FC4"
+  },
+  {
+   "char": "셋",
+   "unicode": "U+C14B",
+   "cp932": "9699",
+   "slot": "U+4FAD"
+  },
+  {
+   "char": "셔",
+   "unicode": "U+C154",
+   "cp932": "969a",
+   "slot": "U+7E6D"
+  },
+  {
+   "char": "션",
+   "unicode": "U+C158",
+   "cp932": "969b",
+   "slot": "U+9EBF"
+  },
+  {
+   "char": "셨",
+   "unicode": "U+C168",
+   "cp932": "96a4",
+   "slot": "U+5DF3"
+  },
+  {
+   "char": "셰",
+   "unicode": "U+C170",
+   "cp932": "96a5",
+   "slot": "U+7B95"
+  },
+  {
+   "char": "셸",
+   "unicode": "U+C178",
+   "cp932": "96a8",
+   "slot": "U+871C"
+  },
+  {
+   "char": "소",
+   "unicode": "U+C18C",
+   "cp932": "96a9",
+   "slot": "U+6E4A"
+  },
+  {
+   "char": "속",
+   "unicode": "U+C18D",
+   "cp932": "96aa",
+   "slot": "U+84D1"
+  },
+  {
+   "char": "솎",
+   "unicode": "U+C18E",
+   "cp932": "96ab",
+   "slot": "U+7A14"
+  },
+  {
+   "char": "손",
+   "unicode": "U+C190",
+   "cp932": "96ae",
+   "slot": "U+7C8D"
+  },
+  {
+   "char": "솔",
+   "unicode": "U+C194",
+   "cp932": "96b4",
+   "slot": "U+725F"
+  },
+  {
+   "char": "솜",
+   "unicode": "U+C19C",
+   "cp932": "96b7",
+   "slot": "U+9D61"
+  },
+  {
+   "char": "솟",
+   "unicode": "U+C19F",
+   "cp932": "96b8",
+   "slot": "U+690B"
+  },
+  {
+   "char": "송",
+   "unicode": "U+C1A1",
+   "cp932": "96bf",
+   "slot": "U+76DF"
+  },
+  {
+   "char": "쇄",
+   "unicode": "U+C1C4",
+   "cp932": "96c3",
+   "slot": "U+59EA"
+  },
+  {
+   "char": "쇠",
+   "unicode": "U+C1E0",
+   "cp932": "96c4",
+   "slot": "U+725D"
+  },
+  {
+   "char": "쇳",
+   "unicode": "U+C1F3",
+   "cp932": "96c7",
+   "slot": "U+68C9"
+  },
+  {
+   "char": "쇼",
+   "unicode": "U+C1FC",
+   "cp932": "96c9",
+   "slot": "U+7DEC"
+  },
+  {
+   "char": "수",
+   "unicode": "U+C218",
+   "cp932": "96cb",
+   "slot": "U+9EBA"
+  },
+  {
+   "char": "숙",
+   "unicode": "U+C219",
+   "cp932": "96cc",
+   "slot": "U+6478"
+  },
+  {
+   "char": "순",
+   "unicode": "U+C21C",
+   "cp932": "96d0",
+   "slot": "U+5B5F"
+  },
+  {
+   "char": "숟",
+   "unicode": "U+C21F",
+   "cp932": "96d6",
+   "slot": "U+8499"
+  },
+  {
+   "char": "술",
+   "unicode": "U+C220",
+   "cp932": "96db",
+   "slot": "U+6762"
+  },
+  {
+   "char": "숨",
+   "unicode": "U+C228",
+   "cp932": "96de",
+   "slot": "U+5C24"
+  },
+  {
+   "char": "숫",
+   "unicode": "U+C22B",
+   "cp932": "96e0",
+   "slot": "U+7C7E"
+  },
+  {
+   "char": "숭",
+   "unicode": "U+C22D",
+   "cp932": "96e6",
+   "slot": "U+5301"
+  },
+  {
+   "char": "숯",
+   "unicode": "U+C22F",
+   "cp932": "96e7",
+   "slot": "U+4E5F"
+  },
+  {
+   "char": "숱",
+   "unicode": "U+C231",
+   "cp932": "96e8",
+   "slot": "U+51B6"
+  },
+  {
+   "char": "숲",
+   "unicode": "U+C232",
+   "cp932": "96ea",
+   "slot": "U+723A"
+  },
+  {
+   "char": "숴",
+   "unicode": "U+C234",
+   "cp932": "96ed",
+   "slot": "U+5F25"
+  },
+  {
+   "char": "쉈",
+   "unicode": "U+C248",
+   "cp932": "96f5",
+   "slot": "U+9756"
+  },
+  {
+   "char": "쉬",
+   "unicode": "U+C26C",
+   "cp932": "96f6",
+   "slot": "U+67F3"
+  },
+  {
+   "char": "쉭",
+   "unicode": "U+C26D",
+   "cp932": "96f7",
+   "slot": "U+85AE"
+  },
+  {
+   "char": "쉰",
+   "unicode": "U+C270",
+   "cp932": "96f8",
+   "slot": "U+9453"
+  },
+  {
+   "char": "쉴",
+   "unicode": "U+C274",
+   "cp932": "96fa",
+   "slot": "U+6108"
+  },
+  {
+   "char": "쉼",
+   "unicode": "U+C27C",
+   "cp932": "9741",
+   "slot": "U+8F38"
+  },
+  {
+   "char": "쉽",
+   "unicode": "U+C27D",
+   "cp932": "9743",
+   "slot": "U+4F51"
+  },
+  {
+   "char": "쉿",
+   "unicode": "U+C27F",
+   "cp932": "9747",
+   "slot": "U+5BA5"
+  },
+  {
+   "char": "슈",
+   "unicode": "U+C288",
+   "cp932": "974b",
+   "slot": "U+63D6"
+  },
+  {
+   "char": "슉",
+   "unicode": "U+C289",
+   "cp932": "974d",
+   "slot": "U+67DA"
+  },
+  {
+   "char": "스",
+   "unicode": "U+C2A4",
+   "cp932": "974f",
+   "slot": "U+6D8C"
+  },
+  {
+   "char": "슥",
+   "unicode": "U+C2A5",
+   "cp932": "9751",
+   "slot": "U+7337"
+  },
+  {
+   "char": "슨",
+   "unicode": "U+C2A8",
+   "cp932": "9753",
+   "slot": "U+7950"
+  },
+  {
+   "char": "슬",
+   "unicode": "U+C2AC",
+   "cp932": "9757",
+   "slot": "U+9091"
+  },
+  {
+   "char": "슭",
+   "unicode": "U+C2AD",
+   "cp932": "9758",
+   "slot": "U+90F5"
+  },
+  {
+   "char": "슴",
+   "unicode": "U+C2B4",
+   "cp932": "9762",
+   "slot": "U+50AD"
+  },
+  {
+   "char": "습",
+   "unicode": "U+C2B5",
+   "cp932": "9764",
+   "slot": "U+5996"
+  },
+  {
+   "char": "슷",
+   "unicode": "U+C2B7",
+   "cp932": "976b",
+   "slot": "U+694A"
+  },
+  {
+   "char": "승",
+   "unicode": "U+C2B9",
+   "cp932": "976f",
+   "slot": "U+7194"
+  },
+  {
+   "char": "시",
+   "unicode": "U+C2DC",
+   "cp932": "9771",
+   "slot": "U+7AAF"
+  },
+  {
+   "char": "식",
+   "unicode": "U+C2DD",
+   "cp932": "9773",
+   "slot": "U+8000"
+  },
+  {
+   "char": "신",
+   "unicode": "U+C2E0",
+   "cp932": "9775",
+   "slot": "U+84C9"
+  },
+  {
+   "char": "싣",
+   "unicode": "U+C2E3",
+   "cp932": "9777",
+   "slot": "U+8B21"
+  },
+  {
+   "char": "실",
+   "unicode": "U+C2E4",
+   "cp932": "9780",
+   "slot": "U+6C83"
+  },
+  {
+   "char": "싫",
+   "unicode": "U+C2EB",
+   "cp932": "9786",
+   "slot": "U+87BA"
+  },
+  {
+   "char": "심",
+   "unicode": "U+C2EC",
+   "cp932": "9789",
+   "slot": "U+83B1"
+  },
+  {
+   "char": "십",
+   "unicode": "U+C2ED",
+   "cp932": "978c",
+   "slot": "U+6D1B"
+  },
+  {
+   "char": "싯",
+   "unicode": "U+C2EF",
+   "cp932": "978f",
+   "slot": "U+916A"
+  },
+  {
+   "char": "싱",
+   "unicode": "U+C2F1",
+   "cp932": "9799",
+   "slot": "U+540F"
+  },
+  {
+   "char": "싶",
+   "unicode": "U+C2F6",
+   "cp932": "979b",
+   "slot": "U+674E"
+  },
+  {
+   "char": "싸",
+   "unicode": "U+C2F8",
+   "cp932": "979c",
+   "slot": "U+68A8"
+  },
+  {
+   "char": "싹",
+   "unicode": "U+C2F9",
+   "cp932": "979e",
+   "slot": "U+7483"
+  },
+  {
+   "char": "싼",
+   "unicode": "U+C2FC",
+   "cp932": "97a1",
+   "slot": "U+88E1"
+  },
+  {
+   "char": "쌀",
+   "unicode": "U+C300",
+   "cp932": "97a8",
+   "slot": "U+844E"
+  },
+  {
+   "char": "쌌",
+   "unicode": "U+C30C",
+   "cp932": "97ab",
+   "slot": "U+5289"
+  },
+  {
+   "char": "쌍",
+   "unicode": "U+C30D",
+   "cp932": "97ae",
+   "slot": "U+7409"
+  },
+  {
+   "char": "쌓",
+   "unicode": "U+C313",
+   "cp932": "97b0",
+   "slot": "U+786B"
+  },
+  {
+   "char": "쌕",
+   "unicode": "U+C315",
+   "cp932": "97b2",
+   "slot": "U+9686"
+  },
+  {
+   "char": "쌘",
+   "unicode": "U+C318",
+   "cp932": "97ba",
+   "slot": "U+4EAE"
+  },
+  {
+   "char": "쌤",
+   "unicode": "U+C324",
+   "cp932": "97bb",
+   "slot": "U+50DA"
+  },
+  {
+   "char": "쌩",
+   "unicode": "U+C329",
+   "cp932": "97be",
+   "slot": "U+5BEE"
+  },
+  {
+   "char": "써",
+   "unicode": "U+C368",
+   "cp932": "97c2",
+   "slot": "U+731F"
+  },
+  {
+   "char": "썩",
+   "unicode": "U+C369",
+   "cp932": "97c4",
+   "slot": "U+77AD"
+  },
+  {
+   "char": "썬",
+   "unicode": "U+C36C",
+   "cp932": "97c5",
+   "slot": "U+7A1C"
+  },
+  {
+   "char": "썰",
+   "unicode": "U+C370",
+   "cp932": "97c8",
+   "slot": "U+8AD2"
+  },
+  {
+   "char": "썼",
+   "unicode": "U+C37C",
+   "cp932": "97c9",
+   "slot": "U+907C"
+  },
+  {
+   "char": "썽",
+   "unicode": "U+C37D",
+   "cp932": "97d0",
+   "slot": "U+5398"
+  },
+  {
+   "char": "쎄",
+   "unicode": "U+C384",
+   "cp932": "97d2",
+   "slot": "U+6DCB"
+  },
+  {
+   "char": "쏘",
+   "unicode": "U+C3D8",
+   "cp932": "97d3",
+   "slot": "U+71D0"
+  },
+  {
+   "char": "쏙",
+   "unicode": "U+C3D9",
+   "cp932": "97d4",
+   "slot": "U+7433"
+  },
+  {
+   "char": "쏜",
+   "unicode": "U+C3DC",
+   "cp932": "97d9",
+   "slot": "U+9E9F"
+  },
+  {
+   "char": "쏟",
+   "unicode": "U+C3DF",
+   "cp932": "97da",
+   "slot": "U+7460"
+  },
+  {
+   "char": "쏠",
+   "unicode": "U+C3E0",
+   "cp932": "97db",
+   "slot": "U+5841"
+  },
+  {
+   "char": "쏴",
+   "unicode": "U+C3F4",
+   "cp932": "97dd",
+   "slot": "U+7D2F"
+  },
+  {
+   "char": "쐐",
+   "unicode": "U+C410",
+   "cp932": "97e0",
+   "slot": "U+4F36"
+  },
+  {
+   "char": "쐬",
+   "unicode": "U+C42C",
+   "cp932": "97e5",
+   "slot": "U+601C"
+  },
+  {
+   "char": "쑤",
+   "unicode": "U+C464",
+   "cp932": "97e6",
+   "slot": "U+73B2"
+  },
+  {
+   "char": "쑥",
+   "unicode": "U+C465",
+   "cp932": "97e8",
+   "slot": "U+82D3"
+  },
+  {
+   "char": "쓩",
+   "unicode": "U+C4E9",
+   "cp932": "97f5",
+   "slot": "U+5EC9"
+  },
+  {
+   "char": "쓰",
+   "unicode": "U+C4F0",
+   "cp932": "97f7",
+   "slot": "U+6190"
+  },
+  {
+   "char": "쓱",
+   "unicode": "U+C4F1",
+   "cp932": "97f8",
+   "slot": "U+6F23"
+  },
+  {
+   "char": "쓴",
+   "unicode": "U+C4F4",
+   "cp932": "97fa",
+   "slot": "U+7C3E"
+  },
+  {
+   "char": "쓸",
+   "unicode": "U+C4F8",
+   "cp932": "97fc",
+   "slot": "U+806F"
+  },
+  {
+   "char": "씀",
+   "unicode": "U+C500",
+   "cp932": "9844",
+   "slot": "U+9B6F"
+  },
+  {
+   "char": "씁",
+   "unicode": "U+C501",
+   "cp932": "9845",
+   "slot": "U+6AD3"
+  },
+  {
+   "char": "씌",
+   "unicode": "U+C50C",
+   "cp932": "9847",
+   "slot": "U+8CC2"
+  },
+  {
+   "char": "씨",
+   "unicode": "U+C528",
+   "cp932": "984b",
+   "slot": "U+5A41"
+  },
+  {
+   "char": "씩",
+   "unicode": "U+C529",
+   "cp932": "9850",
+   "slot": "U+6994"
+  },
+  {
+   "char": "씬",
+   "unicode": "U+C52C",
+   "cp932": "9855",
+   "slot": "U+7BED"
+  },
+  {
+   "char": "씹",
+   "unicode": "U+C539",
+   "cp932": "9857",
+   "slot": "U+807E"
+  },
+  {
+   "char": "씻",
+   "unicode": "U+C53B",
+   "cp932": "9858",
+   "slot": "U+874B"
+  },
+  {
+   "char": "아",
+   "unicode": "U+C544",
+   "cp932": "9864",
+   "slot": "U+8CC4"
+  },
+  {
+   "char": "악",
+   "unicode": "U+C545",
+   "cp932": "9869",
+   "slot": "U+4E99"
+  },
+  {
+   "char": "안",
+   "unicode": "U+C548",
+   "cp932": "986a",
+   "slot": "U+4E98"
+  },
+  {
+   "char": "앉",
+   "unicode": "U+C549",
+   "cp932": "986b",
+   "slot": "U+9C10"
+  },
+  {
+   "char": "않",
+   "unicode": "U+C54A",
+   "cp932": "986e",
+   "slot": "U+8568"
+  },
+  {
+   "char": "알",
+   "unicode": "U+C54C",
+   "cp932": "986f",
+   "slot": "U+6900"
+  },
+  {
+   "char": "앎",
+   "unicode": "U+C54E",
+   "cp932": "9870",
+   "slot": "U+6E7E"
+  },
+  {
+   "char": "앓",
+   "unicode": "U+C553",
+   "cp932": "989f",
+   "slot": "U+5F0C"
+  },
+  {
+   "char": "암",
+   "unicode": "U+C554",
+   "cp932": "98a0",
+   "slot": "U+4E10"
+  },
+  {
+   "char": "압",
+   "unicode": "U+C555",
+   "cp932": "98a1",
+   "slot": "U+4E15"
+  },
+  {
+   "char": "앗",
+   "unicode": "U+C557",
+   "cp932": "98a2",
+   "slot": "U+4E2A"
+  },
+  {
+   "char": "았",
+   "unicode": "U+C558",
+   "cp932": "98a3",
+   "slot": "U+4E31"
+  },
+  {
+   "char": "앙",
+   "unicode": "U+C559",
+   "cp932": "98a4",
+   "slot": "U+4E36"
+  },
+  {
+   "char": "앞",
+   "unicode": "U+C55E",
+   "cp932": "98a6",
+   "slot": "U+4E3F"
+  },
+  {
+   "char": "애",
+   "unicode": "U+C560",
+   "cp932": "98a7",
+   "slot": "U+4E42"
+  },
+  {
+   "char": "액",
+   "unicode": "U+C561",
+   "cp932": "98a9",
+   "slot": "U+4E58"
+  },
+  {
+   "char": "앤",
+   "unicode": "U+C564",
+   "cp932": "98aa",
+   "slot": "U+4E82"
+  },
+  {
+   "char": "앨",
+   "unicode": "U+C568",
+   "cp932": "98ab",
+   "slot": "U+4E85"
+  },
+  {
+   "char": "앰",
+   "unicode": "U+C570",
+   "cp932": "98ac",
+   "slot": "U+8C6B"
+  },
+  {
+   "char": "앱",
+   "unicode": "U+C571",
+   "cp932": "98ad",
+   "slot": "U+4E8A"
+  },
+  {
+   "char": "앳",
+   "unicode": "U+C573",
+   "cp932": "98ae",
+   "slot": "U+8212"
+  },
+  {
+   "char": "앴",
+   "unicode": "U+C574",
+   "cp932": "98af",
+   "slot": "U+5F0D"
+  },
+  {
+   "char": "앵",
+   "unicode": "U+C575",
+   "cp932": "98b0",
+   "slot": "U+4E8E"
+  },
+  {
+   "char": "야",
+   "unicode": "U+C57C",
+   "cp932": "98b1",
+   "slot": "U+4E9E"
+  },
+  {
+   "char": "약",
+   "unicode": "U+C57D",
+   "cp932": "98b2",
+   "slot": "U+4E9F"
+  },
+  {
+   "char": "얀",
+   "unicode": "U+C580",
+   "cp932": "98b3",
+   "slot": "U+4EA0"
+  },
+  {
+   "char": "얄",
+   "unicode": "U+C584",
+   "cp932": "98b4",
+   "slot": "U+4EA2"
+  },
+  {
+   "char": "얇",
+   "unicode": "U+C587",
+   "cp932": "98b5",
+   "slot": "U+4EB0"
+  },
+  {
+   "char": "얌",
+   "unicode": "U+C58C",
+   "cp932": "98b6",
+   "slot": "U+4EB3"
+  },
+  {
+   "char": "얍",
+   "unicode": "U+C58D",
+   "cp932": "98b7",
+   "slot": "U+4EB6"
+  },
+  {
+   "char": "얏",
+   "unicode": "U+C58F",
+   "cp932": "98b8",
+   "slot": "U+4ECE"
+  },
+  {
+   "char": "양",
+   "unicode": "U+C591",
+   "cp932": "98b9",
+   "slot": "U+4ECD"
+  },
+  {
+   "char": "얕",
+   "unicode": "U+C595",
+   "cp932": "98ba",
+   "slot": "U+4EC4"
+  },
+  {
+   "char": "얗",
+   "unicode": "U+C597",
+   "cp932": "98bb",
+   "slot": "U+4EC6"
+  },
+  {
+   "char": "얘",
+   "unicode": "U+C598",
+   "cp932": "98bc",
+   "slot": "U+4EC2"
+  },
+  {
+   "char": "얜",
+   "unicode": "U+C59C",
+   "cp932": "98bd",
+   "slot": "U+4ED7"
+  },
+  {
+   "char": "얬",
+   "unicode": "U+C5AC",
+   "cp932": "98be",
+   "slot": "U+4EDE"
+  },
+  {
+   "char": "어",
+   "unicode": "U+C5B4",
+   "cp932": "98bf",
+   "slot": "U+4EED"
+  },
+  {
+   "char": "억",
+   "unicode": "U+C5B5",
+   "cp932": "98c0",
+   "slot": "U+4EDF"
+  },
+  {
+   "char": "언",
+   "unicode": "U+C5B8",
+   "cp932": "98c1",
+   "slot": "U+4EF7"
+  },
+  {
+   "char": "얹",
+   "unicode": "U+C5B9",
+   "cp932": "98c2",
+   "slot": "U+4F09"
+  },
+  {
+   "char": "얻",
+   "unicode": "U+C5BB",
+   "cp932": "98c3",
+   "slot": "U+4F5A"
+  },
+  {
+   "char": "얼",
+   "unicode": "U+C5BC",
+   "cp932": "98c4",
+   "slot": "U+4F30"
+  },
+  {
+   "char": "얽",
+   "unicode": "U+C5BD",
+   "cp932": "98c5",
+   "slot": "U+4F5B"
+  },
+  {
+   "char": "엄",
+   "unicode": "U+C5C4",
+   "cp932": "98c6",
+   "slot": "U+4F5D"
+  },
+  {
+   "char": "업",
+   "unicode": "U+C5C5",
+   "cp932": "98c7",
+   "slot": "U+4F57"
+  },
+  {
+   "char": "없",
+   "unicode": "U+C5C6",
+   "cp932": "98c9",
+   "slot": "U+4F76"
+  },
+  {
+   "char": "엇",
+   "unicode": "U+C5C7",
+   "cp932": "98ca",
+   "slot": "U+4F88"
+  },
+  {
+   "char": "었",
+   "unicode": "U+C5C8",
+   "cp932": "98cb",
+   "slot": "U+4F8F"
+  },
+  {
+   "char": "엉",
+   "unicode": "U+C5C9",
+   "cp932": "98cd",
+   "slot": "U+4F7B"
+  },
+  {
+   "char": "엊",
+   "unicode": "U+C5CA",
+   "cp932": "98ce",
+   "slot": "U+4F69"
+  },
+  {
+   "char": "엌",
+   "unicode": "U+C5CC",
+   "cp932": "98cf",
+   "slot": "U+4F70"
+  },
+  {
+   "char": "엎",
+   "unicode": "U+C5CE",
+   "cp932": "98d0",
+   "slot": "U+4F91"
+  },
+  {
+   "char": "에",
+   "unicode": "U+C5D0",
+   "cp932": "98d1",
+   "slot": "U+4F6F"
+  },
+  {
+   "char": "엑",
+   "unicode": "U+C5D1",
+   "cp932": "98d2",
+   "slot": "U+4F86"
+  },
+  {
+   "char": "엔",
+   "unicode": "U+C5D4",
+   "cp932": "98d3",
+   "slot": "U+4F96"
+  },
+  {
+   "char": "엘",
+   "unicode": "U+C5D8",
+   "cp932": "98d5",
+   "slot": "U+4FD4"
+  },
+  {
+   "char": "엠",
+   "unicode": "U+C5E0",
+   "cp932": "98d6",
+   "slot": "U+4FDF"
+  },
+  {
+   "char": "엣",
+   "unicode": "U+C5E3",
+   "cp932": "98d7",
+   "slot": "U+4FCE"
+  },
+  {
+   "char": "엥",
+   "unicode": "U+C5E5",
+   "cp932": "98d8",
+   "slot": "U+4FD8"
+  },
+  {
+   "char": "여",
+   "unicode": "U+C5EC",
+   "cp932": "98d9",
+   "slot": "U+4FDB"
+  },
+  {
+   "char": "역",
+   "unicode": "U+C5ED",
+   "cp932": "98da",
+   "slot": "U+4FD1"
+  },
+  {
+   "char": "엮",
+   "unicode": "U+C5EE",
+   "cp932": "98db",
+   "slot": "U+4FDA"
+  },
+  {
+   "char": "연",
+   "unicode": "U+C5F0",
+   "cp932": "98dc",
+   "slot": "U+4FD0"
+  },
+  {
+   "char": "열",
+   "unicode": "U+C5F4",
+   "cp932": "98dd",
+   "slot": "U+4FE4"
+  },
+  {
+   "char": "엶",
+   "unicode": "U+C5F6",
+   "cp932": "98de",
+   "slot": "U+4FE5"
+  },
+  {
+   "char": "엷",
+   "unicode": "U+C5F7",
+   "cp932": "98df",
+   "slot": "U+501A"
+  },
+  {
+   "char": "염",
+   "unicode": "U+C5FC",
+   "cp932": "98e0",
+   "slot": "U+5028"
+  },
+  {
+   "char": "엽",
+   "unicode": "U+C5FD",
+   "cp932": "98e1",
+   "slot": "U+5014"
+  },
+  {
+   "char": "엾",
+   "unicode": "U+C5FE",
+   "cp932": "98e2",
+   "slot": "U+502A"
+  },
+  {
+   "char": "엿",
+   "unicode": "U+C5FF",
+   "cp932": "98e3",
+   "slot": "U+5025"
+  },
+  {
+   "char": "였",
+   "unicode": "U+C600",
+   "cp932": "98e4",
+   "slot": "U+5005"
+  },
+  {
+   "char": "영",
+   "unicode": "U+C601",
+   "cp932": "98e5",
+   "slot": "U+4F1C"
+  },
+  {
+   "char": "옅",
+   "unicode": "U+C605",
+   "cp932": "98e6",
+   "slot": "U+4FF6"
+  },
+  {
+   "char": "옆",
+   "unicode": "U+C606",
+   "cp932": "98e7",
+   "slot": "U+5021"
+  },
+  {
+   "char": "예",
+   "unicode": "U+C608",
+   "cp932": "98e8",
+   "slot": "U+5029"
+  },
+  {
+   "char": "옐",
+   "unicode": "U+C610",
+   "cp932": "98e9",
+   "slot": "U+502C"
+  },
+  {
+   "char": "옛",
+   "unicode": "U+C61B",
+   "cp932": "98ea",
+   "slot": "U+4FFE"
+  },
+  {
+   "char": "오",
+   "unicode": "U+C624",
+   "cp932": "98ec",
+   "slot": "U+5011"
+  },
+  {
+   "char": "옥",
+   "unicode": "U+C625",
+   "cp932": "98ed",
+   "slot": "U+5006"
+  },
+  {
+   "char": "온",
+   "unicode": "U+C628",
+   "cp932": "98ee",
+   "slot": "U+5043"
+  },
+  {
+   "char": "올",
+   "unicode": "U+C62C",
+   "cp932": "98ef",
+   "slot": "U+5047"
+  },
+  {
+   "char": "옭",
+   "unicode": "U+C62D",
+   "cp932": "98f0",
+   "slot": "U+6703"
+  },
+  {
+   "char": "옮",
+   "unicode": "U+C62E",
+   "cp932": "98f1",
+   "slot": "U+5055"
+  },
+  {
+   "char": "옳",
+   "unicode": "U+C633",
+   "cp932": "98f2",
+   "slot": "U+5050"
+  },
+  {
+   "char": "옴",
+   "unicode": "U+C634",
+   "cp932": "98f3",
+   "slot": "U+5048"
+  },
+  {
+   "char": "옵",
+   "unicode": "U+C635",
+   "cp932": "98f4",
+   "slot": "U+505A"
+  },
+  {
+   "char": "옷",
+   "unicode": "U+C637",
+   "cp932": "98f5",
+   "slot": "U+5056"
+  },
+  {
+   "char": "옹",
+   "unicode": "U+C639",
+   "cp932": "98f6",
+   "slot": "U+506C"
+  },
+  {
+   "char": "와",
+   "unicode": "U+C640",
+   "cp932": "98f7",
+   "slot": "U+5078"
+  },
+  {
+   "char": "왁",
+   "unicode": "U+C641",
+   "cp932": "98f8",
+   "slot": "U+5080"
+  },
+  {
+   "char": "완",
+   "unicode": "U+C644",
+   "cp932": "98f9",
+   "slot": "U+509A"
+  },
+  {
+   "char": "왓",
+   "unicode": "U+C653",
+   "cp932": "98fa",
+   "slot": "U+5085"
+  },
+  {
+   "char": "왔",
+   "unicode": "U+C654",
+   "cp932": "98fb",
+   "slot": "U+50B4"
+  },
+  {
+   "char": "왕",
+   "unicode": "U+C655",
+   "cp932": "9941",
+   "slot": "U+50CA"
+  },
+  {
+   "char": "왜",
+   "unicode": "U+C65C",
+   "cp932": "9942",
+   "slot": "U+50B3"
+  },
+  {
+   "char": "왠",
+   "unicode": "U+C660",
+   "cp932": "9943",
+   "slot": "U+50C2"
+  },
+  {
+   "char": "외",
+   "unicode": "U+C678",
+   "cp932": "9944",
+   "slot": "U+50D6"
+  },
+  {
+   "char": "왼",
+   "unicode": "U+C67C",
+   "cp932": "9945",
+   "slot": "U+50DE"
+  },
+  {
+   "char": "요",
+   "unicode": "U+C694",
+   "cp932": "9948",
+   "slot": "U+50E3"
+  },
+  {
+   "char": "욕",
+   "unicode": "U+C695",
+   "cp932": "9949",
+   "slot": "U+50EE"
+  },
+  {
+   "char": "욘",
+   "unicode": "U+C698",
+   "cp932": "994a",
+   "slot": "U+50F9"
+  },
+  {
+   "char": "용",
+   "unicode": "U+C6A9",
+   "cp932": "994b",
+   "slot": "U+50F5"
+  },
+  {
+   "char": "우",
+   "unicode": "U+C6B0",
+   "cp932": "994c",
+   "slot": "U+5109"
+  },
+  {
+   "char": "욱",
+   "unicode": "U+C6B1",
+   "cp932": "994d",
+   "slot": "U+5101"
+  },
+  {
+   "char": "운",
+   "unicode": "U+C6B4",
+   "cp932": "994f",
+   "slot": "U+5116"
+  },
+  {
+   "char": "울",
+   "unicode": "U+C6B8",
+   "cp932": "9950",
+   "slot": "U+5115"
+  },
+  {
+   "char": "움",
+   "unicode": "U+C6C0",
+   "cp932": "9951",
+   "slot": "U+5114"
+  },
+  {
+   "char": "웁",
+   "unicode": "U+C6C1",
+   "cp932": "9953",
+   "slot": "U+5121"
+  },
+  {
+   "char": "웃",
+   "unicode": "U+C6C3",
+   "cp932": "9954",
+   "slot": "U+513A"
+  },
+  {
+   "char": "웅",
+   "unicode": "U+C6C5",
+   "cp932": "9955",
+   "slot": "U+5137"
+  },
+  {
+   "char": "워",
+   "unicode": "U+C6CC",
+   "cp932": "9956",
+   "slot": "U+513C"
+  },
+  {
+   "char": "원",
+   "unicode": "U+C6D0",
+   "cp932": "9957",
+   "slot": "U+513B"
+  },
+  {
+   "char": "월",
+   "unicode": "U+C6D4",
+   "cp932": "9958",
+   "slot": "U+513F"
+  },
+  {
+   "char": "웠",
+   "unicode": "U+C6E0",
+   "cp932": "9959",
+   "slot": "U+5140"
+  },
+  {
+   "char": "웨",
+   "unicode": "U+C6E8",
+   "cp932": "995a",
+   "slot": "U+5152"
+  },
+  {
+   "char": "웩",
+   "unicode": "U+C6E9",
+   "cp932": "995f",
+   "slot": "U+5169"
+  },
+  {
+   "char": "웬",
+   "unicode": "U+C6EC",
+   "cp932": "9961",
+   "slot": "U+516E"
+  },
+  {
+   "char": "웹",
+   "unicode": "U+C6F9",
+   "cp932": "9962",
+   "slot": "U+5180"
+  },
+  {
+   "char": "위",
+   "unicode": "U+C704",
+   "cp932": "9963",
+   "slot": "U+5182"
+  },
+  {
+   "char": "윈",
+   "unicode": "U+C708",
+   "cp932": "9964",
+   "slot": "U+56D8"
+  },
+  {
+   "char": "윌",
+   "unicode": "U+C70C",
+   "cp932": "9965",
+   "slot": "U+518C"
+  },
+  {
+   "char": "윕",
+   "unicode": "U+C715",
+   "cp932": "9966",
+   "slot": "U+5189"
+  },
+  {
+   "char": "윗",
+   "unicode": "U+C717",
+   "cp932": "9967",
+   "slot": "U+518F"
+  },
+  {
+   "char": "윙",
+   "unicode": "U+C719",
+   "cp932": "9968",
+   "slot": "U+5191"
+  },
+  {
+   "char": "유",
+   "unicode": "U+C720",
+   "cp932": "9969",
+   "slot": "U+5193"
+  },
+  {
+   "char": "육",
+   "unicode": "U+C721",
+   "cp932": "996a",
+   "slot": "U+5195"
+  },
+  {
+   "char": "윤",
+   "unicode": "U+C724",
+   "cp932": "996b",
+   "slot": "U+5196"
+  },
+  {
+   "char": "율",
+   "unicode": "U+C728",
+   "cp932": "996d",
+   "slot": "U+51A6"
+  },
+  {
+   "char": "융",
+   "unicode": "U+C735",
+   "cp932": "996e",
+   "slot": "U+51A2"
+  },
+  {
+   "char": "으",
+   "unicode": "U+C73C",
+   "cp932": "996f",
+   "slot": "U+51A9"
+  },
+  {
+   "char": "윽",
+   "unicode": "U+C73D",
+   "cp932": "9970",
+   "slot": "U+51AA"
+  },
+  {
+   "char": "은",
+   "unicode": "U+C740",
+   "cp932": "9971",
+   "slot": "U+51AB"
+  },
+  {
+   "char": "을",
+   "unicode": "U+C744",
+   "cp932": "9972",
+   "slot": "U+51B3"
+  },
+  {
+   "char": "읊",
+   "unicode": "U+C74A",
+   "cp932": "9973",
+   "slot": "U+51B1"
+  },
+  {
+   "char": "음",
+   "unicode": "U+C74C",
+   "cp932": "9974",
+   "slot": "U+51B2"
+  },
+  {
+   "char": "읍",
+   "unicode": "U+C74D",
+   "cp932": "9975",
+   "slot": "U+51B0"
+  },
+  {
+   "char": "읏",
+   "unicode": "U+C74F",
+   "cp932": "9976",
+   "slot": "U+51B5"
+  },
+  {
+   "char": "응",
+   "unicode": "U+C751",
+   "cp932": "9977",
+   "slot": "U+51BD"
+  },
+  {
+   "char": "의",
+   "unicode": "U+C758",
+   "cp932": "9978",
+   "slot": "U+51C5"
+  },
+  {
+   "char": "이",
+   "unicode": "U+C774",
+   "cp932": "9979",
+   "slot": "U+51C9"
+  },
+  {
+   "char": "익",
+   "unicode": "U+C775",
+   "cp932": "9980",
+   "slot": "U+51F0"
+  },
+  {
+   "char": "인",
+   "unicode": "U+C778",
+   "cp932": "9981",
+   "slot": "U+51F5"
+  },
+  {
+   "char": "일",
+   "unicode": "U+C77C",
+   "cp932": "9982",
+   "slot": "U+51FE"
+  },
+  {
+   "char": "읽",
+   "unicode": "U+C77D",
+   "cp932": "9983",
+   "slot": "U+5204"
+  },
+  {
+   "char": "잃",
+   "unicode": "U+C783",
+   "cp932": "9984",
+   "slot": "U+520B"
+  },
+  {
+   "char": "임",
+   "unicode": "U+C784",
+   "cp932": "9985",
+   "slot": "U+5214"
+  },
+  {
+   "char": "입",
+   "unicode": "U+C785",
+   "cp932": "9986",
+   "slot": "U+520E"
+  },
+  {
+   "char": "잇",
+   "unicode": "U+C787",
+   "cp932": "9987",
+   "slot": "U+5227"
+  },
+  {
+   "char": "있",
+   "unicode": "U+C788",
+   "cp932": "9988",
+   "slot": "U+522A"
+  },
+  {
+   "char": "잉",
+   "unicode": "U+C789",
+   "cp932": "9989",
+   "slot": "U+522E"
+  },
+  {
+   "char": "잊",
+   "unicode": "U+C78A",
+   "cp932": "998a",
+   "slot": "U+5233"
+  },
+  {
+   "char": "잎",
+   "unicode": "U+C78E",
+   "cp932": "998c",
+   "slot": "U+524F"
+  },
+  {
+   "char": "자",
+   "unicode": "U+C790",
+   "cp932": "998d",
+   "slot": "U+5244"
+  },
+  {
+   "char": "작",
+   "unicode": "U+C791",
+   "cp932": "998e",
+   "slot": "U+524B"
+  },
+  {
+   "char": "잔",
+   "unicode": "U+C794",
+   "cp932": "998f",
+   "slot": "U+524C"
+  },
+  {
+   "char": "잖",
+   "unicode": "U+C796",
+   "cp932": "9990",
+   "slot": "U+525E"
+  },
+  {
+   "char": "잘",
+   "unicode": "U+C798",
+   "cp932": "9991",
+   "slot": "U+5254"
+  },
+  {
+   "char": "잠",
+   "unicode": "U+C7A0",
+   "cp932": "9992",
+   "slot": "U+526A"
+  },
+  {
+   "char": "잡",
+   "unicode": "U+C7A1",
+   "cp932": "9993",
+   "slot": "U+5274"
+  },
+  {
+   "char": "잣",
+   "unicode": "U+C7A3",
+   "cp932": "9994",
+   "slot": "U+5269"
+  },
+  {
+   "char": "잤",
+   "unicode": "U+C7A4",
+   "cp932": "9995",
+   "slot": "U+5273"
+  },
+  {
+   "char": "장",
+   "unicode": "U+C7A5",
+   "cp932": "9996",
+   "slot": "U+527F"
+  },
+  {
+   "char": "잦",
+   "unicode": "U+C7A6",
+   "cp932": "9997",
+   "slot": "U+527D"
+  },
+  {
+   "char": "재",
+   "unicode": "U+C7AC",
+   "cp932": "9998",
+   "slot": "U+528D"
+  },
+  {
+   "char": "잰",
+   "unicode": "U+C7B0",
+   "cp932": "9999",
+   "slot": "U+5294"
+  },
+  {
+   "char": "잴",
+   "unicode": "U+C7B4",
+   "cp932": "999a",
+   "slot": "U+5292"
+  },
+  {
+   "char": "잽",
+   "unicode": "U+C7BD",
+   "cp932": "999b",
+   "slot": "U+5271"
+  },
+  {
+   "char": "잿",
+   "unicode": "U+C7BF",
+   "cp932": "999c",
+   "slot": "U+5288"
+  },
+  {
+   "char": "쟀",
+   "unicode": "U+C7C0",
+   "cp932": "999d",
+   "slot": "U+5291"
+  },
+  {
+   "char": "쟁",
+   "unicode": "U+C7C1",
+   "cp932": "999e",
+   "slot": "U+8FA8"
+  },
+  {
+   "char": "쟤",
+   "unicode": "U+C7E4",
+   "cp932": "999f",
+   "slot": "U+8FA7"
+  },
+  {
+   "char": "저",
+   "unicode": "U+C800",
+   "cp932": "99a0",
+   "slot": "U+52AC"
+  },
+  {
+   "char": "적",
+   "unicode": "U+C801",
+   "cp932": "99a1",
+   "slot": "U+52AD"
+  },
+  {
+   "char": "전",
+   "unicode": "U+C804",
+   "cp932": "99a2",
+   "slot": "U+52BC"
+  },
+  {
+   "char": "절",
+   "unicode": "U+C808",
+   "cp932": "99a3",
+   "slot": "U+52B5"
+  },
+  {
+   "char": "젊",
+   "unicode": "U+C80A",
+   "cp932": "99a4",
+   "slot": "U+52C1"
+  },
+  {
+   "char": "점",
+   "unicode": "U+C810",
+   "cp932": "99a5",
+   "slot": "U+52CD"
+  },
+  {
+   "char": "접",
+   "unicode": "U+C811",
+   "cp932": "99a6",
+   "slot": "U+52D7"
+  },
+  {
+   "char": "젓",
+   "unicode": "U+C813",
+   "cp932": "99a7",
+   "slot": "U+52DE"
+  },
+  {
+   "char": "정",
+   "unicode": "U+C815",
+   "cp932": "99a8",
+   "slot": "U+52E3"
+  },
+  {
+   "char": "젖",
+   "unicode": "U+C816",
+   "cp932": "99a9",
+   "slot": "U+52E6"
+  },
+  {
+   "char": "제",
+   "unicode": "U+C81C",
+   "cp932": "99aa",
+   "slot": "U+98ED"
+  },
+  {
+   "char": "젝",
+   "unicode": "U+C81D",
+   "cp932": "99ab",
+   "slot": "U+52E0"
+  },
+  {
+   "char": "젠",
+   "unicode": "U+C820",
+   "cp932": "99ac",
+   "slot": "U+52F3"
+  },
+  {
+   "char": "젤",
+   "unicode": "U+C824",
+   "cp932": "99ad",
+   "slot": "U+52F5"
+  },
+  {
+   "char": "젬",
+   "unicode": "U+C82C",
+   "cp932": "99ae",
+   "slot": "U+52F8"
+  },
+  {
+   "char": "젯",
+   "unicode": "U+C82F",
+   "cp932": "99af",
+   "slot": "U+52F9"
+  },
+  {
+   "char": "져",
+   "unicode": "U+C838",
+   "cp932": "99b0",
+   "slot": "U+5306"
+  },
+  {
+   "char": "졌",
+   "unicode": "U+C84C",
+   "cp932": "99b1",
+   "slot": "U+5308"
+  },
+  {
+   "char": "조",
+   "unicode": "U+C870",
+   "cp932": "99b2",
+   "slot": "U+7538"
+  },
+  {
+   "char": "족",
+   "unicode": "U+C871",
+   "cp932": "99b3",
+   "slot": "U+530D"
+  },
+  {
+   "char": "존",
+   "unicode": "U+C874",
+   "cp932": "99b4",
+   "slot": "U+5310"
+  },
+  {
+   "char": "졸",
+   "unicode": "U+C878",
+   "cp932": "99b5",
+   "slot": "U+530F"
+  },
+  {
+   "char": "좀",
+   "unicode": "U+C880",
+   "cp932": "99b6",
+   "slot": "U+5315"
+  },
+  {
+   "char": "좁",
+   "unicode": "U+C881",
+   "cp932": "99b7",
+   "slot": "U+531A"
+  },
+  {
+   "char": "종",
+   "unicode": "U+C885",
+   "cp932": "99b8",
+   "slot": "U+5323"
+  },
+  {
+   "char": "좇",
+   "unicode": "U+C887",
+   "cp932": "99b9",
+   "slot": "U+532F"
+  },
+  {
+   "char": "좋",
+   "unicode": "U+C88B",
+   "cp932": "99ba",
+   "slot": "U+5331"
+  },
+  {
+   "char": "좌",
+   "unicode": "U+C88C",
+   "cp932": "99bb",
+   "slot": "U+5333"
+  },
+  {
+   "char": "좍",
+   "unicode": "U+C88D",
+   "cp932": "99bc",
+   "slot": "U+5338"
+  },
+  {
+   "char": "죄",
+   "unicode": "U+C8C4",
+   "cp932": "99bd",
+   "slot": "U+5340"
+  },
+  {
+   "char": "죗",
+   "unicode": "U+C8D7",
+   "cp932": "99be",
+   "slot": "U+5346"
+  },
+  {
+   "char": "죠",
+   "unicode": "U+C8E0",
+   "cp932": "99bf",
+   "slot": "U+5345"
+  },
+  {
+   "char": "주",
+   "unicode": "U+C8FC",
+   "cp932": "99c0",
+   "slot": "U+4E17"
+  },
+  {
+   "char": "죽",
+   "unicode": "U+C8FD",
+   "cp932": "99c1",
+   "slot": "U+5349"
+  },
+  {
+   "char": "준",
+   "unicode": "U+C900",
+   "cp932": "99c2",
+   "slot": "U+534D"
+  },
+  {
+   "char": "줄",
+   "unicode": "U+C904",
+   "cp932": "99c3",
+   "slot": "U+51D6"
+  },
+  {
+   "char": "줌",
+   "unicode": "U+C90C",
+   "cp932": "99c4",
+   "slot": "U+535E"
+  },
+  {
+   "char": "줍",
+   "unicode": "U+C90D",
+   "cp932": "99c5",
+   "slot": "U+5369"
+  },
+  {
+   "char": "줏",
+   "unicode": "U+C90F",
+   "cp932": "99c6",
+   "slot": "U+536E"
+  },
+  {
+   "char": "중",
+   "unicode": "U+C911",
+   "cp932": "99c7",
+   "slot": "U+5918"
+  },
+  {
+   "char": "줘",
+   "unicode": "U+C918",
+   "cp932": "99c8",
+   "slot": "U+537B"
+  },
+  {
+   "char": "줬",
+   "unicode": "U+C92C",
+   "cp932": "99c9",
+   "slot": "U+5377"
+  },
+  {
+   "char": "쥐",
+   "unicode": "U+C950",
+   "cp932": "99ca",
+   "slot": "U+5382"
+  },
+  {
+   "char": "쥔",
+   "unicode": "U+C954",
+   "cp932": "99cb",
+   "slot": "U+5396"
+  },
+  {
+   "char": "쥘",
+   "unicode": "U+C958",
+   "cp932": "99cc",
+   "slot": "U+53A0"
+  },
+  {
+   "char": "쥬",
+   "unicode": "U+C96C",
+   "cp932": "99cd",
+   "slot": "U+53A6"
+  },
+  {
+   "char": "즈",
+   "unicode": "U+C988",
+   "cp932": "99ce",
+   "slot": "U+53A5"
+  },
+  {
+   "char": "즉",
+   "unicode": "U+C989",
+   "cp932": "99cf",
+   "slot": "U+53AE"
+  },
+  {
+   "char": "즐",
+   "unicode": "U+C990",
+   "cp932": "99d0",
+   "slot": "U+53B0"
+  },
+  {
+   "char": "즘",
+   "unicode": "U+C998",
+   "cp932": "99d1",
+   "slot": "U+53B6"
+  },
+  {
+   "char": "즙",
+   "unicode": "U+C999",
+   "cp932": "99d2",
+   "slot": "U+53C3"
+  },
+  {
+   "char": "증",
+   "unicode": "U+C99D",
+   "cp932": "99d3",
+   "slot": "U+7C12"
+  },
+  {
+   "char": "지",
+   "unicode": "U+C9C0",
+   "cp932": "99d4",
+   "slot": "U+96D9"
+  },
+  {
+   "char": "직",
+   "unicode": "U+C9C1",
+   "cp932": "99d5",
+   "slot": "U+53DF"
+  },
+  {
+   "char": "진",
+   "unicode": "U+C9C4",
+   "cp932": "99d6",
+   "slot": "U+66FC"
+  },
+  {
+   "char": "질",
+   "unicode": "U+C9C8",
+   "cp932": "99d7",
+   "slot": "U+71EE"
+  },
+  {
+   "char": "짊",
+   "unicode": "U+C9CA",
+   "cp932": "99d8",
+   "slot": "U+53EE"
+  },
+  {
+   "char": "짐",
+   "unicode": "U+C9D0",
+   "cp932": "99d9",
+   "slot": "U+53E8"
+  },
+  {
+   "char": "집",
+   "unicode": "U+C9D1",
+   "cp932": "99da",
+   "slot": "U+53ED"
+  },
+  {
+   "char": "짓",
+   "unicode": "U+C9D3",
+   "cp932": "99db",
+   "slot": "U+53FA"
+  },
+  {
+   "char": "징",
+   "unicode": "U+C9D5",
+   "cp932": "99dc",
+   "slot": "U+5401"
+  },
+  {
+   "char": "짖",
+   "unicode": "U+C9D6",
+   "cp932": "99de",
+   "slot": "U+5440"
+  },
+  {
+   "char": "짙",
+   "unicode": "U+C9D9",
+   "cp932": "99df",
+   "slot": "U+542C"
+  },
+  {
+   "char": "짚",
+   "unicode": "U+C9DA",
+   "cp932": "99e0",
+   "slot": "U+542D"
+  },
+  {
+   "char": "짜",
+   "unicode": "U+C9DC",
+   "cp932": "99e1",
+   "slot": "U+543C"
+  },
+  {
+   "char": "짝",
+   "unicode": "U+C9DD",
+   "cp932": "99e2",
+   "slot": "U+542E"
+  },
+  {
+   "char": "짠",
+   "unicode": "U+C9E0",
+   "cp932": "99e3",
+   "slot": "U+5436"
+  },
+  {
+   "char": "짢",
+   "unicode": "U+C9E2",
+   "cp932": "99e4",
+   "slot": "U+5429"
+  },
+  {
+   "char": "짤",
+   "unicode": "U+C9E4",
+   "cp932": "99e5",
+   "slot": "U+541D"
+  },
+  {
+   "char": "짧",
+   "unicode": "U+C9E7",
+   "cp932": "99e6",
+   "slot": "U+544E"
+  },
+  {
+   "char": "짬",
+   "unicode": "U+C9EC",
+   "cp932": "99e7",
+   "slot": "U+548F"
+  },
+  {
+   "char": "짰",
+   "unicode": "U+C9F0",
+   "cp932": "99eb",
+   "slot": "U+5471"
+  },
+  {
+   "char": "짱",
+   "unicode": "U+C9F1",
+   "cp932": "99ec",
+   "slot": "U+5477"
+  },
+  {
+   "char": "째",
+   "unicode": "U+C9F8",
+   "cp932": "99ed",
+   "slot": "U+5470"
+  },
+  {
+   "char": "쨌",
+   "unicode": "U+CA0C",
+   "cp932": "99ee",
+   "slot": "U+5492"
+  },
+  {
+   "char": "쨍",
+   "unicode": "U+CA0D",
+   "cp932": "99f1",
+   "slot": "U+5476"
+  },
+  {
+   "char": "쨩",
+   "unicode": "U+CA29",
+   "cp932": "99f3",
+   "slot": "U+5490"
+  },
+  {
+   "char": "쩌",
+   "unicode": "U+CA4C",
+   "cp932": "99f5",
+   "slot": "U+54C7"
+  },
+  {
+   "char": "쩍",
+   "unicode": "U+CA4D",
+   "cp932": "99f6",
+   "slot": "U+54A2"
+  },
+  {
+   "char": "쩐",
+   "unicode": "U+CA50",
+   "cp932": "99f7",
+   "slot": "U+54B8"
+  },
+  {
+   "char": "쩔",
+   "unicode": "U+CA54",
+   "cp932": "99f8",
+   "slot": "U+54A5"
+  },
+  {
+   "char": "쩜",
+   "unicode": "U+CA5C",
+   "cp932": "99f9",
+   "slot": "U+54AC"
+  },
+  {
+   "char": "쩝",
+   "unicode": "U+CA5D",
+   "cp932": "99fa",
+   "slot": "U+54C4"
+  },
+  {
+   "char": "쩡",
+   "unicode": "U+CA61",
+   "cp932": "99fb",
+   "slot": "U+54C8"
+  },
+  {
+   "char": "쩨",
+   "unicode": "U+CA68",
+   "cp932": "99fc",
+   "slot": "U+54A8"
+  },
+  {
+   "char": "쪄",
+   "unicode": "U+CA84",
+   "cp932": "9a41",
+   "slot": "U+54C2"
+  },
+  {
+   "char": "쪘",
+   "unicode": "U+CA98",
+   "cp932": "9a43",
+   "slot": "U+54BE"
+  },
+  {
+   "char": "쪼",
+   "unicode": "U+CABC",
+   "cp932": "9a44",
+   "slot": "U+54BC"
+  },
+  {
+   "char": "쪽",
+   "unicode": "U+CABD",
+   "cp932": "9a45",
+   "slot": "U+54D8"
+  },
+  {
+   "char": "쫄",
+   "unicode": "U+CAC4",
+   "cp932": "9a46",
+   "slot": "U+54E5"
+  },
+  {
+   "char": "쫓",
+   "unicode": "U+CAD3",
+   "cp932": "9a47",
+   "slot": "U+54E6"
+  },
+  {
+   "char": "쫙",
+   "unicode": "U+CAD9",
+   "cp932": "9a48",
+   "slot": "U+550F"
+  },
+  {
+   "char": "쬐",
+   "unicode": "U+CB10",
+   "cp932": "9a49",
+   "slot": "U+5514"
+  },
+  {
+   "char": "쬔",
+   "unicode": "U+CB14",
+   "cp932": "9a4a",
+   "slot": "U+54FD"
+  },
+  {
+   "char": "쭈",
+   "unicode": "U+CB48",
+   "cp932": "9a4d",
+   "slot": "U+54FA"
+  },
+  {
+   "char": "쭉",
+   "unicode": "U+CB49",
+   "cp932": "9a4e",
+   "slot": "U+54E2"
+  },
+  {
+   "char": "쭐",
+   "unicode": "U+CB50",
+   "cp932": "9a4f",
+   "slot": "U+5539"
+  },
+  {
+   "char": "쭙",
+   "unicode": "U+CB59",
+   "cp932": "9a50",
+   "slot": "U+5540"
+  },
+  {
+   "char": "쭤",
+   "unicode": "U+CB64",
+   "cp932": "9a51",
+   "slot": "U+5563"
+  },
+  {
+   "char": "쯤",
+   "unicode": "U+CBE4",
+   "cp932": "9a52",
+   "slot": "U+554C"
+  },
+  {
+   "char": "찌",
+   "unicode": "U+CC0C",
+   "cp932": "9a53",
+   "slot": "U+552E"
+  },
+  {
+   "char": "찍",
+   "unicode": "U+CC0D",
+   "cp932": "9a54",
+   "slot": "U+555C"
+  },
+  {
+   "char": "찔",
+   "unicode": "U+CC14",
+   "cp932": "9a55",
+   "slot": "U+5545"
+  },
+  {
+   "char": "찜",
+   "unicode": "U+CC1C",
+   "cp932": "9a57",
+   "slot": "U+5557"
+  },
+  {
+   "char": "찝",
+   "unicode": "U+CC1D",
+   "cp932": "9a59",
+   "slot": "U+5533"
+  },
+  {
+   "char": "찢",
+   "unicode": "U+CC22",
+   "cp932": "9a5a",
+   "slot": "U+555D"
+  },
+  {
+   "char": "찧",
+   "unicode": "U+CC27",
+   "cp932": "9a5f",
+   "slot": "U+559F"
+  },
+  {
+   "char": "차",
+   "unicode": "U+CC28",
+   "cp932": "9a61",
+   "slot": "U+557E"
+  },
+  {
+   "char": "착",
+   "unicode": "U+CC29",
+   "cp932": "9a63",
+   "slot": "U+559E"
+  },
+  {
+   "char": "찬",
+   "unicode": "U+CC2C",
+   "cp932": "9a64",
+   "slot": "U+55AE"
+  },
+  {
+   "char": "찮",
+   "unicode": "U+CC2E",
+   "cp932": "9a65",
+   "slot": "U+557C"
+  },
+  {
+   "char": "찰",
+   "unicode": "U+CC30",
+   "cp932": "9a66",
+   "slot": "U+5583"
+  },
+  {
+   "char": "참",
+   "unicode": "U+CC38",
+   "cp932": "9a67",
+   "slot": "U+55A9"
+  },
+  {
+   "char": "찻",
+   "unicode": "U+CC3B",
+   "cp932": "9a68",
+   "slot": "U+5587"
+  },
+  {
+   "char": "찼",
+   "unicode": "U+CC3C",
+   "cp932": "9a69",
+   "slot": "U+55A8"
+  },
+  {
+   "char": "창",
+   "unicode": "U+CC3D",
+   "cp932": "9a6d",
+   "slot": "U+55C4"
+  },
+  {
+   "char": "찾",
+   "unicode": "U+CC3E",
+   "cp932": "9a6e",
+   "slot": "U+55DC"
+  },
+  {
+   "char": "채",
+   "unicode": "U+CC44",
+   "cp932": "9a70",
+   "slot": "U+55D4"
+  },
+  {
+   "char": "책",
+   "unicode": "U+CC45",
+   "cp932": "9a71",
+   "slot": "U+5614"
+  },
+  {
+   "char": "챈",
+   "unicode": "U+CC48",
+   "cp932": "9a72",
+   "slot": "U+55F7"
+  },
+  {
+   "char": "챌",
+   "unicode": "U+CC4C",
+   "cp932": "9a73",
+   "slot": "U+5616"
+  },
+  {
+   "char": "챘",
+   "unicode": "U+CC58",
+   "cp932": "9a74",
+   "slot": "U+55FE"
+  },
+  {
+   "char": "챙",
+   "unicode": "U+CC59",
+   "cp932": "9a75",
+   "slot": "U+55FD"
+  },
+  {
+   "char": "처",
+   "unicode": "U+CC98",
+   "cp932": "9a76",
+   "slot": "U+561B"
+  },
+  {
+   "char": "척",
+   "unicode": "U+CC99",
+   "cp932": "9a77",
+   "slot": "U+55F9"
+  },
+  {
+   "char": "천",
+   "unicode": "U+CC9C",
+   "cp932": "9a78",
+   "slot": "U+564E"
+  },
+  {
+   "char": "철",
+   "unicode": "U+CCA0",
+   "cp932": "9a79",
+   "slot": "U+5650"
+  },
+  {
+   "char": "첨",
+   "unicode": "U+CCA8",
+   "cp932": "9a7a",
+   "slot": "U+71DF"
+  },
+  {
+   "char": "첩",
+   "unicode": "U+CCA9",
+   "cp932": "9a80",
+   "slot": "U+566B"
+  },
+  {
+   "char": "첫",
+   "unicode": "U+CCAB",
+   "cp932": "9a83",
+   "slot": "U+566C"
+  },
+  {
+   "char": "청",
+   "unicode": "U+CCAD",
+   "cp932": "9a85",
+   "slot": "U+5686"
+  },
+  {
+   "char": "체",
+   "unicode": "U+CCB4",
+   "cp932": "9a86",
+   "slot": "U+5680"
+  },
+  {
+   "char": "쳇",
+   "unicode": "U+CCC7",
+   "cp932": "9a87",
+   "slot": "U+568A"
+  },
+  {
+   "char": "쳐",
+   "unicode": "U+CCD0",
+   "cp932": "9a88",
+   "slot": "U+56A0"
+  },
+  {
+   "char": "쳤",
+   "unicode": "U+CCE4",
+   "cp932": "9a89",
+   "slot": "U+5694"
+  },
+  {
+   "char": "초",
+   "unicode": "U+CD08",
+   "cp932": "9a8a",
+   "slot": "U+568F"
+  },
+  {
+   "char": "촉",
+   "unicode": "U+CD09",
+   "cp932": "9a8c",
+   "slot": "U+56AE"
+  },
+  {
+   "char": "촌",
+   "unicode": "U+CD0C",
+   "cp932": "9a8d",
+   "slot": "U+56B6"
+  },
+  {
+   "char": "촛",
+   "unicode": "U+CD1B",
+   "cp932": "9a8e",
+   "slot": "U+56B4"
+  },
+  {
+   "char": "총",
+   "unicode": "U+CD1D",
+   "cp932": "9a8f",
+   "slot": "U+56C2"
+  },
+  {
+   "char": "촬",
+   "unicode": "U+CD2C",
+   "cp932": "9a93",
+   "slot": "U+56C0"
+  },
+  {
+   "char": "최",
+   "unicode": "U+CD5C",
+   "cp932": "9a94",
+   "slot": "U+56C8"
+  },
+  {
+   "char": "추",
+   "unicode": "U+CD94",
+   "cp932": "9a95",
+   "slot": "U+56CE"
+  },
+  {
+   "char": "축",
+   "unicode": "U+CD95",
+   "cp932": "9a96",
+   "slot": "U+56D1"
+  },
+  {
+   "char": "춘",
+   "unicode": "U+CD98",
+   "cp932": "9a98",
+   "slot": "U+56D7"
+  },
+  {
+   "char": "출",
+   "unicode": "U+CD9C",
+   "cp932": "9a9a",
+   "slot": "U+56F9"
+  },
+  {
+   "char": "춤",
+   "unicode": "U+CDA4",
+   "cp932": "9a9b",
+   "slot": "U+5700"
+  },
+  {
+   "char": "춥",
+   "unicode": "U+CDA5",
+   "cp932": "9a9c",
+   "slot": "U+56FF"
+  },
+  {
+   "char": "춧",
+   "unicode": "U+CDA7",
+   "cp932": "9a9d",
+   "slot": "U+5704"
+  },
+  {
+   "char": "충",
+   "unicode": "U+CDA9",
+   "cp932": "9a9e",
+   "slot": "U+5709"
+  },
+  {
+   "char": "춰",
+   "unicode": "U+CDB0",
+   "cp932": "9a9f",
+   "slot": "U+5708"
+  },
+  {
+   "char": "췄",
+   "unicode": "U+CDC4",
+   "cp932": "9aa0",
+   "slot": "U+570B"
+  },
+  {
+   "char": "취",
+   "unicode": "U+CDE8",
+   "cp932": "9aa1",
+   "slot": "U+570D"
+  },
+  {
+   "char": "츄",
+   "unicode": "U+CE04",
+   "cp932": "9aa2",
+   "slot": "U+5713"
+  },
+  {
+   "char": "츠",
+   "unicode": "U+CE20",
+   "cp932": "9aa3",
+   "slot": "U+5718"
+  },
+  {
+   "char": "측",
+   "unicode": "U+CE21",
+   "cp932": "9aa4",
+   "slot": "U+5716"
+  },
+  {
+   "char": "츤",
+   "unicode": "U+CE24",
+   "cp932": "9aa5",
+   "slot": "U+55C7"
+  },
+  {
+   "char": "층",
+   "unicode": "U+CE35",
+   "cp932": "9aa6",
+   "slot": "U+571C"
+  },
+  {
+   "char": "치",
+   "unicode": "U+CE58",
+   "cp932": "9aa7",
+   "slot": "U+5726"
+  },
+  {
+   "char": "칙",
+   "unicode": "U+CE59",
+   "cp932": "9aa8",
+   "slot": "U+5737"
+  },
+  {
+   "char": "친",
+   "unicode": "U+CE5C",
+   "cp932": "9aa9",
+   "slot": "U+5738"
+  },
+  {
+   "char": "칠",
+   "unicode": "U+CE60",
+   "cp932": "9aaa",
+   "slot": "U+574E"
+  },
+  {
+   "char": "침",
+   "unicode": "U+CE68",
+   "cp932": "9aab",
+   "slot": "U+573B"
+  },
+  {
+   "char": "칩",
+   "unicode": "U+CE69",
+   "cp932": "9aac",
+   "slot": "U+5740"
+  },
+  {
+   "char": "칫",
+   "unicode": "U+CE6B",
+   "cp932": "9aad",
+   "slot": "U+574F"
+  },
+  {
+   "char": "칭",
+   "unicode": "U+CE6D",
+   "cp932": "9aae",
+   "slot": "U+5769"
+  },
+  {
+   "char": "카",
+   "unicode": "U+CE74",
+   "cp932": "9aaf",
+   "slot": "U+57C0"
+  },
+  {
+   "char": "칵",
+   "unicode": "U+CE75",
+   "cp932": "9ab0",
+   "slot": "U+5788"
+  },
+  {
+   "char": "칸",
+   "unicode": "U+CE78",
+   "cp932": "9ab1",
+   "slot": "U+5761"
+  },
+  {
+   "char": "칼",
+   "unicode": "U+CE7C",
+   "cp932": "9ab2",
+   "slot": "U+577F"
+  },
+  {
+   "char": "캄",
+   "unicode": "U+CE84",
+   "cp932": "9ab3",
+   "slot": "U+5789"
+  },
+  {
+   "char": "캐",
+   "unicode": "U+CE90",
+   "cp932": "9ab4",
+   "slot": "U+5793"
+  },
+  {
+   "char": "캔",
+   "unicode": "U+CE94",
+   "cp932": "9ab5",
+   "slot": "U+57A0"
+  },
+  {
+   "char": "캠",
+   "unicode": "U+CEA0",
+   "cp932": "9ab6",
+   "slot": "U+57B3"
+  },
+  {
+   "char": "캡",
+   "unicode": "U+CEA1",
+   "cp932": "9ab7",
+   "slot": "U+57A4"
+  },
+  {
+   "char": "캬",
+   "unicode": "U+CEAC",
+   "cp932": "9ab8",
+   "slot": "U+57AA"
+  },
+  {
+   "char": "커",
+   "unicode": "U+CEE4",
+   "cp932": "9ab9",
+   "slot": "U+57B0"
+  },
+  {
+   "char": "컥",
+   "unicode": "U+CEE5",
+   "cp932": "9abb",
+   "slot": "U+57C6"
+  },
+  {
+   "char": "컨",
+   "unicode": "U+CEE8",
+   "cp932": "9abc",
+   "slot": "U+57D4"
+  },
+  {
+   "char": "컬",
+   "unicode": "U+CEEC",
+   "cp932": "9abd",
+   "slot": "U+57D2"
+  },
+  {
+   "char": "컴",
+   "unicode": "U+CEF4",
+   "cp932": "9abe",
+   "slot": "U+57D3"
+  },
+  {
+   "char": "컵",
+   "unicode": "U+CEF5",
+   "cp932": "9abf",
+   "slot": "U+580A"
+  },
+  {
+   "char": "컷",
+   "unicode": "U+CEF7",
+   "cp932": "9ac0",
+   "slot": "U+57D6"
+  },
+  {
+   "char": "컸",
+   "unicode": "U+CEF8",
+   "cp932": "9ac1",
+   "slot": "U+57E3"
+  },
+  {
+   "char": "컹",
+   "unicode": "U+CEF9",
+   "cp932": "9ac2",
+   "slot": "U+580B"
+  },
+  {
+   "char": "케",
+   "unicode": "U+CF00",
+   "cp932": "9ac3",
+   "slot": "U+5819"
+  },
+  {
+   "char": "켁",
+   "unicode": "U+CF01",
+   "cp932": "9ac4",
+   "slot": "U+581D"
+  },
+  {
+   "char": "켄",
+   "unicode": "U+CF04",
+   "cp932": "9ac5",
+   "slot": "U+5872"
+  },
+  {
+   "char": "켓",
+   "unicode": "U+CF13",
+   "cp932": "9ac6",
+   "slot": "U+5821"
+  },
+  {
+   "char": "켕",
+   "unicode": "U+CF15",
+   "cp932": "9ac7",
+   "slot": "U+5862"
+  },
+  {
+   "char": "켜",
+   "unicode": "U+CF1C",
+   "cp932": "9ac8",
+   "slot": "U+584B"
+  },
+  {
+   "char": "켠",
+   "unicode": "U+CF20",
+   "cp932": "9ac9",
+   "slot": "U+5870"
+  },
+  {
+   "char": "켤",
+   "unicode": "U+CF24",
+   "cp932": "9aca",
+   "slot": "U+6BC0"
+  },
+  {
+   "char": "켰",
+   "unicode": "U+CF30",
+   "cp932": "9acb",
+   "slot": "U+5852"
+  },
+  {
+   "char": "코",
+   "unicode": "U+CF54",
+   "cp932": "9acc",
+   "slot": "U+583D"
+  },
+  {
+   "char": "콕",
+   "unicode": "U+CF55",
+   "cp932": "9acd",
+   "slot": "U+5879"
+  },
+  {
+   "char": "콘",
+   "unicode": "U+CF58",
+   "cp932": "9ace",
+   "slot": "U+5885"
+  },
+  {
+   "char": "콜",
+   "unicode": "U+CF5C",
+   "cp932": "9acf",
+   "slot": "U+58B9"
+  },
+  {
+   "char": "콤",
+   "unicode": "U+CF64",
+   "cp932": "9ad1",
+   "slot": "U+58AB"
+  },
+  {
+   "char": "콧",
+   "unicode": "U+CF67",
+   "cp932": "9ad2",
+   "slot": "U+58BA"
+  },
+  {
+   "char": "콩",
+   "unicode": "U+CF69",
+   "cp932": "9ad3",
+   "slot": "U+58DE"
+  },
+  {
+   "char": "콰",
+   "unicode": "U+CF70",
+   "cp932": "9ad4",
+   "slot": "U+58BB"
+  },
+  {
+   "char": "콱",
+   "unicode": "U+CF71",
+   "cp932": "9ad5",
+   "slot": "U+58B8"
+  },
+  {
+   "char": "쾅",
+   "unicode": "U+CF85",
+   "cp932": "9ad6",
+   "slot": "U+58AE"
+  },
+  {
+   "char": "쾌",
+   "unicode": "U+CF8C",
+   "cp932": "9ad7",
+   "slot": "U+58C5"
+  },
+  {
+   "char": "쿄",
+   "unicode": "U+CFC4",
+   "cp932": "9ad8",
+   "slot": "U+58D3"
+  },
+  {
+   "char": "쿠",
+   "unicode": "U+CFE0",
+   "cp932": "9ad9",
+   "slot": "U+58D1"
+  },
+  {
+   "char": "쿡",
+   "unicode": "U+CFE1",
+   "cp932": "9ada",
+   "slot": "U+58D7"
+  },
+  {
+   "char": "쿨",
+   "unicode": "U+CFE8",
+   "cp932": "9adb",
+   "slot": "U+58D9"
+  },
+  {
+   "char": "쿵",
+   "unicode": "U+CFF5",
+   "cp932": "9adc",
+   "slot": "U+58D8"
+  },
+  {
+   "char": "퀄",
+   "unicode": "U+D004",
+   "cp932": "9add",
+   "slot": "U+58E5"
+  },
+  {
+   "char": "퀘",
+   "unicode": "U+D018",
+   "cp932": "9ade",
+   "slot": "U+58DC"
+  },
+  {
+   "char": "퀭",
+   "unicode": "U+D02D",
+   "cp932": "9adf",
+   "slot": "U+58E4"
+  },
+  {
+   "char": "퀴",
+   "unicode": "U+D034",
+   "cp932": "9ae0",
+   "slot": "U+58DF"
+  },
+  {
+   "char": "퀵",
+   "unicode": "U+D035",
+   "cp932": "9ae1",
+   "slot": "U+58EF"
+  },
+  {
+   "char": "퀸",
+   "unicode": "U+D038",
+   "cp932": "9ae3",
+   "slot": "U+58F9"
+  },
+  {
+   "char": "큇",
+   "unicode": "U+D047",
+   "cp932": "9ae4",
+   "slot": "U+58FB"
+  },
+  {
+   "char": "큐",
+   "unicode": "U+D050",
+   "cp932": "9ae5",
+   "slot": "U+58FC"
+  },
+  {
+   "char": "크",
+   "unicode": "U+D06C",
+   "cp932": "9ae6",
+   "slot": "U+58FD"
+  },
+  {
+   "char": "큭",
+   "unicode": "U+D06D",
+   "cp932": "9ae7",
+   "slot": "U+5902"
+  },
+  {
+   "char": "큰",
+   "unicode": "U+D070",
+   "cp932": "9ae8",
+   "slot": "U+590A"
+  },
+  {
+   "char": "클",
+   "unicode": "U+D074",
+   "cp932": "9ae9",
+   "slot": "U+5910"
+  },
+  {
+   "char": "큼",
+   "unicode": "U+D07C",
+   "cp932": "9aea",
+   "slot": "U+591B"
+  },
+  {
+   "char": "킁",
+   "unicode": "U+D081",
+   "cp932": "9aeb",
+   "slot": "U+68A6"
+  },
+  {
+   "char": "키",
+   "unicode": "U+D0A4",
+   "cp932": "9aec",
+   "slot": "U+5925"
+  },
+  {
+   "char": "킥",
+   "unicode": "U+D0A5",
+   "cp932": "9aed",
+   "slot": "U+592C"
+  },
+  {
+   "char": "킨",
+   "unicode": "U+D0A8",
+   "cp932": "9aee",
+   "slot": "U+592D"
+  },
+  {
+   "char": "킬",
+   "unicode": "U+D0AC",
+   "cp932": "9aef",
+   "slot": "U+5932"
+  },
+  {
+   "char": "킴",
+   "unicode": "U+D0B4",
+   "cp932": "9af0",
+   "slot": "U+5938"
+  },
+  {
+   "char": "킵",
+   "unicode": "U+D0B5",
+   "cp932": "9af1",
+   "slot": "U+593E"
+  },
+  {
+   "char": "킹",
+   "unicode": "U+D0B9",
+   "cp932": "9af2",
+   "slot": "U+7AD2"
+  },
+  {
+   "char": "타",
+   "unicode": "U+D0C0",
+   "cp932": "9af3",
+   "slot": "U+5955"
+  },
+  {
+   "char": "탁",
+   "unicode": "U+D0C1",
+   "cp932": "9af4",
+   "slot": "U+5950"
+  },
+  {
+   "char": "탄",
+   "unicode": "U+D0C4",
+   "cp932": "9af5",
+   "slot": "U+594E"
+  },
+  {
+   "char": "탈",
+   "unicode": "U+D0C8",
+   "cp932": "9af6",
+   "slot": "U+595A"
+  },
+  {
+   "char": "탐",
+   "unicode": "U+D0D0",
+   "cp932": "9af7",
+   "slot": "U+5958"
+  },
+  {
+   "char": "탑",
+   "unicode": "U+D0D1",
+   "cp932": "9af9",
+   "slot": "U+5960"
+  },
+  {
+   "char": "탓",
+   "unicode": "U+D0D3",
+   "cp932": "9afa",
+   "slot": "U+5967"
+  },
+  {
+   "char": "탔",
+   "unicode": "U+D0D4",
+   "cp932": "9afb",
+   "slot": "U+596C"
+  },
+  {
+   "char": "탕",
+   "unicode": "U+D0D5",
+   "cp932": "9afc",
+   "slot": "U+5969"
+  },
+  {
+   "char": "태",
+   "unicode": "U+D0DC",
+   "cp932": "9b41",
+   "slot": "U+5981"
+  },
+  {
+   "char": "택",
+   "unicode": "U+D0DD",
+   "cp932": "9b42",
+   "slot": "U+599D"
+  },
+  {
+   "char": "탱",
+   "unicode": "U+D0F1",
+   "cp932": "9b43",
+   "slot": "U+4F5E"
+  },
+  {
+   "char": "터",
+   "unicode": "U+D130",
+   "cp932": "9b44",
+   "slot": "U+4FAB"
+  },
+  {
+   "char": "턱",
+   "unicode": "U+D131",
+   "cp932": "9b45",
+   "slot": "U+59A3"
+  },
+  {
+   "char": "턴",
+   "unicode": "U+D134",
+   "cp932": "9b46",
+   "slot": "U+59B2"
+  },
+  {
+   "char": "털",
+   "unicode": "U+D138",
+   "cp932": "9b47",
+   "slot": "U+59C6"
+  },
+  {
+   "char": "텁",
+   "unicode": "U+D141",
+   "cp932": "9b48",
+   "slot": "U+59E8"
+  },
+  {
+   "char": "텃",
+   "unicode": "U+D143",
+   "cp932": "9b49",
+   "slot": "U+59DC"
+  },
+  {
+   "char": "텅",
+   "unicode": "U+D145",
+   "cp932": "9b4a",
+   "slot": "U+598D"
+  },
+  {
+   "char": "테",
+   "unicode": "U+D14C",
+   "cp932": "9b4b",
+   "slot": "U+59D9"
+  },
+  {
+   "char": "텍",
+   "unicode": "U+D14D",
+   "cp932": "9b4c",
+   "slot": "U+59DA"
+  },
+  {
+   "char": "텐",
+   "unicode": "U+D150",
+   "cp932": "9b4d",
+   "slot": "U+5A25"
+  },
+  {
+   "char": "텔",
+   "unicode": "U+D154",
+   "cp932": "9b4e",
+   "slot": "U+5A1F"
+  },
+  {
+   "char": "템",
+   "unicode": "U+D15C",
+   "cp932": "9b4f",
+   "slot": "U+5A11"
+  },
+  {
+   "char": "텨",
+   "unicode": "U+D168",
+   "cp932": "9b50",
+   "slot": "U+5A1C"
+  },
+  {
+   "char": "텼",
+   "unicode": "U+D17C",
+   "cp932": "9b51",
+   "slot": "U+5A09"
+  },
+  {
+   "char": "토",
+   "unicode": "U+D1A0",
+   "cp932": "9b52",
+   "slot": "U+5A1A"
+  },
+  {
+   "char": "톡",
+   "unicode": "U+D1A1",
+   "cp932": "9b53",
+   "slot": "U+5A40"
+  },
+  {
+   "char": "톤",
+   "unicode": "U+D1A4",
+   "cp932": "9b54",
+   "slot": "U+5A6C"
+  },
+  {
+   "char": "톨",
+   "unicode": "U+D1A8",
+   "cp932": "9b56",
+   "slot": "U+5A35"
+  },
+  {
+   "char": "톱",
+   "unicode": "U+D1B1",
+   "cp932": "9b57",
+   "slot": "U+5A36"
+  },
+  {
+   "char": "통",
+   "unicode": "U+D1B5",
+   "cp932": "9b58",
+   "slot": "U+5A62"
+  },
+  {
+   "char": "퇴",
+   "unicode": "U+D1F4",
+   "cp932": "9b59",
+   "slot": "U+5A6A"
+  },
+  {
+   "char": "투",
+   "unicode": "U+D22C",
+   "cp932": "9b5f",
+   "slot": "U+5ABD"
+  },
+  {
+   "char": "툭",
+   "unicode": "U+D22D",
+   "cp932": "9b61",
+   "slot": "U+5AD7"
+  },
+  {
+   "char": "툰",
+   "unicode": "U+D230",
+   "cp932": "9b62",
+   "slot": "U+5AE6"
+  },
+  {
+   "char": "툴",
+   "unicode": "U+D234",
+   "cp932": "9b63",
+   "slot": "U+5AE9"
+  },
+  {
+   "char": "툼",
+   "unicode": "U+D23C",
+   "cp932": "9b64",
+   "slot": "U+5AD6"
+  },
+  {
+   "char": "퉁",
+   "unicode": "U+D241",
+   "cp932": "9b65",
+   "slot": "U+5AFA"
+  },
+  {
+   "char": "퉤",
+   "unicode": "U+D264",
+   "cp932": "9b66",
+   "slot": "U+5AFB"
+  },
+  {
+   "char": "튀",
+   "unicode": "U+D280",
+   "cp932": "9b67",
+   "slot": "U+5B0C"
+  },
+  {
+   "char": "튄",
+   "unicode": "U+D284",
+   "cp932": "9b68",
+   "slot": "U+5B0B"
+  },
+  {
+   "char": "튈",
+   "unicode": "U+D288",
+   "cp932": "9b69",
+   "slot": "U+5B16"
+  },
+  {
+   "char": "튕",
+   "unicode": "U+D295",
+   "cp932": "9b6a",
+   "slot": "U+5B32"
+  },
+  {
+   "char": "튜",
+   "unicode": "U+D29C",
+   "cp932": "9b6b",
+   "slot": "U+5AD0"
+  },
+  {
+   "char": "튬",
+   "unicode": "U+D2AC",
+   "cp932": "9b6c",
+   "slot": "U+5B2A"
+  },
+  {
+   "char": "트",
+   "unicode": "U+D2B8",
+   "cp932": "9b6d",
+   "slot": "U+5B36"
+  },
+  {
+   "char": "특",
+   "unicode": "U+D2B9",
+   "cp932": "9b6e",
+   "slot": "U+5B3E"
+  },
+  {
+   "char": "튼",
+   "unicode": "U+D2BC",
+   "cp932": "9b6f",
+   "slot": "U+5B43"
+  },
+  {
+   "char": "틀",
+   "unicode": "U+D2C0",
+   "cp932": "9b70",
+   "slot": "U+5B45"
+  },
+  {
+   "char": "틈",
+   "unicode": "U+D2C8",
+   "cp932": "9b71",
+   "slot": "U+5B40"
+  },
+  {
+   "char": "틋",
+   "unicode": "U+D2CB",
+   "cp932": "9b72",
+   "slot": "U+5B51"
+  },
+  {
+   "char": "티",
+   "unicode": "U+D2F0",
+   "cp932": "9b74",
+   "slot": "U+5B5A"
+  },
+  {
+   "char": "틱",
+   "unicode": "U+D2F1",
+   "cp932": "9b75",
+   "slot": "U+5B5B"
+  },
+  {
+   "char": "틴",
+   "unicode": "U+D2F4",
+   "cp932": "9b76",
+   "slot": "U+5B65"
+  },
+  {
+   "char": "틸",
+   "unicode": "U+D2F8",
+   "cp932": "9b77",
+   "slot": "U+5B69"
+  },
+  {
+   "char": "팀",
+   "unicode": "U+D300",
+   "cp932": "9b78",
+   "slot": "U+5B70"
+  },
+  {
+   "char": "팅",
+   "unicode": "U+D305",
+   "cp932": "9b79",
+   "slot": "U+5B73"
+  },
+  {
+   "char": "파",
+   "unicode": "U+D30C",
+   "cp932": "9b7a",
+   "slot": "U+5B75"
+  },
+  {
+   "char": "팍",
+   "unicode": "U+D30D",
+   "cp932": "9b80",
+   "slot": "U+5B83"
+  },
+  {
+   "char": "팎",
+   "unicode": "U+D30E",
+   "cp932": "9b81",
+   "slot": "U+5BA6"
+  },
+  {
+   "char": "판",
+   "unicode": "U+D310",
+   "cp932": "9b82",
+   "slot": "U+5BB8"
+  },
+  {
+   "char": "팔",
+   "unicode": "U+D314",
+   "cp932": "9b83",
+   "slot": "U+5BC3"
+  },
+  {
+   "char": "팟",
+   "unicode": "U+D31F",
+   "cp932": "9b84",
+   "slot": "U+5BC7"
+  },
+  {
+   "char": "팠",
+   "unicode": "U+D320",
+   "cp932": "9b85",
+   "slot": "U+5BC9"
+  },
+  {
+   "char": "팡",
+   "unicode": "U+D321",
+   "cp932": "9b86",
+   "slot": "U+5BD4"
+  },
+  {
+   "char": "팥",
+   "unicode": "U+D325",
+   "cp932": "9b87",
+   "slot": "U+5BD0"
+  },
+  {
+   "char": "패",
+   "unicode": "U+D328",
+   "cp932": "9b88",
+   "slot": "U+5BE4"
+  },
+  {
+   "char": "팩",
+   "unicode": "U+D329",
+   "cp932": "9b89",
+   "slot": "U+5BE6"
+  },
+  {
+   "char": "팬",
+   "unicode": "U+D32C",
+   "cp932": "9b8a",
+   "slot": "U+5BE2"
+  },
+  {
+   "char": "팸",
+   "unicode": "U+D338",
+   "cp932": "9b8b",
+   "slot": "U+5BDE"
+  },
+  {
+   "char": "팻",
+   "unicode": "U+D33B",
+   "cp932": "9b8d",
+   "slot": "U+5BEB"
+  },
+  {
+   "char": "팽",
+   "unicode": "U+D33D",
+   "cp932": "9b8e",
+   "slot": "U+5BF0"
+  },
+  {
+   "char": "퍼",
+   "unicode": "U+D37C",
+   "cp932": "9b8f",
+   "slot": "U+5BF6"
+  },
+  {
+   "char": "퍽",
+   "unicode": "U+D37D",
+   "cp932": "9b90",
+   "slot": "U+5BF3"
+  },
+  {
+   "char": "펀",
+   "unicode": "U+D380",
+   "cp932": "9b91",
+   "slot": "U+5C05"
+  },
+  {
+   "char": "펄",
+   "unicode": "U+D384",
+   "cp932": "9b92",
+   "slot": "U+5C07"
+  },
+  {
+   "char": "펐",
+   "unicode": "U+D390",
+   "cp932": "9b93",
+   "slot": "U+5C08"
+  },
+  {
+   "char": "펑",
+   "unicode": "U+D391",
+   "cp932": "9b94",
+   "slot": "U+5C0D"
+  },
+  {
+   "char": "페",
+   "unicode": "U+D398",
+   "cp932": "9b95",
+   "slot": "U+5C13"
+  },
+  {
+   "char": "펙",
+   "unicode": "U+D399",
+   "cp932": "9b96",
+   "slot": "U+5C20"
+  },
+  {
+   "char": "펜",
+   "unicode": "U+D39C",
+   "cp932": "9b97",
+   "slot": "U+5C22"
+  },
+  {
+   "char": "펫",
+   "unicode": "U+D3AB",
+   "cp932": "9b98",
+   "slot": "U+5C28"
+  },
+  {
+   "char": "펴",
+   "unicode": "U+D3B4",
+   "cp932": "9b99",
+   "slot": "U+5C38"
+  },
+  {
+   "char": "편",
+   "unicode": "U+D3B8",
+   "cp932": "9b9a",
+   "slot": "U+5C39"
+  },
+  {
+   "char": "펼",
+   "unicode": "U+D3BC",
+   "cp932": "9b9c",
+   "slot": "U+5C46"
+  },
+  {
+   "char": "폈",
+   "unicode": "U+D3C8",
+   "cp932": "9b9d",
+   "slot": "U+5C4E"
+  },
+  {
+   "char": "평",
+   "unicode": "U+D3C9",
+   "cp932": "9b9f",
+   "slot": "U+5C50"
+  },
+  {
+   "char": "폐",
+   "unicode": "U+D3D0",
+   "cp932": "9ba0",
+   "slot": "U+5C4F"
+  },
+  {
+   "char": "포",
+   "unicode": "U+D3EC",
+   "cp932": "9ba1",
+   "slot": "U+5B71"
+  },
+  {
+   "char": "폭",
+   "unicode": "U+D3ED",
+   "cp932": "9ba2",
+   "slot": "U+5C6C"
+  },
+  {
+   "char": "폰",
+   "unicode": "U+D3F0",
+   "cp932": "9ba3",
+   "slot": "U+5C6E"
+  },
+  {
+   "char": "폴",
+   "unicode": "U+D3F4",
+   "cp932": "9ba4",
+   "slot": "U+4E62"
+  },
+  {
+   "char": "폼",
+   "unicode": "U+D3FC",
+   "cp932": "9ba5",
+   "slot": "U+5C76"
+  },
+  {
+   "char": "폿",
+   "unicode": "U+D3FF",
+   "cp932": "9ba6",
+   "slot": "U+5C79"
+  },
+  {
+   "char": "퐁",
+   "unicode": "U+D401",
+   "cp932": "9ba7",
+   "slot": "U+5C8C"
+  },
+  {
+   "char": "표",
+   "unicode": "U+D45C",
+   "cp932": "9ba8",
+   "slot": "U+5C91"
+  },
+  {
+   "char": "푱",
+   "unicode": "U+D471",
+   "cp932": "9ba9",
+   "slot": "U+5C94"
+  },
+  {
+   "char": "푸",
+   "unicode": "U+D478",
+   "cp932": "9baa",
+   "slot": "U+599B"
+  },
+  {
+   "char": "푹",
+   "unicode": "U+D479",
+   "cp932": "9bab",
+   "slot": "U+5CAB"
+  },
+  {
+   "char": "푼",
+   "unicode": "U+D47C",
+   "cp932": "9bac",
+   "slot": "U+5CBB"
+  },
+  {
+   "char": "풀",
+   "unicode": "U+D480",
+   "cp932": "9bad",
+   "slot": "U+5CB6"
+  },
+  {
+   "char": "풂",
+   "unicode": "U+D482",
+   "cp932": "9bae",
+   "slot": "U+5CBC"
+  },
+  {
+   "char": "품",
+   "unicode": "U+D488",
+   "cp932": "9baf",
+   "slot": "U+5CB7"
+  },
+  {
+   "char": "풉",
+   "unicode": "U+D489",
+   "cp932": "9bb0",
+   "slot": "U+5CC5"
+  },
+  {
+   "char": "풋",
+   "unicode": "U+D48B",
+   "cp932": "9bb1",
+   "slot": "U+5CBE"
+  },
+  {
+   "char": "풍",
+   "unicode": "U+D48D",
+   "cp932": "9bb2",
+   "slot": "U+5CC7"
+  },
+  {
+   "char": "퓨",
+   "unicode": "U+D4E8",
+   "cp932": "9bb4",
+   "slot": "U+5CE9"
+  },
+  {
+   "char": "프",
+   "unicode": "U+D504",
+   "cp932": "9bb5",
+   "slot": "U+5CFD"
+  },
+  {
+   "char": "픈",
+   "unicode": "U+D508",
+   "cp932": "9bb6",
+   "slot": "U+5CFA"
+  },
+  {
+   "char": "플",
+   "unicode": "U+D50C",
+   "cp932": "9bb7",
+   "slot": "U+5CED"
+  },
+  {
+   "char": "픔",
+   "unicode": "U+D514",
+   "cp932": "9bb8",
+   "slot": "U+5D8C"
+  },
+  {
+   "char": "피",
+   "unicode": "U+D53C",
+   "cp932": "9bb9",
+   "slot": "U+5CEA"
+  },
+  {
+   "char": "픽",
+   "unicode": "U+D53D",
+   "cp932": "9bba",
+   "slot": "U+5D0B"
+  },
+  {
+   "char": "핀",
+   "unicode": "U+D540",
+   "cp932": "9bbb",
+   "slot": "U+5D15"
+  },
+  {
+   "char": "필",
+   "unicode": "U+D544",
+   "cp932": "9bbc",
+   "slot": "U+5D17"
+  },
+  {
+   "char": "핍",
+   "unicode": "U+D54D",
+   "cp932": "9bbd",
+   "slot": "U+5D5C"
+  },
+  {
+   "char": "핏",
+   "unicode": "U+D54F",
+   "cp932": "9bbe",
+   "slot": "U+5D1F"
+  },
+  {
+   "char": "핑",
+   "unicode": "U+D551",
+   "cp932": "9bbf",
+   "slot": "U+5D1B"
+  },
+  {
+   "char": "하",
+   "unicode": "U+D558",
+   "cp932": "9bc0",
+   "slot": "U+5D11"
+  },
+  {
+   "char": "학",
+   "unicode": "U+D559",
+   "cp932": "9bc1",
+   "slot": "U+5D14"
+  },
+  {
+   "char": "한",
+   "unicode": "U+D55C",
+   "cp932": "9bc2",
+   "slot": "U+5D22"
+  },
+  {
+   "char": "할",
+   "unicode": "U+D560",
+   "cp932": "9bc3",
+   "slot": "U+5D1A"
+  },
+  {
+   "char": "핥",
+   "unicode": "U+D565",
+   "cp932": "9bc4",
+   "slot": "U+5D19"
+  },
+  {
+   "char": "함",
+   "unicode": "U+D568",
+   "cp932": "9bc5",
+   "slot": "U+5D18"
+  },
+  {
+   "char": "합",
+   "unicode": "U+D569",
+   "cp932": "9bc7",
+   "slot": "U+5D52"
+  },
+  {
+   "char": "핫",
+   "unicode": "U+D56B",
+   "cp932": "9bc8",
+   "slot": "U+5D4E"
+  },
+  {
+   "char": "항",
+   "unicode": "U+D56D",
+   "cp932": "9bc9",
+   "slot": "U+5D4B"
+  },
+  {
+   "char": "해",
+   "unicode": "U+D574",
+   "cp932": "9bca",
+   "slot": "U+5D6C"
+  },
+  {
+   "char": "핵",
+   "unicode": "U+D575",
+   "cp932": "9bcb",
+   "slot": "U+5D73"
+  },
+  {
+   "char": "핸",
+   "unicode": "U+D578",
+   "cp932": "9bcc",
+   "slot": "U+5D76"
+  },
+  {
+   "char": "햄",
+   "unicode": "U+D584",
+   "cp932": "9bcd",
+   "slot": "U+5D87"
+  },
+  {
+   "char": "햇",
+   "unicode": "U+D587",
+   "cp932": "9bce",
+   "slot": "U+5D84"
+  },
+  {
+   "char": "했",
+   "unicode": "U+D588",
+   "cp932": "9bcf",
+   "slot": "U+5D82"
+  },
+  {
+   "char": "행",
+   "unicode": "U+D589",
+   "cp932": "9bd0",
+   "slot": "U+5DA2"
+  },
+  {
+   "char": "햐",
+   "unicode": "U+D590",
+   "cp932": "9bd1",
+   "slot": "U+5D9D"
+  },
+  {
+   "char": "햑",
+   "unicode": "U+D591",
+   "cp932": "9bd2",
+   "slot": "U+5DAC"
+  },
+  {
+   "char": "햣",
+   "unicode": "U+D5A3",
+   "cp932": "9bd3",
+   "slot": "U+5DAE"
+  },
+  {
+   "char": "향",
+   "unicode": "U+D5A5",
+   "cp932": "9bd4",
+   "slot": "U+5DBD"
+  },
+  {
+   "char": "허",
+   "unicode": "U+D5C8",
+   "cp932": "9bd5",
+   "slot": "U+5D90"
+  },
+  {
+   "char": "헉",
+   "unicode": "U+D5C9",
+   "cp932": "9bd6",
+   "slot": "U+5DB7"
+  },
+  {
+   "char": "헌",
+   "unicode": "U+D5CC",
+   "cp932": "9bd7",
+   "slot": "U+5DBC"
+  },
+  {
+   "char": "헐",
+   "unicode": "U+D5D0",
+   "cp932": "9bd8",
+   "slot": "U+5DC9"
+  },
+  {
+   "char": "험",
+   "unicode": "U+D5D8",
+   "cp932": "9bd9",
+   "slot": "U+5DCD"
+  },
+  {
+   "char": "헛",
+   "unicode": "U+D5DB",
+   "cp932": "9bda",
+   "slot": "U+5DD3"
+  },
+  {
+   "char": "헝",
+   "unicode": "U+D5DD",
+   "cp932": "9bdb",
+   "slot": "U+5DD2"
+  },
+  {
+   "char": "헤",
+   "unicode": "U+D5E4",
+   "cp932": "9bdc",
+   "slot": "U+5DD6"
+  },
+  {
+   "char": "헬",
+   "unicode": "U+D5EC",
+   "cp932": "9bdd",
+   "slot": "U+5DDB"
+  },
+  {
+   "char": "헴",
+   "unicode": "U+D5F4",
+   "cp932": "9bdf",
+   "slot": "U+5DF2"
+  },
+  {
+   "char": "헵",
+   "unicode": "U+D5F5",
+   "cp932": "9be0",
+   "slot": "U+5DF5"
+  },
+  {
+   "char": "헷",
+   "unicode": "U+D5F7",
+   "cp932": "9be1",
+   "slot": "U+5E0B"
+  },
+  {
+   "char": "헹",
+   "unicode": "U+D5F9",
+   "cp932": "9be2",
+   "slot": "U+5E1A"
+  },
+  {
+   "char": "혀",
+   "unicode": "U+D600",
+   "cp932": "9be3",
+   "slot": "U+5E19"
+  },
+  {
+   "char": "혁",
+   "unicode": "U+D601",
+   "cp932": "9be4",
+   "slot": "U+5E11"
+  },
+  {
+   "char": "현",
+   "unicode": "U+D604",
+   "cp932": "9be5",
+   "slot": "U+5E1B"
+  },
+  {
+   "char": "혈",
+   "unicode": "U+D608",
+   "cp932": "9be6",
+   "slot": "U+5E36"
+  },
+  {
+   "char": "혐",
+   "unicode": "U+D610",
+   "cp932": "9be7",
+   "slot": "U+5E37"
+  },
+  {
+   "char": "협",
+   "unicode": "U+D611",
+   "cp932": "9be8",
+   "slot": "U+5E44"
+  },
+  {
+   "char": "혓",
+   "unicode": "U+D613",
+   "cp932": "9be9",
+   "slot": "U+5E43"
+  },
+  {
+   "char": "혔",
+   "unicode": "U+D614",
+   "cp932": "9bea",
+   "slot": "U+5E40"
+  },
+  {
+   "char": "형",
+   "unicode": "U+D615",
+   "cp932": "9beb",
+   "slot": "U+5E4E"
+  },
+  {
+   "char": "혜",
+   "unicode": "U+D61C",
+   "cp932": "9bec",
+   "slot": "U+5E57"
+  },
+  {
+   "char": "호",
+   "unicode": "U+D638",
+   "cp932": "9bed",
+   "slot": "U+5E54"
+  },
+  {
+   "char": "혹",
+   "unicode": "U+D639",
+   "cp932": "9bee",
+   "slot": "U+5E5F"
+  },
+  {
+   "char": "혼",
+   "unicode": "U+D63C",
+   "cp932": "9bef",
+   "slot": "U+5E62"
+  },
+  {
+   "char": "홀",
+   "unicode": "U+D640",
+   "cp932": "9bf0",
+   "slot": "U+5E64"
+  },
+  {
+   "char": "홈",
+   "unicode": "U+D648",
+   "cp932": "9bf1",
+   "slot": "U+5E47"
+  },
+  {
+   "char": "홉",
+   "unicode": "U+D649",
+   "cp932": "9bf2",
+   "slot": "U+5E75"
+  },
+  {
+   "char": "홍",
+   "unicode": "U+D64D",
+   "cp932": "9bf3",
+   "slot": "U+5E76"
+  },
+  {
+   "char": "화",
+   "unicode": "U+D654",
+   "cp932": "9bf4",
+   "slot": "U+5E7A"
+  },
+  {
+   "char": "확",
+   "unicode": "U+D655",
+   "cp932": "9bf5",
+   "slot": "U+9EBC"
+  },
+  {
+   "char": "환",
+   "unicode": "U+D658",
+   "cp932": "9bf6",
+   "slot": "U+5E7F"
+  },
+  {
+   "char": "활",
+   "unicode": "U+D65C",
+   "cp932": "9bf7",
+   "slot": "U+5EA0"
+  },
+  {
+   "char": "홧",
+   "unicode": "U+D667",
+   "cp932": "9bf8",
+   "slot": "U+5EC1"
+  },
+  {
+   "char": "황",
+   "unicode": "U+D669",
+   "cp932": "9bf9",
+   "slot": "U+5EC2"
+  },
+  {
+   "char": "홱",
+   "unicode": "U+D671",
+   "cp932": "9bfa",
+   "slot": "U+5EC8"
+  },
+  {
+   "char": "횃",
+   "unicode": "U+D683",
+   "cp932": "9bfb",
+   "slot": "U+5ED0"
+  },
+  {
+   "char": "회",
+   "unicode": "U+D68C",
+   "cp932": "9bfc",
+   "slot": "U+5ECF"
+  },
+  {
+   "char": "획",
+   "unicode": "U+D68D",
+   "cp932": "9c41",
+   "slot": "U+5EE3"
+  },
+  {
+   "char": "횟",
+   "unicode": "U+D69F",
+   "cp932": "9c42",
+   "slot": "U+5EDD"
+  },
+  {
+   "char": "횡",
+   "unicode": "U+D6A1",
+   "cp932": "9c43",
+   "slot": "U+5EDA"
+  },
+  {
+   "char": "효",
+   "unicode": "U+D6A8",
+   "cp932": "9c44",
+   "slot": "U+5EDB"
+  },
+  {
+   "char": "횻",
+   "unicode": "U+D6BB",
+   "cp932": "9c45",
+   "slot": "U+5EE2"
+  },
+  {
+   "char": "후",
+   "unicode": "U+D6C4",
+   "cp932": "9c46",
+   "slot": "U+5EE1"
+  },
+  {
+   "char": "훅",
+   "unicode": "U+D6C5",
+   "cp932": "9c47",
+   "slot": "U+5EE8"
+  },
+  {
+   "char": "훈",
+   "unicode": "U+D6C8",
+   "cp932": "9c48",
+   "slot": "U+5EE9"
+  },
+  {
+   "char": "훌",
+   "unicode": "U+D6CC",
+   "cp932": "9c49",
+   "slot": "U+5EEC"
+  },
+  {
+   "char": "훑",
+   "unicode": "U+D6D1",
+   "cp932": "9c4a",
+   "slot": "U+5EF1"
+  },
+  {
+   "char": "훔",
+   "unicode": "U+D6D4",
+   "cp932": "9c4b",
+   "slot": "U+5EF3"
+  },
+  {
+   "char": "훕",
+   "unicode": "U+D6D5",
+   "cp932": "9c4c",
+   "slot": "U+5EF0"
+  },
+  {
+   "char": "훗",
+   "unicode": "U+D6D7",
+   "cp932": "9c4d",
+   "slot": "U+5EF4"
+  },
+  {
+   "char": "훠",
+   "unicode": "U+D6E0",
+   "cp932": "9c4e",
+   "slot": "U+5EF8"
+  },
+  {
+   "char": "훤",
+   "unicode": "U+D6E4",
+   "cp932": "9c4f",
+   "slot": "U+5EFE"
+  },
+  {
+   "char": "훨",
+   "unicode": "U+D6E8",
+   "cp932": "9c50",
+   "slot": "U+5F03"
+  },
+  {
+   "char": "훱",
+   "unicode": "U+D6F1",
+   "cp932": "9c51",
+   "slot": "U+5F09"
+  },
+  {
+   "char": "휑",
+   "unicode": "U+D711",
+   "cp932": "9c52",
+   "slot": "U+5F5D"
+  },
+  {
+   "char": "휘",
+   "unicode": "U+D718",
+   "cp932": "9c53",
+   "slot": "U+5F5C"
+  },
+  {
+   "char": "휙",
+   "unicode": "U+D719",
+   "cp932": "9c54",
+   "slot": "U+5F0B"
+  },
+  {
+   "char": "휩",
+   "unicode": "U+D729",
+   "cp932": "9c55",
+   "slot": "U+5F11"
+  },
+  {
+   "char": "휴",
+   "unicode": "U+D734",
+   "cp932": "9c56",
+   "slot": "U+5F16"
+  },
+  {
+   "char": "흉",
+   "unicode": "U+D749",
+   "cp932": "9c58",
+   "slot": "U+5F2D"
+  },
+  {
+   "char": "흐",
+   "unicode": "U+D750",
+   "cp932": "9c59",
+   "slot": "U+5F38"
+  },
+  {
+   "char": "흑",
+   "unicode": "U+D751",
+   "cp932": "9c5a",
+   "slot": "U+5F41"
+  },
+  {
+   "char": "흔",
+   "unicode": "U+D754",
+   "cp932": "9c5f",
+   "slot": "U+5F51"
+  },
+  {
+   "char": "흘",
+   "unicode": "U+D758",
+   "cp932": "9c61",
+   "slot": "U+5F57"
+  },
+  {
+   "char": "흙",
+   "unicode": "U+D759",
+   "cp932": "9c62",
+   "slot": "U+5F59"
+  },
+  {
+   "char": "흠",
+   "unicode": "U+D760",
+   "cp932": "9c63",
+   "slot": "U+5F61"
+  },
+  {
+   "char": "흡",
+   "unicode": "U+D761",
+   "cp932": "9c64",
+   "slot": "U+5F6D"
+  },
+  {
+   "char": "흣",
+   "unicode": "U+D763",
+   "cp932": "9c65",
+   "slot": "U+5F73"
+  },
+  {
+   "char": "흥",
+   "unicode": "U+D765",
+   "cp932": "9c67",
+   "slot": "U+5F83"
+  },
+  {
+   "char": "흩",
+   "unicode": "U+D769",
+   "cp932": "9c68",
+   "slot": "U+5F82"
+  },
+  {
+   "char": "희",
+   "unicode": "U+D76C",
+   "cp932": "9c6b",
+   "slot": "U+5F88"
+  },
+  {
+   "char": "흰",
+   "unicode": "U+D770",
+   "cp932": "9c6c",
+   "slot": "U+5F91"
+  },
+  {
+   "char": "히",
+   "unicode": "U+D788",
+   "cp932": "9c6d",
+   "slot": "U+5F87"
+  },
+  {
+   "char": "힉",
+   "unicode": "U+D789",
+   "cp932": "9c6e",
+   "slot": "U+5F9E"
+  },
+  {
+   "char": "힌",
+   "unicode": "U+D78C",
+   "cp932": "9c6f",
+   "slot": "U+5F99"
+  },
+  {
+   "char": "힐",
+   "unicode": "U+D790",
+   "cp932": "9c71",
+   "slot": "U+5FA0"
+  },
+  {
+   "char": "힘",
+   "unicode": "U+D798",
+   "cp932": "9c73",
+   "slot": "U+5FAD"
+  }
+ ]
+}

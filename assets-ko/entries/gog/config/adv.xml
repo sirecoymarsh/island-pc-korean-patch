@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+<document>
+
+  <!-- システムフラグ設定 -->
+  <sysflag>
+    <!-- sscript 起動タイプ -1:はじめから -2:回想 -10:シーン選択 その他:ロードNo -->
+    <boot>512</boot>
+
+    <!-- 回想 endofkaisou (n) -->
+    <kaisou>900</kaisou>
+
+    <!-- サウンド bgm(n) -->
+    <sound>600</sound>
+
+    <!-- キャラクタボイスボリューム （全２６個使用） -->
+    <chvol>670</chvol>
+
+    <!-- セーブロードのページ関連 -->
+    <savepage_now>802</savepage_now>  <!-- 表示したいページの一時保存 -->
+    <savepage_max>803</savepage_max>  <!-- 最大ページ数 -->
+
+    <!-- セーブロードの最新マーク -->
+    <savenew>805</savenew>              <!-- 通常セーブデータの最新番号 -->
+    <savenew_quick>806</savenew_quick>  <!-- クイックセーブデータの最新 -->
+    <savenew_auto>807</savenew_auto>    <!-- オートセーブデータの最新 -->
+
+    <!-- セーブ・ロード画面タイプ 0:セーブ画面 1:ロード画面 -->
+    <sltype>800</sltype>
+
+    <!-- セーブ・ロード画面モード 0:ロードのみ 1:セーブ＆ロード -->
+    <slmode>801</slmode>
+
+    <!-- 『タイトルに戻る』が選択された時にセットされるフラグ -->
+    <rettitle>513</rettitle>
+
+    <!-- 画面スクリプトからムービーを再生する場合のボリューム値がセットされるフラグ -->
+    <movie_vol>514</movie_vol>
+
+    <!-- 履歴から戻る場合のパスインデックス -->
+    <logret_pathindex>545</logret_pathindex>
+
+    <!-- 履歴から戻る場合のステップNo -->
+    <logret_step>546</logret_step>
+
+    <!-- 確認ダイアログメッセージID -->
+    <conf>520</conf>
+
+  </sysflag>
+
+  <!-- システム文字列変数設定 -->
+  <sysstr>
+    <!-- sscript 開始ファイル名 -->
+    <boot>200</boot>
+
+    <!-- ムービーファイル名 -->
+    <movie>500</movie>
+
+    <!-- エクスポートファイル名 この変数番号から２つ使用 -->
+    <export>600</export>
+
+    <!-- fselect コマンド 選択肢列  この番号から選択肢数分使用 最大100個 -->
+    <fsstr>700</fsstr>
+
+    <!-- ウィンドウテーマ設定ファイル名(xml) -->
+    <wndtheme>800</wndtheme>
+
+    <!-- ウィンドウテーマ内初期定義名 -->
+    <wnddef>801</wnddef>
+
+  </sysstr>
+
+
+  <!-- セーブ関連の設定 -->
+  <save>
+    <!-- 選択時のセーブコメント -->
+    <selectcomment>[卜妝雙]</selectcomment>
+    <!-- 通常セーブNo設定 -->
+    <save>
+      <start>0</start>  <!-- セーブ開始番号 -->
+                        <!-- （サンプルではクイックセーブが先に来るためその分をオフセット） -->
+      <count>200</count>  <!-- 最大セーブデータ数（クイック・オート分は含まない） -->
+                          <!-- （セーブロード画面の構造によっては、すべてを使い切らない。 -->
+                          <!-- 　サンプルでは一ページの数[6]×最大ページ数[99]＝594まで。） -->
+    </save>
+
+    <!-- クイックセーブNo設定 -->
+    <quicksave>
+      <start>200</start>  <!-- 開始番号：使用しない場合は-1 -->
+      <count>10</count>  <!-- セーブデータを使用する数 -->
+      <button>1</button>  <!-- メッセージウィンドウなどのQセーブボタン数 -->
+      <loop>1</loop>    <!-- カウンタループを行う場合は1 -->
+    </quicksave>
+
+    <!-- オートセーブNo設定 -->
+    <autosave>
+      <start>210</start> <!-- 開始番号：使用しない場合は-1 -->
+      <count>10</count>  <!-- セーブデータを使用する数 -->
+    </autosave>
+
+    <!-- サムネイルサイズ -->
+    <thumbnail>
+      <width>131</width>
+      <height>74</height>
+    </thumbnail>
+
+    <!-- セーブ時テキスト設定 -->
+    <scene_title>0</scene_title>  <!-- シーンタイトルを使用する場合 -->
+    <strlen>80</strlen>           <!-- 文字数(バイト数) -->
+  </save>
+
+  <!-- その他設定 -->
+  <etc>
+    <meswnd_restore> <!-- 右クリック画面からのメッセージウインドの復帰設定 -->
+      <config>1</config> <!-- 1なら強制表示 -->
+      <save>1</save>
+      <log>1</log>
+    </meswnd_restore>
+
+    <cgreg>
+    	<r00>s</r00>
+    	<r01>w</r01>
+    	<r02>m</r02>
+    	<r03>i</r03>
+    	<r04>z</r04>
+    	<r05>z</r05>
+      <r06>z</r06>
+      <r07>z</r07>
+      <r08>z</r08>
+      <r09>z</r09>
+    </cgreg>
+    <thumbnail>
+    	<base>
+    		<b00>10</b00>  <!--ＣＧのファイル名の長さ-->
+    		<b01>12</b01> <!--サムネイルのファイル名の長さ-->
+    	</base>
+    	<r00>z</r00>    <!--CG鑑賞の画像のとリンク-->
+    	<r01>z</r01>    <!--数字はＣＧ鑑賞のファイルとリンク-->
+    	<r02>z</r02>    <!--タグの内側はＣＧファイル名の頭文字-->
+    	<r03>z</r03>
+    	<r04>z</r04>
+    	<r05>z</r05>
+      <r06>z</r06>
+      <r07>z</r07>
+      <r08>z</r08>
+      <r09>z</r09>
+    </thumbnail>
+  	<automag>1</automag>
+  	<defwnd>meswnd01.xml</defwnd>
+  	<jumpmes>sys_jump</jumpmes>
+
+  	<!-- 環境設定・セーブロード画面呼び出し時のゲーム画面消去設定 -->
+  	<erase>
+  		<config>0</config>
+  		<save>0</save>
+  	</erase>
+
+  	<!-- 拡張メッセージウィンドウボタン -->
+  	<mesbtn>
+  		<ex01></ex01>	<!-- 呼び出し画面スクリプト名 -->
+  		<ex02></ex02>
+  		<ex03></ex03>
+  		<ex04></ex04>
+  		<ex05></ex05>
+  		<ex06></ex06>
+  		<ex07></ex07>
+  		<ex08></ex08>
+  	</mesbtn>
+
+    <!-- オートモードの設定 -->
+    <autoleft>0</autoleft>  <!-- 0=左クリックでストップ、1=左クリックでも継続 -->
+
+    <!-- 履歴から戻るを使用するか（使用する場合は1）-->
+    <use_logreturn>0</use_logreturn>
+  </etc>
+
+</document>
+
+

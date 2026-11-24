@@ -1,0 +1,10 @@
+import sys, re; sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+a = open(r"Y:\SteamLibrary\steamapps\common\ISLAND\config\startup.xml", "rb").read().decode("cp932", "replace")
+b = open(r"P:\AI\Codex\projects\migrated-from-c\onedrive-chatgpt\아일랜드\installation\ISLAND\config\startup.xml", "rb").read().decode("cp932", "replace")
+for name, t in (("steam", a), ("gog", b)):
+    i = t.find("<FONT>"); j = t.find("</FONT>")
+    print("==", name, len(t)); print(t[i:j+7])
+    print("ttf:", [m.start() for m in re.finditer(r"\.ttf", t, re.I)])
+ta = re.findall(r"<([A-Za-z_][\w]*)>", a); tb = re.findall(r"<([A-Za-z_][\w]*)>", b)
+print("tags only in steam:", sorted(set(ta) - set(tb))[:50])
+print("tags only in gog:", sorted(set(tb) - set(ta))[:50])

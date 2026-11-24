@@ -1,0 +1,194 @@
+{
+ "sys_award.hg3": {
+  "frames": 7,
+  "frames_gog": 7,
+  "frames_same_geometry_as_gog": 7,
+  "frame_ids_equal": true
+ },
+ "sys_bgm.hg3": {
+  "frames": 68,
+  "frames_gog": 68,
+  "frames_same_geometry_as_gog": 68,
+  "frame_ids_equal": true
+ },
+ "sys_bgmthum.hg3": {
+  "frames": 130,
+  "frames_gog": 130,
+  "frames_same_geometry_as_gog": 130,
+  "frame_ids_equal": true
+ },
+ "sys_caution.hg3": {
+  "frames": 3,
+  "frames_gog": 3,
+  "frames_same_geometry_as_gog": 3,
+  "frame_ids_equal": true
+ },
+ "sys_cg.hg3": {
+  "frames": 151,
+  "frames_gog": 151,
+  "frames_same_geometry_as_gog": 87,
+  "frame_ids_equal": true
+ },
+ "sys_chartthum_com.hg3": {
+  "frames": 47,
+  "frames_gog": 47,
+  "frames_same_geometry_as_gog": 7,
+  "frame_ids_equal": true
+ },
+ "sys_chartthum_kar.hg3": {
+  "frames": 48,
+  "frames_gog": 48,
+  "frames_same_geometry_as_gog": 0,
+  "frame_ids_equal": true
+ },
+ "sys_chartthum_lin.hg3": {
+  "frames": 35,
+  "frames_gog": 35,
+  "frames_same_geometry_as_gog": 0,
+  "frame_ids_equal": true
+ },
+ "sys_chartthum_sar.hg3": {
+  "frames": 31,
+  "frames_gog": 31,
+  "frames_same_geometry_as_gog": 11,
+  "frame_ids_equal": true
+ },
+ "sys_chartthum_sum.hg3": {
+  "frames": 39,
+  "frames_gog": 39,
+  "frames_same_geometry_as_gog": 23,
+  "frame_ids_equal": true
+ },
+ "sys_chartthum_win.hg3": {
+  "frames": 25,
+  "frames_gog": 25,
+  "frames_same_geometry_as_gog": 7,
+  "frame_ids_equal": true
+ },
+ "sys_dialog.hg3": {
+  "frames": 23,
+  "frames_gog": 23,
+  "frames_same_geometry_as_gog": 7,
+  "frame_ids_equal": true
+ },
+ "sys_dialogconf.hg3": {
+  "frames": 70,
+  "frames_gog": 70,
+  "frames_same_geometry_as_gog": 36,
+  "frame_ids_equal": true
+ },
+ "sys_endinglist.hg3": {
+  "frames": 49,
+  "frames_gog": 49,
+  "frames_same_geometry_as_gog": 28,
+  "frame_ids_equal": true
+ },
+ "sys_eyecatch1.hg3": {
+  "frames": 30,
+  "frames_gog": 30,
+  "frames_same_geometry_as_gog": 30,
+  "frame_ids_equal": true
+ },
+ "sys_eyecatch2.hg3": {
+  "frames": 30,
+  "frames_gog": 30,
+  "frames_same_geometry_as_gog": 30,
+  "frame_ids_equal": true
+ },
+ "sys_flowchart.hg3": {
+  "frames": 55,
+  "frames_gog": 55,
+  "frames_same_geometry_as_gog": 49,
+  "frame_ids_equal": true
+ },
+ "sys_jump.hg3": {
+  "frames": 1,
+  "frames_gog": 1,
+  "frames_same_geometry_as_gog": 1,
+  "frame_ids_equal": true
+ },
+ "sys_log.hg3": {
+  "frames": 31,
+  "frames_gog": 31,
+  "frames_same_geometry_as_gog": 30,
+  "frame_ids_equal": true
+ },
+ "sys_menu.hg3": {
+  "frames": 39,
+  "frames_gog": 39,
+  "frames_same_geometry_as_gog": 27,
+  "frame_ids_equal": true
+ },
+ "sys_movie.hg3": {
+  "frames": 46,
+  "frames_gog": 46,
+  "frames_same_geometry_as_gog": 46,
+  "frame_ids_equal": true
+ },
+ "sys_mwnd.hg3": {
+  "frames": 41,
+  "frames_gog": 41,
+  "frames_same_geometry_as_gog": 41,
+  "frame_ids_equal": true
+ },
+ "sys_novelwnd.hg3": {
+  "frames": 38,
+  "frames_gog": 38,
+  "frames_same_geometry_as_gog": 38,
+  "frame_ids_equal": true
+ },
+ "sys_saveload.hg3": {
+  "frames": 150,
+  "frames_gog": 150,
+  "frames_same_geometry_as_gog": 138,
+  "frame_ids_equal": true
+ },
+ "sys_savepanel.hg3": {
+  "frames": 19,
+  "frames_gog": 19,
+  "frames_same_geometry_as_gog": 19,
+  "frame_ids_equal": true
+ },
+ "sys_scene.hg3": {
+  "frames": 135,
+  "frames_gog": 135,
+  "frames_same_geometry_as_gog": 135,
+  "frame_ids_equal": true
+ },
+ "sys_shortcut.hg3": {
+  "frames": 71,
+  "frames_gog": 71,
+  "frames_same_geometry_as_gog": 25,
+  "frame_ids_equal": true
+ },
+ "sys_sound.hg3": {
+  "frames": 206,
+  "frames_gog": 206,
+  "frames_same_geometry_as_gog": 187,
+  "frame_ids_equal": true
+ },
+ "sys_text.hg3": {
+  "frames": 79,
+  "frames_gog": 79,
+  "frames_same_geometry_as_gog": 44,
+  "frame_ids_equal": true
+ },
+ "sys_title.hg3": {
+  "frames": 37,
+  "frames_gog": 37,
+  "frames_same_geometry_as_gog": 17,
+  "frame_ids_equal": true
+ },
+ "sys_touchmsg.hg3": {
+  "frames": 28,
+  "frames_gog": 28,
+  "frames_same_geometry_as_gog": 28,
+  "frame_ids_equal": true
+ },
+ "sys_touch_conf.hg3": {
+  "frames": 32,
+  "frames_gog": 32,
+  "frames_same_geometry_as_gog": 23,
+  "frame_ids_equal": true
+ }
+}
